@@ -39,3 +39,9 @@ python3 -m pip install -r requirements.txt html2text
 ```bash
 python3 scrapper.py
 ```
+
+### Software Embeding
+
+https://ollama.com/search?q=embeding
+https://www.nomic.ai/gpt4all
+https://platform.openai.com/docs/guides/embeddings
