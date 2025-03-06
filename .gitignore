@@ -57,4 +57,5 @@ Thumbs.db
 *.rar
 
 # Otros
-/downloaded_pages
+/downloaded_pages/
+/markdown_pages/
