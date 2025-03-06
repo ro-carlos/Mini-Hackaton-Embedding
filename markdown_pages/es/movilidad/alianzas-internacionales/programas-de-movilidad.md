@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/movilidad/alianzas-
+internacionales/programas-de-movilidad.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/mobilitat/aliances-internacionals/programes-de-mobilitat.md "Programes de Mobilitat")
+  * [English](en/mobility/international-partnerships/mobility-programs.md "Mobility Programs")
+  * [Español](es/movilidad/alianzas-internacionales/programas-de-movilidad.md "Programas de Movilidad")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/movilidad/alianzas-internacionales/programas-de-movilidad.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,247 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Programas de Movilidad
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Movilidad](es/movilidad.md) » [Alianzas
+Internacionales](es/movilidad/alianzas-internacionales.md) » Programas de
+Movilidad
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Programas de Movilidad](es/movilidad/alianzas-internacionales/programas-de-movilidad.md)
+    * [América Latina](es/movilidad/alianzas-internacionales/programas-de-movilidad/america-latina.md)
+    * [CERN (Conseil Européen pour le Recherche Nucléaire)](es/movilidad/alianzas-internacionales/programas-de-movilidad/cern-conseil-europeen-pour-le-recherche-nucleaire.md)
+    * [Erasmus+](es/movilidad/alianzas-internacionales/programas-de-movilidad/erasmus.md)
+    * [National Institute of Informatics (NII) Tokyo](es/movilidad/alianzas-internacionales/programas-de-movilidad/national-institute-informatics-nii-tokyo.md)
+    * [Programas becados en EUA](es/movilidad/alianzas-internacionales/programas-de-movilidad/programas-becados-en-eua.md)
+    * [SICUE](es/movilidad/alianzas-internacionales/programas-de-movilidad/sicue.md)
+    * [UNITECH](es/movilidad/alianzas-internacionales/programas-de-movilidad/unitech.md)
+    * [Vulcanus](es/movilidad/alianzas-internacionales/programas-de-movilidad/vulcanus.md)
+  * [Redes Universitarias](es/movilidad/alianzas-internacionales/redes-universitarias.md)
+  * [Universidades partner](es/movilidad/alianzas-internacionales/universidades-partner.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+## [América Latina](es/movilidad/alianzas-internacionales/programas-de-
+movilidad/america-latina.md)
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+Tanto la UPC como la FIB tienen suscritos acuerdos con diversas universidades
+de América Latina. Por otro lado, la UPC forma parte de la [red
+CINDA](es/movilidad/alianzas-internacionales/redes-universitarias.md) (Centro
+Interuniversitario de Desarrollo) lo que amplía el abanico de posibilidades
+para hacer una movilidad en un país de esa zona geográfica.
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+Abierto a las siguientes titulaciones:
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+Bachelor Degree in Data Science and Engineering
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+Bachelor Degree in Informatics Engineering
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+Master in Artificial Intelligence
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+Master in Cybersecurity
 
-Consulta toda la información en lo referente a este proceso electoral.
+Master in Data Science
 
-## Noticias
+Master in Informatics Engineering
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+Master in Innovation and Research in Informatics
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Tiene ayuda economica:
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Sí
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+![](https://www.fib.upc.edu/sites/fib/files/america-latina_0.gif)
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+## [CERN (Conseil Européen pour le Recherche
+Nucléaire)](es/movilidad/alianzas-internacionales/programas-de-movilidad/cern-
+conseil-europeen-pour-le-recherche-nucleaire.md)
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+El CERN, _Organisation européene pour la recherche nucléaire_ , ofrece, en
+diferentes programas, la posibilidad de ir a trabajar, realizar prácticas o el
+doctorado.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Abierto a las siguientes titulaciones:
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Bachelor Degree in Data Science and Engineering
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+Bachelor Degree in Informatics Engineering
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+Master in Artificial Intelligence
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+Master in Cybersecurity
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+Master in Data Science
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+Master in Informatics Engineering
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+Master in Innovation and Research in Informatics
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+Tiene ayuda economica:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+Sí
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+![](https://www.fib.upc.edu/sites/fib/files/logo-cern.jpg)
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+## [Erasmus+](es/movilidad/alianzas-internacionales/programas-de-
+movilidad/erasmus.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+Es un programa europeo que tiene una acción específica dedicada a promover la
+movilidad académica de los estudiantes de más de 30 países europeos ([acción
+KA103](sga/es/movilidad/KA103.md)) y una acción específica que tiene como
+objetivo fomentar la movilidad de estudiantes entre países asociados no
+participantes en el programa Erasmus+ ([acción
+KA107](sga/es/movilidad/KA107.md)).
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+Abierto a las siguientes titulaciones:
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+Bachelor Degree in Data Science and Engineering
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+Bachelor Degree in Informatics Engineering
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+Master in Artificial Intelligence
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+Master in Cybersecurity
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+Master in Data Science
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+Master in Informatics Engineering
 
-Primer Concurso UPC de IA
+Master in Innovation and Research in Informatics
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+Tiene ayuda economica:
 
-## Agenda
+Sí
 
-Mar 11 Mar
+![](https://www.fib.upc.edu/sites/fib/files/logo_-_erasmus_0.jpg)
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+## [National Institute of Informatics (NII) Tokyo](es/movilidad/alianzas-
+internacionales/programas-de-movilidad/national-institute-informatics-nii-
+tokyo.md)
 
-__17:00 - 18:30
+Estancia corta, de entre 2 y 6 meses, que ha de comenzar entre junio de un año
+y marzo del siguiente con el propósito de seguir una investigación en temas
+muy diversos. En un curso académico suele haber 2 convocatorias: la primera se
+publica hacia marzo-abril y la segunda hacia septiembre-octubre.
 
-__Sala d'actes Manuel Martí Recober
+Abierto a las siguientes titulaciones:
 
-Mié 12 Mar
+Máster en Ingeniería Informática
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+Máster en Innovación e Investigación en Informática
 
-__16:00 - 17:30
+Máster en Inteligencia Artificial
 
-Mié 12 Mar
+Tiene ayuda economica:
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+Sí
 
-__16:00 - 17:30
+![](https://www.fib.upc.edu/sites/fib/files/logo-nii-480x270.png)
 
-__online
+## [Programas becados en EUA](es/movilidad/alianzas-internacionales/programas-
+de-movilidad/programas-becados-en-eua.md)
 
-[Consulta toda la agenda ](es/agenda.md)
+[Georgia Institut of Technology](index.md), University of Colorado
+[(](engineering-international/europe-colorado-program.md)[Colorado
+Boulder](engineering-international/international-students/balsells-mobility-
+program.md)) y la [University of California](balsells-mobility-program.md)
+(California Irvine), ofrece becas a los estudiantes de grado/máster para
+realizar estancias académicas en las que llevar a cabo exclusivamente el
+TFG/TFM.
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+Abierto a las siguientes titulaciones:
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+Grado en Ciencia e Ingeniería de Datos
 
-__21 Feb 25 - 07 Abr 25
+Grado en Ingeniería informática
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+Grado en Inteligencia Artificial
 
-## Pide cita previa
+Grado+Máster en Ingeniería Informática (programa sucesivo)
 
-* * *
+Máster en Ciencia de Datos
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+Máster en Ingeniería Informática
 
-[Cita previa](ca/cita-previa.md)
+Máster en Innovación e Investigación en Informática
 
-## Premios y reconocimientos
+Máster en Inteligencia Artificial
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+Tiene ayuda economica:
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+Sí
 
-__16 Dec 24
+## [SICUE](es/movilidad/alianzas-internacionales/programas-de-
+movilidad/sicue.md)
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+El Sistema de Intercambio entre Centros Universitarios Españoles, SICUE, es,
+como su nombre indica, un programa de movilidad a nivel español.
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+Abierto a las siguientes titulaciones:
 
-__09 Dec 24
+Bachelor Degree in Data Science and Engineering
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+Bachelor Degree in Informatics Engineering
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+Tiene ayuda economica:
 
-__22 Nov 24
+No
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+![](https://www.fib.upc.edu/sites/fib/files/logo-sicue.png)
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+## [UNITECH](es/movilidad/alianzas-internacionales/programas-de-
+movilidad/unitech.md)
 
-__24 Oct 24
+El programa de movilidad UNITECH está dirigido a estudiantes de ingeniería con
+un alto rendimiento académico, que además tienen un perfil de liderazgo,
+proactividad, buena comunicación, capacidad de trabajo en equipo y otra serie
+de competencias transversales. Este programa se desarrolla en el marco de la
+red UNITECH.
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+Abierto a las siguientes titulaciones:
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+Máster en Ciencia de Datos
 
-__14 Oct 24
+Máster en Innovación e Investigación en Informática
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
+Máster en Inteligencia Artificial
 
-## Haz un recorrido por la historia de la informática
+Tiene ayuda economica:
 
-* * *
+Sí
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+![](https://www.fib.upc.edu/sites/fib/files/logo-unitech.png)
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+## [Vulcanus](es/movilidad/alianzas-internacionales/programas-de-
+movilidad/vulcanus.md)
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+El programa _Vulcanus in Japan_ ofrece la realización de prácticas
+industriales en empresas ubicadas en Japón a los estudiantes de algunas
+universidades europeas. Los participantes tendrán la posibilidad de conocer
+las tecnologías avanzadas que utilizan las empresas japonesas así como
+adentrarse en la cultura japonesa y mejorar o iniciar el conocimiento de su
+lengua.
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+Abierto a las siguientes titulaciones:
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+Bachelor Degree in Data Science and Engineering
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+Bachelor Degree in Informatics Engineering
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+Master in Artificial Intelligence
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+Master in Cybersecurity
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+Master in Data Science
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+Master in Informatics Engineering
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+Master in Innovation and Research in Informatics
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+Tiene ayuda economica:
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+Sí
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+![](https://www.fib.upc.edu/sites/fib/files/logo-vulcanus.jpg)
 
 ## Dónde estamos
 
@@ -1109,5 +995,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/movilidad/alianzas-internacionales/programas-
+de-movilidad.md)
 

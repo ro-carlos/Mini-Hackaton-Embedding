@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/la-fib/vida-universitaria/asociaciones.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/la-fib/vida-universitaria/associacions.md "Associacions")
+  * [English](en/fib/university-life/associations.md "Associations")
+  * [Español](es/la-fib/vida-universitaria/asociaciones.md "Asociaciones")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/la-fib/vida-universitaria/asociaciones.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,811 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Asociaciones
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [La FIB](es/la-fib.md) » [Vida Universitaria](es/la-
+fib/vida-universitaria.md) » Asociaciones
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+[![logo-
+hackers](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+hackers.png?itok=ib0uFzSP)](es/la-fib/vida-universitaria/asociaciones.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+svga_2_0.jpg?itok=pQTXrBN9)](es/la-fib/vida-universitaria/asociaciones.md)
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+defib.jpg?itok=f-MJDvEm)](es/la-fib/vida-universitaria/asociaciones.md)
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+linux-upc.jpg?itok=7CBpT46K)](es/la-fib/vida-universitaria/asociaciones.md)
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_crupc_0.png?itok=EM9buAyO)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_best.png?itok=b6_IixwV)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+jedi_0.jpg?itok=mafkSBfY)](es/la-fib/vida-universitaria/asociaciones.md)
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+txt.jpg?itok=b7lILgpI)](es/la-fib/vida-universitaria/asociaciones.md)
 
-Consulta toda la información en lo referente a este proceso electoral.
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_festafib.jpg?itok=5KBR2kBL)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-## Noticias
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_fiberparty.jpg?itok=n9dcsKfs)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_oasi.jpg?itok=ykHZvg5q)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_vgafib.jpg?itok=rL7WDo64)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_cefib_supersmall.png?itok=qha506_B)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/fibalumni_0.jpg?itok=upmQmP3W)](es/la-
+fib/vida-universitaria/asociaciones.md)
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+[![logo-
+CEO](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logoceo.jpg?itok=M2ZWi-
+uw)](es/la-fib/vida-universitaria/asociaciones.md)
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+fibvisiona.png?itok=JhmcE3i2)](es/la-fib/vida-universitaria/asociaciones.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+themovieupc.png?itok=FXh3_YrC)](es/la-fib/vida-universitaria/asociaciones.md)
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+[![Grey Hat association
+logo](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/greyhat-
+association-logo.jpg?itok=rNRebrxV)](es/la-fib/vida-
+universitaria/asociaciones.md)
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## ¿Quieres crear una asociación?
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+Encuentra toda la información necesaria para crear una asociación
 
-[Cita previa](ca/cita-previa.md)
+[Infórmate cómo hacerlo](es/la-upc/asociaciones/registro-de-asociaciones.md)
 
-## Premios y reconocimientos
+## Hackersatupc
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+![logo-
+hackers](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+hackers.png?itok=ib0uFzSP)
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+**Presidente**
 
-__16 Dec 24
+Eric Serrano Lenzetti
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+**Datos de contacto**
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+C. Jordi Girona, 1-3 Edificio Omega, S103, Campus Nord
 
-__09 Dec 24
+**Web**
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+[https://hackersatupc.org/](index.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+**Redes sociales**
 
-__22 Nov 24
+[Instagram](hackersupc.md), [Twitter](hackersupc.md),
+[Facebook](hackersupc.md), [Youtube](c/HackersUPC.md),
+[LinkedIn](company/hack-upc.md)
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+**Objetivos**
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+● Fomentar la cultura de la innovación y creación de nuevas tecnologías a los
+estudiantes.  
+● Fomentar la participación en hackathons y otros eventos tecnológicos, tanto
+locales  
+como internacionales.
 
-__24 Oct 24
+**Actividades**
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+● Organizar charlas de carácter técnico para presentar nuevas tecnologías o
+tópicos  
+interesantes.  
+● Organizar HackUPC y otras hackathons.  
+● Organizar equipos para participar conjuntamente en conferencias o
+hackathons.
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+**Requisitos para ser socio**
 
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
+Ser estudiante de la UPC
 
 * * *
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+## Series and Video-games Association
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+svga_2_0.jpg?itok=pQTXrBN9)
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+**Presidente**
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+Javier Armaza Bravo
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+**Datos de contacto**
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+C. Jordi Girona, 1-3 Edificio Omega - despacho 104 Campus Nord
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+**Web**
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+[ https://es-es.facebook.com/svgaupc](svgaupc.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+**Redes sociales**
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+[Facebook](svgaupc.md), [Twitter](SVGAupc.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+**Objetivos**
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+Organizar torneos, mirar series, jugar a videojuegos.
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+**Actividades**
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+  * Torneos de todo tipo (LoL, CS:GO, Street Fighter).
+  * Maratones de series.
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+**Requisitos para ser socio**
 
-## Acreditaciones de calidad
+Ser estudiante de la UPC
 
-### Sellos AQU
+* * *
 
-**GEI**
+## Delegación de Estudiantes de la FIB (DEFIB)
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+defib.jpg?itok=f-MJDvEm)
 
-**GCED**
+**Presidente**
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+Francisco Javier Costa Ferrer-Vidal
 
-**GIA**
+**Datos de contacto**
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+93 413 75 96
 
-**MEI**
+Edificio Omega, Despacho 102
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+**Web**
 
-**MIRI**
+[https://defib.upc.edu/](index.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+**Redes sociales**
 
-**MAI**
+[Instagram](defib.upc.md), [Twitter](DEFIB_upc.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+**Objetivos**
 
-**MFPS**
+El objetivo de la DEFIB es asesorar, representar y ayudar al estudiantado de
+la FIB en la medida de nuestras posibilidades.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+**Actividades**
 
-**MDS**
+Algunas de las actividades que llevamos a cabo cada cuatrimestre o año son la
+orla, gestionar los delegados de las asignaturas, la charla de especialidades,
+pertenecer a los órganos de gobierno de la FIB, colaborar con el resto de
+asociaciones, etc. y, obviamente, resolver dudas e incidencias de los
+estudiantes.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+**Requisitos para ser socio**
 
-### Sellos Euro-inf
+El único requisito es ser estudiante de la FIB y tener ganas de contribuir a
+mejorar la facultad o los estudios universitarios.
 
-**GEI**
+* * *
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+## Linux UPC
 
-**MEI y MIRI**
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+linux-upc.jpg?itok=7CBpT46K)
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
+**Presidente**
 
-## La FIB es miembro de
+Marc Marcos Madruga
 
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
+**Datos de contacto**
 
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
+93 413 76 56
 
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
+C. Jordi Girona 1-3, Edificio Omega, Despacho S105 Campus Nord
 
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
+**Web**
 
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+[https://www.linuxupc.upc.edu](index.md)
+
+**Redes sociales**
+
+[Instagram](linuxupc.md), [Twitter](LinuxUPC.md)
+
+**Objetivos**
+
+LinuxUPC es una asociación sin ánimo de lucro, dedicada al estudio y difusión
+del Software Libre en el seno de la Universitat Politècnica de Catalunya. Los
+objetivos de la asociación son:
+
+  1. Promover y formar en el uso de la cultura, las redes y hardware libre en todos los estamentos de la universidad.
+  2. Promover, como actividad de extensión universitaria, la participación en proyectos de software, cultura, redes y hardware libres.
+  3. Promover buenas prácticas en las actividades de especificación, diseño, implementación, implantación y gestión de proyectos de software libre.
+  4. Promover el uso y la colaboración con proyectos de software libre en las actividades de especificación, implementación, implantación y gestión de proyectos de software libre. 
+
+**Actividades**
+
+Charlas, talleres, debates, proyectos propios, participación en hackatons.
+
+**Requisitos para ser socio**
+
+Ser estudiante de la UPC.
+
+* * *
+
+## CRUPC - Club de Rol de la UPC
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_crupc_0.png?itok=EM9buAyO)
+
+**Presidente**
+
+Sara Izquierdo
+
+**Datos de contacto**
+
+C. Jordi Girona, 1-3 Edificio Omega - despacho S101 Campus Nord
+
+**Web**
+
+[https://www.facebook.com/crupc](crupc.md)
+
+**Redes sociales**
+
+[Facebook](crupc.md), [Twitter](CRUPC_UPC.md)
+
+**Objetivos**
+
+Dar a conocer a los primerizos el mundo del rol (incluyendo juegos de mesa, de
+cartas, juegos de rol "de papel y dados" y en general cualquier forma de juego
+de rol interactivo) y ser una asociación donde los jugadores de rol más
+experimentados puedan encontrar compañeros, partidas y jugadores para volver a
+sumergirse en las épicas aventuras que se viven siendo "Roler".
+
+**Actividades**
+
+Partidas de rol semanales (D&D, Pathfinder, Anima Beyond Fantasy, Pangea,
+Mundo de Tinieblas, etc.) partidas de juegos de mesa (BloodBowl, D&D,
+Munchkin, Bang !, Risk, y muchos más), Magic the Gathering habitualmente, con
+torneos y "drafts", y cualquier propuesta que se haga que tenga relación con
+el mundo del rol.
+
+**Requisitos para ser socio**
+
+Tener ganas de ser parte de una comunidad friki abocada al rol y ser activo en
+las actividades, de igual forma que actuar como motor proponiendo y llevando
+adelante otras propuestas.
+
+* * *
+
+## BEST (Board of European Students of Technology)
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_best.png?itok=b6_IixwV)
+
+**Presidente**
+
+Javier Ríos Cuadrado
+
+**Datos de contacto**
+
+93 401 65 41
+
+C. Jordi Girona, 1-3 Edificio A3 - despacho S105 Campus Nord
+
+**Web**
+
+[http://bestbarcelona.org/](index.md)
+
+**Redes sociales**
+
+[Instagram](bestupc.md)
+
+**Objetivos**
+
+Es una asociación internacional de estudiantes de carreras técnicas con
+presencia en 97 universidades europeas y en un total de 33 países. Su objetivo
+es promover Europa entre los estudiantes a través de cursos académicos y no
+académicos en el extranjero o a través de la competición de ingeniería más
+grande de Europa.
+
+**Requisitos para ser socio**
+
+Ser estudiante universitario con muchas ganas de ponerse a prueba y conocer
+Europa.
+
+* * *
+
+## Jedi
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+jedi_0.jpg?itok=mafkSBfY)
+
+**Presidente**
+
+Marçal Comajoan Cara
+
+**Datos de contacto**
+
+93 413 76 60
+
+C/Jordi Girona Salgado, nº 1-3, C4, Planta 0, Campus Norte, 08034 Barcelona
+
+**Web**
+
+[http://jediupc.com/](index.md)
+
+**Redes sociales**
+
+[Instagram](jediupc.md), [Twitter](jediupc.md), [Facebook](jedijrupc.md),
+[LinkedIn](company/jedi-joves-estudiants-d'inform-tica.md)
+
+**Objetivos**
+
+Obtener nuevos conocimientos informáticos que no son impartidos por la
+universidad y enseñar a los estudiantes desde una perspectiva empresarial.
+Formarnos en el mundo laboral y desarrollar la capacidad de innovar y
+emprender nuestros propios proyectos y también mejorar nuestra capacidad de
+liderazgo y gestión de grupos.
+
+**Actividades**
+
+Ofrecemos servicios y desarrollamos proyectos para empresas con la calidad de
+futuros ingenieros a bajo costo ya que no tenemos ánimo de lucro y
+reinvertimos los beneficios en actividades de la asociación. Ofrecemos cursos
+para estudiantes y contratamos profesionales para ampliar nuestra formación.
+
+**Requisitos para ser socio**
+
+Ser estudiante de la FIB.
+
+* * *
+
+## Tecnologia per Tothom
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+txt.jpg?itok=b7lILgpI)
+
+**Presidente**
+
+Fermín Sánchez
+
+**Datos de contacto**
+
+93 405 41 36
+
+C/ Jordi Girona, 1-3, edificio B6 - Campus Nord 08034 Barcelona
+
+**Web**
+
+[https://txt.upc.edu/](index.md)
+
+**Redes sociales**
+
+[Instagram](txtupc.md), [Twitter](upc_txt.md)
+
+**Objetivos**
+
+  * Sensibilizar en los aspectos de compromiso social, ambiental y cooperación al desarrollo humano.
+  * Contribuir mediante las TIC a la mejora de las condiciones de sectores y lugares desfavorecidos.
+  * Promover el compromiso y responsabilidad social y ambiental de la universidad.
+
+**Actividades**
+
+  * Apoyo y realización de proyectos de cooperación al desarrollo y TFG en el ámbito de las TIC. (Con colaboración con el CCD [www.upc.edu/ccd](ccd.md))
+  * Programa de Reutilización de material informático de la UPC.
+  * Apoyo y desarrollo de la Red de Apoyo a la Reutilización de material informático ([https://www.ereuse.org/](index.md)).
+  * Sensibilización y servicio de prestación social por vía de asignaturas de libre elección.
+  * Investigación en TIC para la justicia social, ambiental y en definitiva la sostenibilidad.
+
+* * *
+
+## Associació Cultural FestaFIB
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_festafib.jpg?itok=5KBR2kBL)
+
+**Presidente**
+
+Pau Val Tubau
+
+**Datos de contacto**
+
+93 413 75 96
+
+C. Jordi Girona, 1-3 Edificio Omega - Despacho 102 - Campus Nord
+
+**Redes sociales**
+
+[Instagram](festafib.md), [Twitter](FestaFIB.md),
+[Facebook](events/243972816870983.md), [Twitch](festafib.md)
+
+**Objetivos**
+
+El objetivo de FestaFIB es organizar todas las actividades que se llevan a
+cabo el día de la fiesta de primavera, concursos, conciertos...
+
+**Actividades**
+
+Durante el año vamos haciendo pequeñas actividades para acercar la fiesta a
+los estudiantes y a la vez organizamos y preparamos todo lo necesario para que
+el día de la fiesta todo salga redondo.
+
+**Requisitos para ser socio**
+
+El único requisito es ser estudiante de la FIB y tener ganas de hacer una
+fiesta de la cual disfrutarán todos los Fibers.
+
+* * *
+
+## Associació cultural Fiberparty
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_fiberparty.jpg?itok=n9dcsKfs)
+
+**Presidente**
+
+Marc Benito Bermúdez
+
+**Datos de contacto**
+
+93 413 79 19
+
+C. Jordi Girona, 1-3 Edificio Omega - despacho 101 Campus Nord
+
+**Web**
+
+[ http://www.fiberparty.org](index.md)
+
+**Redes sociales**
+
+[Instagram](fiber_party.md), [Twitter](fiberparty.md),
+[Facebook](fiberparty.md)
+
+**Objetivos**
+
+Fiberparty es una asociación sin ánimo de lucro, dedicada a la organización de
+eventos de carácter tecnológico tanto para profesionales como para
+aficionados, y en la divulgación de las nuevas tecnologías.
+
+**Actividades**
+
+Charlas, talleres, proyectos propios , organización de hackatons y también
+LanParties.
+
+**Requisitos para ser socio**
+
+Ser estudiante de la FIB.
+
+* * *
+
+## L'Oasi. Associació Cultural de la FIB
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_oasi.jpg?itok=ykHZvg5q)
+
+**Presidente**
+
+Wenceslao Chiodi Calo
+
+**Datos de contacto**
+
+93 413 76 61
+
+C. Jordi Girona, 1-3 Edificio Omega - despacho 103 - Campus
+
+**Web**
+
+[ http://www.facebook.com/lOasiFIB](lOasiFIB.md)
+
+**Objetivos**
+
+Actuar como canal de comunicación dentro de la FIB a través de una revista
+periódica y, eventualmente, otras actividades lúdico-culturales.
+
+**Actividades**
+
+Publicación de la revista Oasis. Organización de actividades durante la Fiesta
+de Primavera de la FIB y la Fiesta de Día de la ETSETB.
+
+**Requisitos para ser socio**
+
+Ser miembro de la FIB.
+
+* * *
+
+## Video Games Association d'estudiants de la Facultat d'Informàtica de
+Barcelona (VGAFIB)
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_vgafib.jpg?itok=rL7WDo64)
+
+**Presidente**
+
+Andrei Valentin Constantin Stefan
+
+**Datos de contacto**
+
+93 413 76 59
+
+C. Jordi Girona, 1-3 Edificio Omega - despacho 104 Campus Nord
+
+**Web**
+
+[https://vgafib.org/](index.md)
+
+**Redes sociales**
+
+[Instagram](vgafib.md), [Twitter](vgafib.md)
+
+**Objetivos**
+
+Acercar a los jóvenes a la industria de los videojuegos organizando ponencias,
+encuentros y, a la vez, iniciar o completar los conocimientos del sector a sus
+miembros con una enseñanza teórica y práctica sobre videojuegos, participando
+en trabajos con o sin colaboración de empresas del sector.
+
+**Requisitos para ser socio**
+
+Ser miembro de la FIB
+
+* * *
+
+## CEFIB (Club d'Esports de la FIB)
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo_cefib_supersmall.png?itok=qha506_B)
+
+**Presidente**
+
+Joan Manel Finestres Baldrich
+
+**Datos de contacto**
+
+93 413 76 51
+
+C. Jordi Girona 1-3 Edificio Omega - despacho S204 Campus Nord
+
+**Web**
+
+[https://www.facebook.com/CEFIB-Club-Esports-FIB-190158971025549](CEFIB-Club-
+Esports-FIB-190158971025549.md)
+
+**Redes sociales**
+
+[Instagram](cefibupc.md)
+
+**Objetivos**
+
+¡No todo es estudiar! Si te gusta el deporte, apúntate al Club de Deportes de
+la FIB. ¿Te gusta hacer deporte?, ¿tienes un equipo de tu deporte favorito con
+tus compañeros o compañeras de la FIB?, ¿quieres organizar alguna competición
+deportiva? ¡Pues esta es tu asociación!
+
+**Actividades**
+
+El CEFIB organiza anualmente diversas competiciones internas entre el
+colectivo de estudiantes de la FIB. También participa de forma muy activa en
+la Fiesta FIB haciendo torneos adaptados al formato de un solo día que dura la
+fiesta. Si quieres colaborar con la asociación o pedir información sobre las
+competiciones, aquí tienes los datos de contacto del CEFIB.
+
+**Requisitos para ser socio**
+
+Ser miembro del Servei d'Esports de la UPC
+
+* * *
+
+## FIBAlumni
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/fibalumni_0.jpg?itok=upmQmP3W)
+
+**Presidente**
+
+Mireia Ollé
+
+**Datos de contacto**
+
+Cercle Fiber UPC, Campus Nord, B6 c/Jordi Girona, 1-3 08034 Barcelona
+
+**Web**
+
+[FIB Alumni](index.md)
+
+**Redes sociales**
+
+[Facebook](pg/fibalumni/community.md), [Twitter](FIBAlumni.md),
+[Youtube](user/AlumniFib.md)
+
+**Objetivos**
+
+FIB Alumni quiere ser un referente en la sociedad en cuanto a temas
+relacionados con las tecnologías de la información, y ha demostrado ser una
+herramienta eficaz de contactos entre profesionales titulados de la FIB (real
+networking) y un punto de encuentro entre personas con las mismas inquietudes
+profesionales.
+
+**Actividades**
+
+  * Seminarios formativos,
+  * encuentros TIC,
+  * la Festibity,
+  * conferencias,
+  * actividades sociales.
+
+**Requisitos para ser socio**
+
+Ser titulado de la FIB o miembro del PDI/PAS de la facultad. Los estudiantes
+de los últimos cursos de las titulaciones de la FIB pueden ser miembro junior.
+
+* * *
+
+## Cercle d’Estudis Orientals (CEO)
+
+![logo-
+CEO](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logoceo.jpg?itok=M2ZWi-
+uw)
+
+**Presidente**
+
+Teresa Pilar Pérez
+
+**Datos de contacto**
+
+C. Jordi Girona, 1-3 Edifici Omega - despatx S102
+
+**Web**
+
+[https://ceo.upc.edu/](index.md)
+
+**Redes sociales**
+
+[Facebook](ceobcn.md), [Youtube](ceobcn.md), [Instagram](ceobcn.md),
+[Twitter](ceobcn.md)
+
+**Objetivos**
+
+Organizar actividades que muestren diversas facetas de la cultura oriental, en
+especial de Japón, Corea y China, como el idioma, la expresión audiovisual, la
+música i los aspectos tradicionales.
+
+Así mismo, organizar actividades de carácter social para dinamizar la vida del
+Campus Nord de la UPC, con el propósito de intercambiar conocimientos,
+promover lazos de unión y establecer un diálogo entre individuos que comparten
+inquietudes parecidas.
+
+**Actividades**
+
+  * Proyecciones de Animación Japonesa
+  * Ciclos de Cine Asiático
+  * Cursos intensivos de introducción a la lengua y cultura japonesa, coreana i china
+  * Coral Anime CEO
+  * Jornadas Culturales
+  * Club de Lectura
+
+* * *
+
+## FIB Visiona
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+fibvisiona.png?itok=JhmcE3i2)
+
+**Presidente**
+
+Miguel Carrasco Guirao
+
+**Datos de contacto**
+
+934 13 75 96
+
+Calle Jordi Girona 1 – 3, Edificio Omega, despacho 102. Barcelona, 08034
+
+**Web**
+
+[https://fibvisiona.com](index.md)
+
+**Redes sociales**
+
+[Instagram](fibvisiona.md), [Twitter](FibVisiona.md), [LinkedIn](company/fib-
+visiona.md)
+
+**Objetivos**
+
+  * Conectar a alumnos y exalumnos FIBers con organizaciones del sector TI, para que puedan encontrar oportunidades laborales.
+  * Incrementar el reconocimiento social y empresarial de la FIB y la UPC.
+  * Informar y ayudar a la comunidad FIBer en materias de formación, orientación laboral y proyección profesional.
+
+**Actividades**
+
+  * Feria de empresas.
+  * Talleres y cursos con organizaciones
+  * Charlas y talleres de formación, orientación laboral y proyección profesional. 
+
+**Requisitos para ser socio**
+
+  * Se tiene que estar vinculado con la Facultad de Informática de Barcelona.
+  * Será necesario el aval de dos personas ya miembros de la asociación.
+
+* * *
+
+## TheMovieUPC
+
+![](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/logo-
+themovieupc.png?itok=FXh3_YrC)
+
+**Presidente**
+
+Ghofrane Zirouh
+
+**Datos de contacto**
+
+**Redes sociales**
+
+[Instagram](themovieupc.md)
+
+**Objetivos**
+
+Dar a conocer, difundir, desarrollar y crear espacios para el conocimiento y
+acercamiento del cine.
+
+**Actividades**
+
+Exhibición y maratones de obras audiovisuales, tanto en espacios cerrados o al
+aire libre, fomentar el debate de obras culturales.
+
+**Requisitos para ser socio**
+
+Tienen que formar parte de comunidad universitaria de la Universitat
+Politècnica de Catalunya, ya sean cómo Estudiante de Grado y Máster, Profesor
+Docente e Investigador o Personal Administrativo y de Servicios.
+
+* * *
+
+## GreyHat UPC
+
+![Grey Hat association
+logo](https://www.fib.upc.edu/sites/fib/files/styles/logo_associacions/public/greyhat-
+association-logo.jpg?itok=rNRebrxV)
+
+**Presidente**
+
+Joan Regidor Sanfeliu
+
+**Datos de contacto**
+
+C/ Jordi Girona, 1-3 Edifici Omega 08034 Barcelona (Campus Nord UPC)
+
+**Web**
+
+[https://www.greyhatupc.com/](index.md)
+
+**Redes sociales**
+
+[Instagram](greyhatupc.md)
+
+**Objetivos**
+
+GreyHat UPC es una asociación de hacking ético y seguridad informática. Los
+objetivos de la asociación son los siguientes:
+
+  * Concienciar sobre los peligros del mal uso de la tecnología.
+  * Organizar actividades, como talleres prácticos o CTF (_Capture The Flag_), para promover la formación y la educación en materia de seguridad informática y hacking ético.
+  * Establecer relaciones con otras asociaciones o grupos similares en otras instituciones educativas o profesionales para intercambiar información e ideas.
+
+**Actividades**
+
+Charlas, talleres y participación constante en CTF y plataformas de práctica
+de seguridad informática. Siempre dentro de un marco legal.
+
+**Requisitos para ser socio**
+
+Ser estudiante de la UPC.
+
+* * *
 
 ## Dónde estamos
 
@@ -1109,5 +1558,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/la-fib/vida-universitaria/asociaciones.md)
 

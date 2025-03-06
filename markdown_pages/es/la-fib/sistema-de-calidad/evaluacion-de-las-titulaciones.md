@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/la-fib/sistema-de-calidad/evaluacion-de-las-
+titulaciones.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/la-fib/sistema-de-qualitat/avaluacio-de-les-titulacions.md "Avaluació de les titulacions")
+  * [English](en/fib/quality-system/qualification-assessment.md "Qualification assessment")
+  * [Español](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md "Evaluación de las titulaciones")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,250 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
-
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
-
-[web de los másteres de la FIB](index.md)
-
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
-
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
-
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
-
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
-
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
-
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
-
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
-
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
-
-Consulta toda la información en lo referente a este proceso electoral.
-
-## Noticias
-
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
-
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
-
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+# Evaluación de las titulaciones
+
+## Usted está aquí
+
+[Inicio](es.md) » [La FIB](es/la-fib.md) » [Sistema de Calidad](es/la-
+fib/sistema-de-qualitat.md) » Evaluación de las titulaciones
+
+  * [Política y objetivos de calidad en la FIB](es/la-fib/sistema-de-calidad/politica-y-objetivos-de-calidad-en-la-fib.md)
+  * [Sistema de Garantía Interna de Calidad](es/la-fib/sistema-de-calidad/sistema-de-garantia-interna-de-calidad.md)
+  * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
+  * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
+
+El ciclo de vida de una titulación en el espacio europeo EEES, lo configuran
+una serie de procesos de evaluación: la **verificación** inicial, el
+**seguimiento** de la implantación, la introducción de posibles
+**modificaciones** y la **acreditación**.
+
+Se puede consultar el marco de supervisión de titulaciones ([Marco VSMA de
+Verificación, Seguimiento, Modificación y
+Acreditación](es/Universidades/Evaluacion-de-titulaciones/Marco-VSMA.md)) de
+AQU (Agencia para la Calidad del Sistema Universitario de Cataluña), y como la
+UPC lo ha [implantado en sus centros y
+titulaciones](seguimentdetitulacions.md)
+
+Estos procesos, en el caso de la FIB, se han realizado de forma completa a la
+titulación de Grado en Ingeniería Informática (GEI), y a tres titulaciones de
+Máster (MEI, MIRI, MAI). Estos tres másteres y el GEI son el inicio de
+titulaciones FIB verificadas en el espacio europeo EEES (a partir de los
+informes de verificación iniciales y los primeros [informes de
+seguimiento](es/www.fib.upc.edu/es/evaluacion-de-las-titulaciones.md)).
+
+A partir de 2016 la FIB coordina también otra titulación de máster (MSEC) que
+inició su ciclo con el informe de verificación y un primer informe de
+acreditación fuera de la FIB, pero el proceso de seguimiento de 2017 y el de
+re-acreditación durante 2018-2019 ya se realiza bajo el SGIQ de la FIB.
+
+El Grado en Ciencia e ingeniería de Datos (GCED) ha empezado su ciclo con el
+[informe de verificación inicial](es/evaluacion-de-las-titulaciones.md) e
+implantación durante el curso 2017-2018.
+
+El estado actual de todas las titulaciones de la FIB se puede consultar a
+partir del estado al [Registro de Universidades, Centros y
+Títulos](ruct/home.md) (RUCT) de cada titulación, los resultados y [sellos de
+AQU](es/Universidades/Otros/Sellos-y-certificados-de-calidad.md) a partir del
+portal EUC, y el histórico de los resultados de los informes de todas las
+titulaciones a partir de EUC-informes.
+
+**Registro de Universidades, Centros y Títulos de las titulaciones:**
+
+  * [Grado en Ingeniería Informática](ruct/estudio.action.md)
+  * [Grado en Inteligencia Artificial](ruct/estudiocentro.action.md)
+  * [Grado en Ciencia e Ingeniería de Datos](ruct/estudio.action.md)
+  * [Máster en Ingeniería Informática](ruct/estudio.action.md)
+  * [Máster en Innovación e Investigación en Informática](ruct/estudio.action.md)
+  * [Máster en Inteligencia Artificial](ruct/estudio.action.md)
+  * [Máster en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas](ruct/estudio.action.md)
+  * [Máster en Ciencia de Datos](ruct/estudiocentro.action.md)
+
+## Verificación de las titulaciones
+
+La Agencia para la Calidad del Sistema Universitario de Cataluña (AQU
+Cataluña) tiene las atribuciones legales y la competencia técnica para emitir
+los informes previos de evaluación para la verificación de enseñanzas
+oficiales en Cataluña.
+
+Una vez la enseñanza ha sido verificada, la Generalitat lo tiene que autorizar
+para que se pueda implantar, de acuerdo con los criterios de programación que
+establezca y la disponibilidad de financiación. Finalmente, el Consejo de
+Ministros establece el carácter oficial de los títulos universitarios y ordena
+su inclusión en el Registro de Universidades, Centros y Títulos (RUCT).
+
+  * Grado en Ingeniería Informática - [memoria verifica](sites/fib/files/documents/fib/qualitat-memoria-verifica-gei-es.pdf.md)
+  * Grado en Inteligencia Artificial - [memoria verifica](sites/fib/files/documents/actes/memoria_i_esmenes_verificacio_grau_intelligencia_artificial_fib_jf-1.07.2020_0.pdf.md)
+  * Grado en Ciencia e Ingeniería de Datos - [memoria verifica](sites/fib/files/documents/fib/qualitat-memoria-verifica-gced-es.pdf.md)
+  * Máster en Ingeniería Informática - [memoria verifica](sites/fib/files/documents/fib/qualitat-memoria-verifica-mei-es.pdf.md)
+  * Máster en Innovación e Investigación en Informática - [memoria verifica](sites/fib/files/documents/fib/qualitat-memoria-verifica-miri-es.pdf.md)
+  * Máster en Inteligencia Artificial - [memoria verifica](sites/fib/files/documents/fib/qualitat-memoria-verifica-mai-es.pdf.md)
+  * Máster en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas - memoria verifica - [informe de verificació](ruct/estudio.action.md)
+  * Máster en Ciencia de Datos - [memoria verifica](sites/fib/files/documents/actes/memoria_verificacio_i_annexos_mu_data_science_jf-01.07.2020-penjatwebfib.pdf.md)
+
+## Seguimiento de las titulaciones
+
+El seguimiento de las titulaciones es un proceso de evaluación que hacen los
+responsables de la titulación en relación a su despliegue.
+
+Las titulaciones verificadas tienen que hacer un seguimiento de la enseñanza a
+partir del análisis de datos y de indicadores, y la elaboración, si procede,
+de propuestas de mejora que sirvan para corregir las desviaciones observadas
+entre el diseño de los títulos hecho a la verificación y su posterior
+desarrollo.
+
+**A partir del curso 2013-2014 los informes de seguimiento se encuentran
+integrados en las[memorias académicas](ca/la-fib/la-facultat/la-facultat-en-
+xifres.md) de la Facultad.**
+
+  * Grado en Ingeniería Informática 
+    * curso 2012-2013: [Informe de seguimiento de la titulación](sites/fib/files/documents/fib/qualitat-seguiment-gei-ist-12-13.pdf.md)
+    * curso 2011-2012: [Informe de seguimiento de la titulación](sites/fib/files/documents/fib/qualitat-seguiment-gei-ist-11-12.pdf.md) \- [Informe de evaluación del seguimiento de titulación](sites/fib/files/documents/fib/qualitat-seguiment-gei-iast-11-12.pdf.md)
+    * curso 2010-2011: [Informe de seguimiento de la titulación](sites/fib/files/documents/fib/qualitat-seguiment-gei-ist-10-11.pdf.md)
+  * Grado en Inteligencia Artificial
+  * Grado en Ciencia e Ingeniería de Datos
+  * Máster en Ingeniería Informática 
+    * curso 2012-2013: [Informe de seguimiento de la titulación](sites/fib/files/documents/fib/qualitat-seguiment-mei-ist-12-13.pdf.md)
+  * Máster en Innovación e Investigación en Informática 
+    * curso 2012-2013: [Informe de seguimiento de la titulación](sites/fib/files/documents/fib/qualitat-seguiment-miri-ist-12-13.pdf.md)
+  * Máster en Inteligencia Artificial 
+    * curso 2012-2013: [Informe de seguimiento de la titulación](sites/fib/files/documents/fib/qualitat-seguiment-mai-ist-12-13.pdf.md)
+  * Máster en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas 
+    * curso 2016-2017: [Informe de seguimiento de la titulación](sites/fib/files/documents/fib/qualitat-seguiment-msec-ist-16-17.pdf.md)
+  * Máster en Ciencia de Datos
+
+## Modificación de las titulaciones
+
+Las propuestas de modificación de los títulos son fruto del proceso de
+seguimiento.
+
+  * Grado en Ciencia e Ingeniería de Datos: [Informe AQU modificación](sites/fib/files/documents/fib/informe_modif_aqu_gr_ciencia_i_eng_dades.pdf.md) (en catalán).
+
+## Acreditación de las titulaciones
+
+La [acreditación](es/Universidades/Evaluacion-de-titulaciones/Acreditacion.md)
+es la comprobación a partir de una visita externa que la titulación se está
+desarrollando tal como estaba planificada a la verificación.
+
+  * Grado en Ingeniería Informática​ 
+    * curso 2020-2021: [autoinforme](sites/fib/files/documents/fib/fib-upc-self-assessment-report-2021-v1.pdf.md); [Euro-inf report](sites/fib/files/documents/fib/qualitat-accreditation-report-euro-inf-gei-mei-miri-2021.pdf.md); [informe de evaluación](sites/fib/files/documents/fib/qualitat-informe-avalucio-gei-juny-2022.pdf.md)
+    * curso 2015-2016: [autoinforme](sites/fib/files/documents/fib/qualitat-autoinforme-15-16-en.pdf.md)
+  * Grado en Inteligencia Artificial
+  * Grado en Ciencia e Ingeniería de Datos 
+  * Máster en Ingeniería Informática 
+    * curso 2020-2021: [autoinforme](sites/fib/files/documents/fib/fib-upc-self-assessment-report-2021-v1.pdf.md); [Euro-inf report](sites/fib/files/documents/fib/qualitat-accreditation-report-euro-inf-gei-mei-miri-2021.pdf.md)
+    * curso 2015-2016: [autoinforme](sites/fib/files/documents/fib/qualitat-autoinforme-15-16-en.pdf.md)
+  * Máster en Innovación e Investigación en Informática 
+    * curso 2020-2021: [autoinforme](sites/fib/files/documents/fib/fib-upc-self-assessment-report-2021-v1.pdf.md); [Euro-inf report](sites/fib/files/documents/fib/qualitat-accreditation-report-euro-inf-gei-mei-miri-2021.pdf.md)
+    * curso 2015-2016: [autoinforme](sites/fib/files/documents/fib/qualitat-autoinforme-15-16-en.pdf.md)
+  * Máster en Inteligencia Artificial 
+    * curso 2020-2021: [autoinforme](sites/fib/files/documents/fib/fib-upc-self-assessment-report-2021-v1.pdf.md); [acreditació AQU](sites/fib/files/documents/fib/qualitat-aqu-acreditacio-mai-2021.pdf.md); [Informe de evaluación externa](sites/fib/files/documents/fib/qualitat-fib-mai-informe-avaluacio-externa-2021.pdf.md)
+    * ​curso 2015-2016: [autoinforme](sites/fib/files/documents/fib/qualitat-autoinforme-15-16-en.pdf.md)
+  * Máster en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas 
+    * curso 2018-2019: [informe de reacreditación](sites/fib/files/documents/fib/qualitat-autoinforme-reacreditacio-msec-18-19.pdf.md)
+  * Máster en Ciencia de Datos
+
+## Procesos de acreditación
+
+### Proceso de acreditación de titulaciones durant el 2022-2023
+
+En el [marco VSMA](seguimentdetitulacions/ca.md) por la calidad de las
+titulaciones universitarias, la titulación GCED se encuentran en proceso de
+renovación de su [acreditación](es/Universidades/Evaluacion-de-
+titulaciones/Acreditacion.md).
+
+Un elemento básico de este procedimiento es la elaboración del informe de
+acreditación por parte del centro. Este informe es el resultado de la tarea
+realizada por el comité de Acreditación Interno, y en especial de los miembros
+de la dirección del grado, los equipos directivos y el PAS responsable de
+sistema interno de garantía de la calidad de la FIB, la ETSETB y la FME.
+
+El informe tiene que ser público a toda la comunidad, que puede hacer llegar
+sus comentarios y propuestas antes de la aprobación final a los órganos de
+gobierno de la Facultad.
+
+![](/sites/fib/files/images/pdf.png)[Informe de
+acreditación](sites/fib/files/documents/fib/iat_gced_ep.pdf.md) de la
+titulación GCED.
+
+El periodo de exposición pública en el cual recibiremos vuestros comentarios,
+está abierto **hasta el 19 de diciembre a las 12.00 horas** , mediante el
+siguiente formulario:
+
+![](/sites/fib/files/images/google-forms-logo-transparent-13x16.png)
+[Formulario](forms/d/e/1FAIpQLSe53k2WKPH7tn2280CGwZSzzHhF-1_rWZLLaDQEr5v26cVhow/viewform.md)
+(en catalán)(es necesario acceder con vuestra cuenta GSuite UPC)
+
+En caso de que sea necesario os podéis dirigir a
+
+#### Calendario
+
+  * Del 9 al 19 de diciembre. Exposición pública del informe de acreditación
+  * 21 de diciembre. Aprobación del informe por la Comisión Permanente de la FIB
+  * 21 de diciembre. Entrega del informe al GPAQ y AQU Cataluña
+
+### Proceso de acreditación de titulaciones durant el 2020-2021
+
+En el [marco VSMA](seguimentdetitulacions/ca.md) por la calidad de las
+titulaciones universitarias, las titulaciones GEI, MEI, MIRI y MAI se
+encuentran en proceso de renovación de su
+[acreditación](es/Universidades/Evaluacion-de-titulaciones/Acreditacion.md), y
+de los sellos de calidad europeo [Euro-Inf](quality-label.md).
+
+Un elemento básico de este procedimiento es la elaboración del informe de
+acreditación por parte del centro. Este informe es el resultado de la tarea
+hecha por el Comité de Acreditación Interno, y en especial de los miembros del
+equipo decanal y el PAS responsable de sistema interno de garantía de la
+calidad.
+
+El informe tiene que ser público a toda la comunidad, que puede hacer llegar
+sus comentarios y propuestas antes de la aprobación final a los órganos de
+gobierno de la Facultad.
+
+![](/sites/fib/files/images/pdf.png)[ Informe de
+Acreditación](sites/fib/files/documents/fib/fib-upc-self-assessment-
+report-2021-v1.pdf.md) de las Titulaciones GEI, MEI, MIRI y MAI.
+
+### Proceso de acreditación de titulaciones durante 2018-2019
+
+El 2018 se ha iniciado un nuevo proceso de acreditación en la FIB,
+correspondiendo a la re-acreditación obligatoria del máster MSEC. El [informe
+de re-
+acreditación](sites/fib/files/documents/fib/2018_autoinforme_reacreditacio_msec_fib_octubre.pdf.md)
+se hizo público, y se aprobó en Comisión Permanente del 24 de octubre de 2018.
+
+El 2019 hay la visita del Comité de Evaluación Externa (CAE): el viernes 26 de
+abril con
+[esta](sites/fib/files/documents/composicio_i_agenda_cae_msec_0.pdf.md)
+composición y programa
+
+### Proceso de acreditación de titulaciones durante 2015-2016-2017
+
+El 2015, el Grado en Ingeniería Informática (GEI) y tres másteres (MAI, MEI y
+MIRI) iniciaron el proceso de acreditación con la elaboración de un
+autoinforme (SAR, Self Assessment Reprt) aprobado en Junta de Facultad de 2 de
+diciembre de 2015). El autoinforme correspondía a la acreditación por AQU y
+también a la acreditación internacional del _[Euro-Inf label](en/quality-
+management/accreditation-degree-programmes/quality-seals-offered/euro-inf-
+label.html.md)_ con la agencia [ASIIN](en.md) para las titulaciones GEI, MEI y
+MIRI. En el caso del MAI se optó para acreditar una dimensión adicional de
+internacionalización de AQU.
+
+El 2016 (mayo) se produjo la visita del Comité de Evaluación Externa (CAE). El
+análisis de este comité (con representantes tanto de la agencia de calidad
+catalana AQU como de la alemana ASIIN) dio lugar a la versión definitiva del
+autoinforme. Entre los meses de octubre y noviembre se recibieron los informes
+de acreditación favorables, tanto de AQU (con mención de excelencia para el
+GEI, MAI y MIRI) como de [ASIIN](en.md) ([ficha e informe de
+acreditación](pages/de/asiin/akkreditierung-studiengaenge/akkreditierte-
+studiengaenge.php.md) del sello _[Euro-Inf label](en/quality-
+management/accreditation-degree-programmes/quality-seals-offered/euro-inf-
+label.html.md)_ a GEI, MEI y MIRI).
+
+El 2017 (mayo) se produjo la visita del Comité de Evaluación Externa (CAE)
+para la evaluación de la dimensión adicional de internacionalización del MAI y
+en fecha 2 de agosto de 2017 tiene acreditada esta dimensión.  
+También el 2017 se realizó el proceso de seguimiento obligatorio del máster
+MSEC.
 
 ## Dónde estamos
 
@@ -1109,5 +998,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/la-fib/sistema-de-calidad/evaluacion-de-las-
+titulaciones.md)
 

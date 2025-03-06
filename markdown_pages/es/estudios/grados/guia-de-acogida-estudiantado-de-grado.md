@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/grados/guia-de-acogida-
+estudiantado-de-grado.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/graus/guia-dacollida-estudiantat-de-grau.md "Guia d'acollida estudiantat de grau")
+  * English
+  * [Español](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md " Guía de acogida estudiantado de grado")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,443 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Guía de acogida estudiantado de grado
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) » [Grados](es/estudios/grados.md)
+» Guía de acogida
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+## ¡¡Te damos la bienvenida a la FIB!!
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+A continuación encontrarás información muy útil en tu primer año de estudios
+en el grado en Ingeniería Informática (GEI), en el grado en Ciencia e
+Ingeniería de Datos (GCED) o en el grado en Inteligencia Artificial (GIA), y
+también orientaciones basadas en la experiencia de los jefes y las jefas de
+estudios, del profesorado y del estudiantado que te ha precedido.
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+[![Card image
+cap](/sites/fib/files/images/fib/edifici-b6-principal-2020-700x300.png)](es/estudios/grados/guia-
+de-acogida-estudiantado-de-grado.md)
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+### [Cómo se organiza la docencia](es/estudios/grados/guia-de-acogida-
+estudiantado-de-grado.md)
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+Que debes saber de la docencia
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+[![Card image cap](/sites/fib/files/images/cita-previa-g-
+br.png)](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+### [Cómo obtener + información](es/estudios/grados/guia-de-acogida-
+estudiantado-de-grado.md)
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+Dónde está la información
 
-Consulta toda la información en lo referente a este proceso electoral.
+[![Card image
+cap](/sites/fib/files/images/estudis/help-700x300-br.png)](es/estudios/grados/guia-
+de-acogida-estudiantado-de-grado.md)
 
-## Noticias
+### [Plan de acción Tutorial](es/estudios/grados/guia-de-acogida-estudiantado-
+de-grado.md)
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+¿Empiezas como estudiante nuevo? ¡Te ayudamos!
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+[![Card image cap](/sites/fib/files/images/secundaria/questions-
+br.png)](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+### [¿A quien preguntar?](es/estudios/grados/guia-de-acogida-estudiantado-de-
+grado.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+¿Necesitas ayuda pero no sabes a quien preguntar?
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## Docencia FIB
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+Para empezar bien te interesa conocer cómo se organiza la docencia en la FIB
 
-[Cita previa](ca/cita-previa.md)
+#### [**Antes de empezar**](es/estudios/grados/guia-de-acogida-estudiantado-
+de-grado.md)
 
-## Premios y reconocimientos
+La Facultad ofrece al estudiantado del GEI un curso gratuito de repaso de las
+asignaturas de física y matemáticas, materias básicas en ingeniería. [Curso
+intensivo](es/estudios/grados/grado-en-ingenieria-informatica/matricula/curso-
+intensivo.md)
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+#### [¿**Cómo se organizan los cursos?**](es/estudios/grados/guia-de-acogida-
+estudiantado-de-grado.md)
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+La organización de los estudios es cuatrimestral. Cada curso tiene dos
+cuatrimestres, cada uno con el correspondiente periodo de matrícula ordinaria
+(julio y febrero). Las asignaturas obligatorias se imparten solo en su
+cuatrimestre natural en el GCED y al GIA. En el GEI se imparten todos los
+cuatrimestres.
 
-__16 Dec 24
+Los cuatrimestres son sorprendentemente cortos, y el ritmo de trabajo es
+bastante más intenso que el que seguramente tenías por costumbre hasta ahora,
+incluso si sacabas buenas notas. _Debes empezar a trabajar desde el primer
+día_.
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+Hay una semana de exámenes parciales a medio cuatrimestre y los exámenes
+finales se hacen una vez acabadas las clases ([consulta el calendario
+académico](ca/estudis/secretaria/calendaris-academics.md)). Cada asignatura
+puede programar también otras actas de evaluación, tal y como puede
+consultarse a la Guía Docente. Por otro lado, algunas asignaturas obligatorias
+tienen exámenes de reevaluación. Consulta como funciona la [reevaluación para
+el GEI](es/estudios/grados/grado-en-ingenieria-informatica/plan-de-
+estudios/reevaluaciones.md) y para el [GCED](ca/estudis/graus/grau-en-ciencia-
+i-enginyeria-de-dades/normativa-academica-i-organitzacio.md).
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+Consulta la página de los exámenes finales y parciales ([GEI](es/estudios/grados/grado-en-ingenieria-informatica/examenes.md) | [GCED](ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/examens.md) | [GIA](es/estudios/grados/grado-en-inteligencia-artificial/examenes.md)), te ayudará a organizarte el cuatrimestre. 
 
-__09 Dec 24
+Te ayudará mucho hacerte un grupo de compañeros y compañeras para trabajar.
+Quién se sienta a tu lado seguramente tiene las mismas dudas que tú, y seguro
+que querría encontrar alguien con quién estudiar y hacer problemas. Piensa que
+las amistades que harás en la universidad son para toda la vida, con quien
+vivirás experiencias irrepetibles, dentro y fuera de la Facultad. Recuerda,
+pero, que eres tú quien tiene que superar las asignaturas.
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+#### [**¿Es posible trabajar y a la vez estudiar en la
+Facultad?**](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+En general, la Facultad organiza sus estudios suponiendo que el estudiantado
+se dedica de forma prioritaria, en especial a la Fase Inicial. Ciertamente, la
+Facultad os alienta a hacer otras actividades, pero también  _espera que
+dediquéis a los estudios un volumen de horas comparable al de una jornada
+laboral a tiempo completo_.
 
-__22 Nov 24
+Si tienes otras obligaciones que limitan tu horario, especialmente laborales,
+te puede interesar acogerte a la dedicación parcial. No hay ningún trato
+especial para el estudiantado que trabaja en cuanto a elección de horarios.
+También te puede convenir acogerte a la dedicación a tiempo parcial si eres
+**deportista de alto rendimiento** o si tienes **necesidades educativas
+especiales**. En el primer caso deberías dirigirte al [servicio de
+deportes](esports/ca/competicions/tutoresport-upc.md) y en el segundo es
+importante que te dirijas al [servicio de inclusión](ca.md) que determinará
+que adaptaciones necesitas.
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+Algunos estudiantes que en los primeros cuatrimestres no les va muy bien
+deciden ponerse a trabajar, «para no perder del todo el tiempo». Si quieres
+continuar en la Facultad, esta es una estrategia muy desaconsejable. La
+solución es concentrarse más en los estudios, no menos.
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+#### [¿**Cómo funcionan las clases en la Facultad?**](es/estudios/grados/guia-
+de-acogida-estudiantado-de-grado.md)
 
-__24 Oct 24
+Para sacar el máximo provecho de las clases es muy aconsejable repasar lo que
+se ha hecho el día anterior y hacer las tareas propuestas por el profesorado.
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+En la mayoría de las asignaturas hay clases de teoría, problemas y/o
+laboratorio.
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+En las clases de problemas, en general, el profesorado supondrá que has
+intentado resolver los problemas propuestos antes. Cuando decimos «intentado»
+queremos decir « _intentado seriamente_ »: es decir, que no has abandonado en
+el primer obstáculo... ni en el segundo. Esta tenacidad es un requisito
+indispensable para superar tus estudios a la FIB.
 
-__14 Oct 24
+En las horas de laboratorio, el profesor o profesora probablemente te pedirá
+que hayas preparado antes algún material y que, después de clase, pases un
+rato acabando el trabajo o sacando conclusiones. A menudo, es imposible seguir
+la clase de laboratorio sin esta preparación previa. Y también a menudo, una
+parte muy instructiva de la clase de laboratorio es el trabajo que tienes que
+realizar una vez acabada.
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
+Además de los exámenes finales y parciales publicados en la web de la FIB ([GEI](es/estudios/grados/grado-en-ingenieria-informatica/examenes.md) | [GCED](ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/examens.md) | [GIA](es/estudios/grados/grado-en-inteligencia-artificial/examenes.md)) y que son comunes para todos los alumnos de una misma asignatura, puede haber actos de evaluación en horas de clase. 
 
-## Haz un recorrido por la historia de la informática
+#### [¿**Que son las «horas de consulta» del
+profesorado?**](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
+
+Cada profesor o profesora fija un horario semanal de consultas, que comunicará
+a principio de curso. En ellas, se compromete a atender las preguntas que
+puedas tener sobre la asignatura.
+
+_Uno de los mejores consejos que te podemos dar para obtener buenos resultados
+en la FIB, es que aproveches para hacer las horas de consulta al profesorado,
+cuanto antes mejor._
+
+Eso sí, el profesorado no aceptará que las horas de consulta se conviertan en
+«clases particulares» si no has hecho un mínimo esfuerzo previo. Si el
+profesorado ve que has puesto este esfuerzo, no le sabrá mal responder las
+preguntas que le hagas, por muy elementales que a ti te parezcan.
+
+#### [¿**Que es la evaluación curricular de fase
+inicial?**](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
+
+  
+La fase inicial está formada por las asignaturas de primer curso (Q1 y Q2).
+
+  * GEI: F, FM, IC, PRO1, EC, M1, M2 y PRO2. [Pla de estudios GEI](ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis.md).
+  * GCED: CAL, ALG,LMD, AP1, AC2, PIE1, COM y AP2. [Plan de estudios GCED](ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/pla-destudis.md).
+  * GIA: FM, ALG, PA1, FC, CRA, CAL, IE, PA2, IR y MSS. [Plan de estudios GIA](es/estudios/grados/grado-en-inteligencia-artificial/plan-de-estudios.md).
+
+Un _bloque curricular_ es un grupo de asignaturas que se evalúan globalmente.
+La evaluación del bloque se llama e _valuación curricular_. Esta evaluación
+permite que alguna asignatura con una nota entre 4 y 4,9 pase a estar aprobada
+en función de tu rendimiento al resto de asignaturas del bloque. El bloque
+curricular de fase inicial se supera si se aprueban todas las asignaturas que
+lo forman, pero, además, la comisión correspondiente puede fijar otros
+criterios para superarlo. Hay que tener en cuenta que la evaluación no es
+automática y que la comisión puede aplicar, en cualquier momento, los
+criterios que considere más adecuados.
+
+Las evaluaciones curriculares se realizan al final de cada cuatrimestre, una
+vez entregadas las notas de todas las asignaturas. El estudiantado que ya ha
+cursado todas las asignaturas del bloque correspondiente, es evaluado, sin que
+lo tenga que pedir, por la [Comisión de Evaluación Curricular de la Fase
+Inicial del GCED](ca/la-fib/la-facultat/govern/cacfigced.md) o [Comisión de
+Evaluación Curricular de la Fase Inicial del GEI](ca/la-fib/la-
+facultat/govern/cacfi.md) o [Comisión de Evaluación Curricular del GIA](es/la-
+fib/la-facultad/gobierno/cacgia.md).
+
+#### [¿**Tengo limitado el tiempo para superar las asignaturas de fase
+inicial?**](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
+
+Si. Por [normativa de la Universidad](es/estudios/grados/guia-de-acogida-
+estudiantado-de-grado.md), el primer año los estudios hay que aprobar al menos
+dos asignaturas para poder continuar los estudios del grado en la FIB, tanto
+si se estudia a tiempo completo como a tiempo parcial.
+
+Además, el estudiantado que cursa los estudios a tiempo completo tienen que
+superar la fase inicial en un plazo máximo de 2 cursos académicos
+consecutivos.
+
+El estudiantado que cursa los estudios a tiempo parcial han de superarla en un
+plazo máximo de 4 cursos académicos consecutivos.
+
+#### [¿**Cómo se cuantas horas tengo que de dedicar a cada asignatura, a cada
+tema?**](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
+
+En la Guía Docente se indica, por cada asignatura, una estimación del número de horas de cada tema en clases de teoría, problemas, laboratorio, y también de trabajo personal. ([GEI](es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios.md) | [GCED](es/estudios/grados/grado-en-ciencia-e-ingenieria-de-datos/plan-de-estudios.md) | [GIA](es/estudios/grados/grado-en-inteligencia-artificial/plan-de-estudios.md))
+
+En el caso del GEI, puedes consultar la carga lectiva total estimada
+seleccionando todas las asignaturas matriculadas en el [apartado asignaturas
+de la web](es/estudios/grados/grado-en-ingenieria-informatica/plan-de-
+estudios/asignaturas.md). Estas estimaciones son una orientación, no un
+contrato. Cada persona puede haber dedicado más o menos tiempo a cada uno de
+los temas, según la facilidad que tenga o los conocimientos previos.
+
+  * Si estás dedicando bien eres un estudiante muy brillante, o bien no llevas la asignatura lo suficientemente preparada.
+  * Si le estás dedicando muchas más horas, quizás hay alguna cosa que no estás haciendo suficientemente bien. Habla con el profesor o profesora, que te ayudará a evaluar tu progreso, o con mentores, tutores, o con el jefe de estudios, que pueden ayudarte a encontrar mejores maneras de trabajar. ¡[Mira a quien puedes preguntar](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)
+
+[​](es/estudios/grados/guia-de-acogida-estudiantado-de-grado.md)En el caso de
+GCED, puedes consultar el [plan de estudios](es/estudios/grados/grado-en-
+ciencia-e-ingenieria-de-datos/plan-de-estudios.md) o el [apartado de
+asignaturas](es/estudios/grados/grado-en-ciencia-e-ingenieria-de-datos/plan-
+de-estudios/asignaturas.md) de la web, para conocer la Guía Docente de cada
+asignatura.
+
+I en el caso del GIA; también puedes consultar el [plan de
+estudios](es/estudios/grados/grado-en-inteligencia-artificial/plan-de-
+estudios.md) o el [apartado de asignaturas](es/estudios/grados/grado-en-
+inteligencia-artificial/plan-de-estudios/asignaturas.md) de la web, para
+conocer la Guía Docente de cada asignatura.
+
+En todo caso, es responsabilidad tuya planificar tiempo y tu esfuerzo, evaluar
+cómo vas en cada una de las materias, y tomar medidas para mejorar allá donde
+haga falta.
+
+#### [¿**Eres deportista de alto nivel?**](es/estudios/grados/guia-de-acogida-
+estudiantado-de-grado.md)
+
+Si eres deportista de alto nivel, puedes formar parte del**Programa de
+Deportistas Alto Nivel de la UPC, TUTORESPORT-UPC** , que tiene por objetivo
+facilitar la compatibilidad entre la actividad deportiva y los estudios
+académicos.
+
+El programa funciona desde el 2008 y más de 1.020 estudiantes de la UPC ya han
+disfrutado.  
+Infórmate de los requisitos necesarios para formar parte, así como del
+procedimiento para inscribirte en el [web del _Servei d'Esports
+UPC_](esports/ca/competicions/tutoresport-upc.md).
+
+#### [Docencia inclusiva](es/estudios/grados/guia-de-acogida-estudiantado-de-
+grado.md)
+
+La universidad tiene el compromiso de garantizar la igualdad de oportunidades
+a todos los miembros de la comunidad universitaria. Trabajamos para hacer
+inclusiva toda la actividad docente, los espacios y los servicios.
+
+[Web del servicio de inclusión de la UPC](ca/serveis.md)
+
+##
+
+## __información
 
 * * *
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+Mantente al día, ¡que nadie te lo explique!!
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+### Intranets que deberías conocer
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+__Como estudiante de la universidad tienes un usuario UPC que registraste el
+primer día en[Identidad digital](gcredencials/init.md). Este es el que tienes
+que usar para acceder a todas las intranets.
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+[__](ca/la-fib/serveis-tic/e-secretaria.md)
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+###  [**e-Secretaria** ](ca/la-fib/serveis-tic/e-secretaria.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+Portal de servicios académicos para realizar gestiones y trámites relacionados
+con el expediente académico, automatrícula, solicitud de instancias o
+certificaciones
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+[__](ca/la-fib/serveis-tic/el-raco.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+###  [**Racó** ](ca/la-fib/serveis-tic/el-raco.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+Intranet FIB donde encontrarás avisos, convocatorias de examen,
+cualificaciones, apuntes, ejercicios y material de las asignaturas
+matriculadas, foros para comunicarte con otros estudiantes, así como avisos de
+la Facultad.
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+[__](ca/la-fib/serveis-tic/atenea.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+###  [**Atenea** ](ca/la-fib/serveis-tic/atenea.md)
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+Plataforma web de docencia de la UPC. Algunas asignaturas de la FIB usan este
+entorno como complemento al Racó
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+__**Profesorado y estudiantado de la FIB se comunican a través
+del[Racó](index.md) o de Atenea. **El Racó es la intranet de la Facultad, al
+cual puedes acceder desde la página de inicio de la web de la FIB.
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+###
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+### Dirección de correo electrónico
 
-## Acreditaciones de calidad
+La UPC pone a tu disposición una [dirección de correo electrónico](ca/la-
+fib/serveis-tic/correu-destudiant.md) que **profesorado y Facultad usarán para
+dirigirse a ti** individualmente o en grupo. Puedes redireccionar este correo
+a otra cuenta.
 
-### Sellos AQU
+__Es muy importante que des del principio te familiarices con el
+funcionamiento del Racó y Atenea, y que te acostumbres a consultarlas
+regularmente (varias veces por semana), así como a revisar los mensajes
+recibidos en tu dirección de correo electrónico.
 
-**GEI**
+### Web de la FIB
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+Prácticamente toda la información sobre la FIB y su funcionamiento se hace
+pública en el [web de la Facultad](index.md). A partir del menú situado en la
+parte superior de la pantalla de inicio tendrás acceso a la información sobre
+los diversos temas.
 
-**GCED**
+Las redes sociales de la FIB también son una buena opción para estar al día de
+lo que está pasando.
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+###
 
-**GIA**
+[ __Twitter  ](fib_upc.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+[ __Instagram  ](fib.upc.md)
 
-**MEI**
+[ __Facebook  ](fib.upc.md)
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+[ __Flickr  ](photos/fib-upc/albums.md)
 
-**MIRI**
+[ __Youtube  ](user/mediafib.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+###
 
-**MAI**
+### Guía TIC
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+Te explicamos esos servicios TIC que creemos importantes conocer a la hora de
+empezar los estudios, trabajar en casa como si estuvieras en la universidad,
+el funcionamiento de los laboratorios... Conoce los servicios TIC que pone a
+tu disposición la facultad para realizar el seguimiento de la docencia.
 
-**MFPS**
+__
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+### **Guía TIC**
 
-**MDS**
+[Guía TIC nuevos estudiantes](es/la-fib/servicios-tic/guia-tic-nuevos-
+estudiantes.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+### Guía Docente
 
-### Sellos Euro-inf
+Casi toda la información de las asignaturas se encuentran en la Guía Docente.
+Información como el profesorado de la asignatura y el profesor o profesora
+responsable, los contenidos, el método de evaluación, las horas semanales,
+etc.
 
-**GEI**
+  * GEI. [Listado de asignaturas](es/estudios/grados/grado-en-ingenieria-informatica/plan-de-estudios/asignaturas.md). 
+  * GCED. [Listado de asignaturas](es/estudios/grados/grado-en-ciencia-e-ingenieria-de-datos/plan-de-estudios/asignaturas.md). 
+  * GIA. [Listado de asignaturas](es/estudios/grados/grado-en-inteligencia-artificial/plan-de-estudios/asignaturas.md).
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+### Normativa académica
 
-**MEI y MIRI**
+Los estudios de grado se regulan en base a normativas generales de la UPC.
+Aunque no son documentos técnicos difíciles de leer, vale la pena que sepas
+que existan. A continuación encontrarás la información general de la UPC y las
+normativas específicas de cada grado.
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
+  * Normativa general UPC: [NAGRAMA](sga/es/normativas/NormativasAcademicas.md).
+  * GEI. [Normativa académica](es/estudios/grados/grado-en-ingenieria-informatica/normativa-academica.md).
+  * GCED. [Normativa académica](ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/normativa-academica-i-organitzacio.md). 
+  * GIA. [Normativa académica](es/estudios/grados/grado-en-inteligencia-artificial/normativa-academica.md).
 
-## La FIB es miembro de
+## Plan de acción tutorial
 
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
+* * *
 
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
+La Facultad te da soporte
 
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
+La Facultad ofrece un Programa de Acción Tutorial, integrado por:
 
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
+  * **Programa de Mentorías**. El estudiantado de primero verá en su horario una asignatura llamada Mentorías, con frecuencia quincenal. Sin exámenes. El profesor es un estudiante voluntario de tercero o cuarto curso. Es el estudiante mentor. Su experiencia ayudará a tu integración en un entorno nuevo.
+  * **Programa de Tutorías**. Una vez puesto en marcha el curso, y si crees que necesitas orientación más personalizada sobre cuestiones generales del grado puedes solicitar al jefe de estudios de la fase inicial que te asigne un miembro del profesorado como tutor o tutora. Al estudiante deportista de alto nivel o con necesidades educativas especiales, se hace esta asignación por defecto.
 
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+Además, si eres estudiante del GEI también puedes participar en,
+
+  * **Programa de "Aula Lliure"**. Este es un programa de mentoría académica, es decir, clases de refuerzo de las diferentes asignaturas impartidas por becarios. Este año iniciará las actividades los primeros días de curso. Durante el mes de septiembre el programa también os ofrecerá la oportunidad de tener ayuda en la puesta a punto de vuestros portátiles. Estad atentos a la información que se irá publicando en el Racó.
+
+Consulta toda la información sobre el Programa de Acción Tutorial:
+
+[](ca/estudis/graus/pla-daccio-tutorial/mentories-entre-iguals.md)
+
+[ Mentorías entre iguales ](ca/estudis/graus/pla-daccio-tutorial/mentories-
+entre-iguals.md)
+
+[](ca/estudis/graus/pla-daccio-tutorial/aula-lliure.md)
+
+[ Aula Libre ](ca/estudis/graus/pla-daccio-tutorial/aula-lliure.md)
+
+[](ca/estudis/graus/pla-daccio-tutorial/tutories.md)
+
+[ Tutorías ](ca/estudis/graus/pla-daccio-tutorial/tutories.md)
+
+## A quien preguntar
+
+* * *
+
+La Facultad y la Universidad te proporcionan diversos interlocutores a quien
+puedes dirigirte
+
+__
+
+### A nivel de asignatura
+
+  * El profesor o profesora de la asignatura es el interlocutor natural si tu pregunta está relacionada con el contenido de la asignatura, el material que puedes usar, la evaluación de la asignatura, etc. El profesorado dispone de unas horas de consulta que te animamos a aprovechar.
+  * También puedes dirigirte al profesor o profesora responsable de la asignatura. Encontrarás su nombre en la página web de la asignatura.
+  * Delegado o delegada de la asignatura. Al principio de cada cuatrimestre el estudiantado escoge delegado o delegada de cada asignatura. Una vez realizada la votación, en el Racó podrás consultar su nombre y correo de contacto.
+
+__
+
+### A nivel FIB
+
+  * En la **[secretaría de la FIB](ca/contact/area-de-gestio-academica-secretaria.md)** te informarán sobre trámites administrativos y plazos: matrícula, convalidaciones, cambios de expediente, tiempo parcial, etc. Es la planta baja del edificio de la FIB, el B6.
+  * Los y las jefes de estudios te podrán informar sobre casi cualquier aspecto relacionado con la docencia y las normativas académicas, o te dirigirán al lugar adecuado. 
+    * [Jefe de estudios GEI de la Fase Inicial](ca/contact/vicedeganat-cap-destudis-de-la-fase-inicial.md)
+    * [Jefe de estudios GEI](ca/contact/vicedeganat-cap-destudis.md)
+    * [Jefe de estudios GCED](ca/contact/cap-destudis-gced.md)
+  * La **DEFIB** , [delegación de estudiantes de la FIB](ca/la-fib/vida-universitaria/associacions.md). Encontrarás estudiantes que te podrán ayudar si tienes problemas con algún profesor o profesora o con alguna asignatura o, simplemente, si quieres hablar con compañeros y compañeras que han pasado por las asignaturas que estás cursando. La encontrarás en el edificio Omega.
+
+__
+
+### A nivel UPC
+
+  * La UPC nombra un **[Síndic de Greuges](sindicatura.md)** a quien puedes recurrir si crees que la institución no te ha tratado de manera justa o normativa. Asegúrate, pero, que antes de recurrir a él, has expresado tus quejas a las personas adecuadas y que has entendido sus razones.
 
 ## Dónde estamos
 
@@ -1109,5 +1191,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/grados/guia-de-acogida-estudiantado-
+de-grado.md)
 

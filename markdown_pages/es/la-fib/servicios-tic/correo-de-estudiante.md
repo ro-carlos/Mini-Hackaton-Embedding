@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/la-fib/servicios-tic/correo-de-
+estudiante.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/la-fib/serveis-tic/correu-destudiant.md "Correu d'estudiant")
+  * [English](en/fib/it-services/student-email-account.md "Student email account")
+  * [Español](es/la-fib/servicios-tic/correo-de-estudiante.md "Correo de estudiante")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/la-fib/servicios-tic/correo-de-estudiante.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,212 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Correo de estudiante
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [La FIB](es/la-fib.md) » [Servicios TIC](es/la-
+fib/servicios-tic.md) » Correo de estudiante
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+Categoria:
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+Entorno de trabajo y soporte a la docencia
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+Teletrabajo
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+Dirigido:
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+Estudiante
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+Contacto:
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+[Área de docencia TIC](es/contact/area-de-docencia-tic.md)
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+  
 
-Consulta toda la información en lo referente a este proceso electoral.
+La UPC ofrece una cuenta de Google Suite, que incluye el correo Gmail a todos
+los estudiantes desde el momento en que se matriculen. El formato de la
+dirección de correo es la siguiente:
 
-## Noticias
+**[nom.cognom@estudiantat.upc.edu](nom.cognom@estudiantat.upc.edu.md)** donde
+nombre.apellido es el usuario asignado para acceder a los recursos de la
+Facultad.
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+Para **leer el correo** lo podéis hacer a través de la direccón
+[https://correuv3.upc.edu](index.md)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+**La FIB y la UPC usarán únicamente este correo para comunicarse con vosotros
+y se reservan el derecho a no responder a ningún correo electrónic proveniente
+de una dirección electrónica diferente a la institucional.**
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+## Utilización
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+El servicio de correo de G Suite está documentado a
+[https://serveistic.upc.edu/ca/correu-v3-gmail](ca/correu-v3-gmail.md) donde
+podéis encontrar:
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+  * la descripción del servicio
+  * la documentación, sobre como configurar Gmail,otros clientes, etc
+  * les preguntas más frecuentes (FAQ)
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+Algunas características:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+  * la cuota disponible es de 1TB
+  * se pueden crear filtros a nivel de servidor
+  * accesible des de múltiples dispositivos, ordenador, móbil, tableta, etc
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+### Condiciones de uso
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+El uso que hagáis de este servicio debe cumplir la Normativa de uso, que se
+explica en la documentación de Servicios UPC:
+[https://serveistic.upc.edu/ca/correu-v3-gmail/el-servei/normativa-dus-del-
+correu](ca/correu-v3-gmail/el-servei/normativa-dus-del-correu.md).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+### __Antiguas direcciones @est.fib.upc.edu
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+**¿Que pasará con las direcciones
+antiguas**[**nom.cognom@est.fib.upc.edu**](nom.cognom@est.fib.upc.edu.md)**?**
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+  * Para los estudiantes matriculados por primera vez, ya no se creará la dirección [nom.cognom@est.fib.upc.edu](nom.cognom@est.fib.upc.edu.md) que ofrecía la FIB.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+  * Para los estudiantes matriculados durante el curso 2019-2020, Cuadrimestre 1 o 2, sí que se mantendrán aes direcciones [nom.cognom@est.fib.upc.edu](nom.cognom@est.fib.upc.edu.md), pero se han redefinido como una redirección a la dirección de Gmail [nom.cognom@estudiantat.upc.edu](nom.cognom@estudiantat.upc.edu.md).
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+    * **Atención** : Desde el 13 de julio 2020, ya no se recibirán mensajes en el buzón de la FIB ni a la dirección personal si teníais una redirección definida.
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+  * Para el resta: ex-estudiantes FIBers que se matricularon en un cuadrimestre anterior al curso 2019-2020, se mantiene la dirección [nom.cognom@est.fib.upc.edu](nom.cognom@est.fib.upc.edu.md), sin cambios, bien sea el buzón de la FIB o una redirección a una dirección personal. Estos recursos se mantendrán un tiempo limitado:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+    * **Buzón** : se mantendrán hasta **el 30 de septiembre** del 2020 por tal de que puedan hacer una copia de los mensajes a una cuenta de correo personal.
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+    * **redirecciones** a una dirección personal: se **mantendrán durante el cuadrimestre de otoño** del curso 2020-2021.
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+Posteriormente, se descontinuará el servicio, y las direcciones devolverán un
+mensaje de "Dirección desconocida”.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+**Traspaso del correo de la FIB a Gmail**
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+Si tienes el correo en el buzón de la FIB y lo quieres traspasar a tu nuevo
+correo de Gmail, puedes importar todos los mensajes nuevos y antiguos de la
+cuenta [xxx.xxx@est.fib.upc.edu](xxx.xxx@est.fib.upc.edu.md) a la nueva
+direccion [xxx.xxx@estudiantat.upc.edu](xxx.xxx@estudiantat.upc.edu.md).
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+Los pasos a seguir son:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+  * Inicia sesión en la cuenta de Gmail [xxx.xxx@estudiantat.upc.edu](xxx.xxx@estudiantat.upc.edu.md)
+  * Hacer clic arriba a la derecha en  _Configuración_ > **Ver todos los ajustes**
+  * Hacer clic en la pestaña **Cuentas e importación**.
+  * En el apartado  _Consultar el correo de otras cuentas_ , clicar en **Añadir una cuenta de correo.**
+  * Escribir la dirección [xxx.xxx@est.fib.upc.edu](xxx.xxx@est.fib.upc.edu.md) y hacer **Siguiente**.
+  * Dejar la opción por defecto **Importar correos electrónicos de mi otra cuenta (POP3)** e ir a **Siguiente.**
+  * Escribir la contraseña y escoger las opciones **Utilizar siempre una conexión segura SSL** y **Etiquetar los mensajes entrantes con** la dirección de correo que queremos importar (sale por defecto). Esta última opción nos ayudará a identificar los mensajes que se han enviado a la dirección [xxx.xxx@est.fib.upc.edu](xxx.xxx@est.fib.upc.edu.md).
+  * En  _Servidor POP_ poner **correu.fib.upc.edu** y a  _Puerto_ **995**.
+  * Hacer clic en **Añadir cuenta**.
+  * En la sigiente pantalla pondremos que no queremos enviar mensajes con la cuenta xxx.xxx@est.fib.upc.edu e ir a **Finalizar.**
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+Cuando recibimos mensajes que se han enviado a la cuenta
+[xxx.xxx@est.fib.upc.edu](xxx.xxx@est.fib.upc.edu.md) nos dirá el nombre de
+quien lo envía, pero en subject nos saldrá adelante la cuenta antigua donde se
+ha enviado.
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+**Lectura del correo del buzón de la FIB (solo para ex-estudiantes)**
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+Los estudiantes que aún tengan el buzón a FIB, hay varios métodos para acceder
+a vuestro buzón:
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+  1. A través de cualquier cliente de correo que disponga de los protocolos IMAP o POP con encriptación SSL o STARTTLS, como por ejemplo [Thunderbird](en-US/thunderbird.md). 
+     * Para usar este servicio, hay que configurar un lector de correo con los parámetros siguientes:
 
-Primer Concurso UPC de IA
+       * Servidor correo entrante: correu.fib.upc.es
+       * Protocolo de recepción: IMAP o POP
+       * Tipo de Seguridad: SSL
+       * Puerto de entrada: 993 (IMAP) o 995 (POP)
+       * Servidor correo saliente: smtp.upc.edu
+       * Autenticación servidor de salida: Sí, requiere autenticación
+       * Tipo de Seguridad: STARTTLS
+       * Nombre usuario (entrada y salida): El que se usa en el Racó (nombre.apellido)
+  2. Se puede acceder directamente a la dirección [https://webmail.fib.upc.edu](index.md)
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+  3. Añadiendo la cuenta dentro de Gmail
 
-## Agenda
+     * [Gmail](index.md) permite leer y enviar mensajes de otras cuentas de correo. Para hacerlo, hace falta acceder a vuestra cuenta de Gmail y dirigirse a Configuración > Cuentas.
 
-Mar 11 Mar
+     * En la opción "Recupera el correu d'altres comptes", seleccionar "Afegiu un compte de correu electrònic que us pertanyi". En la nueva ventana que aparecerá, introducir la dirección de estudiante de la FIB con los datos siguientes:
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+       * Nombre de usuario y contraseña: Vuestro nombre de usuario y contraseña (con las que accedéis al Racó).
+       * Servidor POP o IMAP con SSL: Se ha de cambiar el nombre que Gmail añade automáticamente por "correu.fib.upc.edu".
+       * Port POP con SSL: 995
+       * Port IMAP con SSL: 993
+       * Activar la opción "En recuperar correu, utilitza sempre una connexió segura (SSL)".
+       * Servidor SMTP: smtp.upc.edu (port 587).
+     * Las otras tres opciones son opcionales:
 
-__17:00 - 18:30
+       * Deja una copia del mensaje recuperado al servidor: Los mensajes se recibierán tanto en Gmail como en la cuenta de estudiante. Si se deja desactivado, los mensajes solo llegarán a Gmail. 
+       * Etiqueta los mensajes entrantes: Gmail añadirá la etiqueta indicada a todos los mails recibidos en la cuenta de estudiante.
+       * Archiva los mensajes entrantes (Omite la Bandeja de entrada): Gmail creará una nueva carpeta donde almacenar los correos de la cuenta de estudiante y no irán a parar a la Bandeja de entrada.
+     * Seleccionar “Afegeix un compte”. Gmail os dará la opción de enviar mensajes con esta dirección, de manera que se podrá responder usando la dirección de estudiantes y no la del Gmail.
 
-__Sala d'actes Manuel Martí Recober
+     * Seleccionar “Sí” e indicar el nombre deseado.
 
-Mié 12 Mar
+     * Gmail os pedirá la verificación de que tenéis acceso a esta cuneta de correo y os enviará un mensaje a la dirección de estudiante para comprobarlo.
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+     * Seleccionar “Envia una verificació”, introducir el código de confirmación que hayáis recibido y seleccionar “Verifica”.
 
-__16:00 - 17:30
+     * Desde este momento recibiréis el correo de la dirección de estudiante al Gmail, y la configuración de la cuenta aparecerá en Configuración > Cuentas. Des de allí podréis editar la información de la cuenta o suprimir-la, así como seleccionar responder automáticamente los mensajes con la dirección a la que ha sido destinado.
 
-Mié 12 Mar
+## También te puede interesar
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+  * [Acceso remoto al repositorio de ficheros](es/la-fib/servicios-tic/acceso-remoto-al-repositorio-de-ficheros.md)
 
-__16:00 - 17:30
+  * [Alquiler de los laboratorios informáticos](es/la-fib/servicios-tic/alquiler-de-los-laboratorios-informaticos.md)
 
-__online
+  * [Aula Virtual](es/la-fib/servicios-tic/aula-virtual.md)
 
-[Consulta toda la agenda ](es/agenda.md)
+  * [Control de versiones: git](es/la-fib/servicios-tic/control-de-versiones-git.md)
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+  * [Copias de seguridad](es/la-fib/servicios-tic/copias-de-seguridad.md)
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+  * [Correo de estudiante](es/la-fib/servicios-tic/correo-de-estudiante.md)
 
-__21 Feb 25 - 07 Abr 25
+  * [Cuentas de usuario en los PC y servidores](es/la-fib/servicios-tic/cuentas-de-usuario-en-los-pc-y-servidores.md)
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+  * [Distribución de software](es/la-fib/servicios-tic/distribucion-de-software.md)
 
-## Pide cita previa
+  * [Entorno de trabajo en los ordenadores](es/la-fib/servicios-tic/entorno-de-trabajo-en-los-ordenadores.md)
 
-* * *
+  * [Exámenes en entorno seguro](es/la-fib/servicios-tic/examenes-en-entorno-seguro.md)
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+  * [Filesender: intercambio de ficheros de gran volumen](es/la-fib/servicios-tic/filesender-intercambio-de-ficheros-de-gran-volumen.md)
 
-[Cita previa](ca/cita-previa.md)
+  * [G Suite for Education](es/la-fib/servicios-tic/g-suite-education.md)
 
-## Premios y reconocimientos
+  * [Listas de distribución](es/la-fib/servicios-tic/listas-de-distribucion.md)
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+  * [Préstamo de material diverso](es/la-fib/servicios-tic/prestamo-de-material-diverso.md)
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+  * [Préstamo de portátiles](es/la-fib/servicios-tic/prestamo-de-portatiles.md)
 
-__16 Dec 24
+  * [Red sin hilos, Eduroam](es/la-fib/servicios-tic/red-sin-hilos-eduroam.md)
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+  * [Servicio de impresión](es/la-fib/servicios-tic/servicio-de-impresion.md)
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+  * [Servicio de impresión 3D](es/servicio-de-impresion-3d.md)
 
-__09 Dec 24
+  * [Software instalado en los ordenadores](es/la-fib/servicios-tic/software-instalado-en-los-ordenadores.md)
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+  * [VPN UPClink](es/la-fib/servicios-tic/vpn-upclink.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+## Normativa de uso
 
-__22 Nov 24
+Ten en cuenta la [Normativa de uso de los equipos informáticos](es/la-
+fib/servicios-tic/normativas-de-uso-de-los-equipos-informaticos-de-la-fib.md)
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+## Soporte TIC
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+Nos puedes mandar tanto las incidencias, dudas, como aquellas recomendaciones
+o temas que crees que te falta información o sobre más recursos TIC que se
+podrían poner en marcha para facilitar el seguimiento de la docencia en la
+FIB.
 
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+[__Soporte TIC FIB](utic.fib@upc.edu.md)
 
 ## Dónde estamos
 
@@ -1109,5 +960,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/la-fib/servicios-tic/correo-de-estudiante.md)
 

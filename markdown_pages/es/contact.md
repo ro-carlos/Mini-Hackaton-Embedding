@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/contact.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/contact.md)
+  * [English](en/contact.md)
+  * [Español](es/contact.md)
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/contact.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,324 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Contacto
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » Contacto
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
-
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
-
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
-
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
-
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
-
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
-
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
-
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
-
-Consulta toda la información en lo referente a este proceso electoral.
-
-## Noticias
-
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
-
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
-
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## Facultad de Informática de Barcelona
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+__
 
-[Cita previa](ca/cita-previa.md)
+### Dirección
 
-## Premios y reconocimientos
+Edificio B6 del Campus Nord  
+C/Jordi Girona,1-3  
+08034 Barcelona
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+__
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+### Información de contacto
 
-__16 Dec 24
+Teléfono: (34) 93 401 70 00  
+Fax: (34) 93 401 71 13  
+[informacio@fib.upc.edu](informacio@fib.upc.edu.md)  
+[http://www.fib.upc.edu/](es.md)
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+__
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+### Redes sociales
 
-__09 Dec 24
+  * [__](fib.upc.md)
+  * [__](fib_upc.md)
+  * [__](photos/fib-upc/albums.md)
+  * [__](user/mediafib.md)
+  * [__](fib.upc.md)
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
+## Contactos de la FIB
 
 * * *
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+  * [Todos](es/contact.md)
+  * [Empresa](es/contact.md)
+  * [Gestión](es/contact.md)
+  * [inLab FIB](es/contact.md)
+  * [Másteres](es/contact.md)
+  * [Movilidad](es/contact.md)
+  * [Decanato](es/contact.md)
+  * [Servicios TIC](es/contact.md)
+  * [Otros](es/contact.md)
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+## [Área de docencia TIC](es/contact/area-de-docencia-tic.md)
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+Teléfono
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+(34) 93 401 60 43
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+E-mail
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+Web
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+[UTG CNTIC FIB Docència](ca/estructura/unitat-serveis-tic.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+## [Área de Gestión Académica (Secretaría)](es/contact/area-de-gestion-
+academica-secretaria.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+Teléfono
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+(34) 93 401 69 49
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+E-mail
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+## [Biblioteca Rector Gabriel Ferraté](es/contact/biblioteca-rector-gabriel-
+ferrate.md)
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+Teléfono
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+(34) 93 401 68 08
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+E-mail
 
-## Acreditaciones de calidad
+Web
 
-### Sellos AQU
+[bibliotecnica.upc.edu/brgf](brgf.md)
 
-**GEI**
+## [Coordinador GIA](es/contact/coordinador-gia.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+Teléfono
 
-**GCED**
+(34) 93 401 71 11
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+E-mail
 
-**GIA**
+## [Decanato (USIRE)](es/contact/decanato-usire.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+Teléfono
 
-**MEI**
+(34) 93 401 71 11
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+E-mail
 
-**MIRI**
+## [Facultat d'Informàtica de Barcelona](es/contact/facultat-dinformatica-de-
+barcelona.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+Teléfono
 
-**MAI**
+(34) 93 401 70 00
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+E-mail
 
-**MFPS**
+Web
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+[www.fib.upc.edu](index.md)
 
-**MDS**
+## [inLab FIB](es/contact/inlab-fib.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+Teléfono
 
-### Sellos Euro-inf
+(34) 93 401 69 41
 
-**GEI**
+E-mail
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+Web
 
-**MEI y MIRI**
+[inlab.fib.upc.edu](index.md)
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
+## [Másteres Oficiales](es/contact/masteres-oficiales.md)
 
-## La FIB es miembro de
+Teléfono
 
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
+(34) 93 401 77 29
 
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
+E-mail
 
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
+Web
 
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
+[masters.fib.upc.edu](index.md)
 
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+## [Oficina de Movilidad Internacional del Campus Nord](es/contact/oficina-de-
+movilidad-internacional-del-campus-nord.md)
+
+Teléfono
+
+(34) 93 401 69 37
+
+E-mail
+
+Web
+
+[www.upc.edu/sri/en/students](sri/en/students.md)
+
+## [Prácticas Académicas Externas - Convenios de Cooperación
+Educativa](es/contact/practicas-academicas-externas-convenios-de-cooperacion-
+educativa.md)
+
+Teléfono
+
+(34) 93 401 77 22
+
+E-mail
+
+## [Relaciones externas (USIRE)](es/contact/relaciones-externas-usire.md)
+
+Teléfono
+
+(34) 93 401 69 54
+
+E-mail
+
+## [Relaciones Internacionales FIB](es/contact/relaciones-internacionales-
+fib.md)
+
+Teléfono
+
+(34) 93 401 07 37
+
+E-mail
+
+## [Reprografía canon](es/contact/reprografia-canon.md)
+
+E-mail
+
+Web
+
+[Equips multifunció](patrimoni/ca/concessions-i-serveis-externs/equips-
+multifuncio.md)
+
+## [Secretaria Académica](es/contact/secretaria-academica.md)
+
+Teléfono
+
+(34) 93 401 77 22
+
+E-mail
+
+## [Servicio de operación A5](es/contact/servicio-de-operacion-a5.md)
+
+Teléfono
+
+(34) 93 401 60 43
+
+## [Servicio PRISMA](es/contact/servicio-prisma.md)
+
+Teléfono
+
+(34) 93 405 41 30
+
+E-mail
+
+Web
+
+[esuport.prisma.upc.edu](index.md)
+
+## [Servicios TIC de la UPC](es/contact/servicios-tic-de-la-upc.md)
+
+Teléfono
+
+(34) 93 401 62 13
+
+E-mail
+
+Web
+
+[eatic.upc.edu](index.md)
+
+## [Vicedecanato de Calidad](es/contact/vicedecanato-de-calidad.md)
+
+Teléfono
+
+(34) 93 401 71 11
+
+E-mail
+
+## [Vicedecanato de Estudios de Postgrado](es/contact/vicedecanato-de-
+estudios-de-postgrado.md)
+
+Teléfono
+
+(34) 93 401 69 61
+
+E-mail
+
+## [Vicedecanato de Relaciones con las Empresas ](es/contact/vicedecanato-de-
+relaciones-con-las-empresas.md)
+
+Teléfono
+
+(34) 93 401 71 11
+
+E-mail
+
+## [Vicedecanato de Relaciones Internacionales](es/contact/vicedecanato-de-
+relaciones-internacionales.md)
+
+Teléfono
+
+(34) 93 401 69 61
+
+E-mail
+
+## [Vicedecanato Jefe de Estudios de la Fase Inicial](es/contact/vicedecanato-
+jefe-de-estudios-de-la-fase-inicial.md)
+
+Teléfono
+
+(34) 93 401 69 61
+
+E-mail
+
+## [Vicedecanato jefe de estudios del BIB](es/contact/vicedecanato-jefe-de-
+estudios-del-bib.md)
+
+Teléfono
+
+(34) 93 401 71 11
+
+E-mail
+
+## [Vicedecanato Jefe de Estudios GEI](es/contact/vicedecanato-jefe-de-
+estudios-gei.md)
+
+Teléfono
+
+(34) 93 401 71 11
+
+E-mail
+
+## [Vicedecano de Promoción y Comunicación](es/contact/vicedecano-de-
+promocion-y-comunicacion.md)
+
+Teléfono
+
+(34) 93 401 69 61
+
+E-mail
+
+## Solicita información
+
+* * *
+
+Tienes alguna duda? No te preocupes; estamos aquí para ayudarte.  
+Utiliza el formulario para pedir información o soporte o enviar tus
+comentarios.
+
+Su nombre *
+
+Su dirección de correo electrónico *
+
+Asunto *
+
+Categoría * \- Por favor, elija -Aulas, equipos y servicios informáticosBuzon
+de sugerenciasFelicitacionesInformación AcadémicaInformación de
+movilidadInformación de los másteresInformación general de la FIBNoticias al
+web de la FIBQuejas
+
+Mensaje *
+
+Leave this field blank
 
 ## Dónde estamos
 
@@ -1109,5 +1071,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/contact.md)
 

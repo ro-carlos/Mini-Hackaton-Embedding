@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/movilidad.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/mobilitat.md "Mobilitat")
+  * [English](en/mobility.md "Mobility")
+  * [Español](es/movilidad.md "Movilidad")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/movilidad.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,68 +715,52 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Movilidad
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » Movilidad
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+## Muévete
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+* * *
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+Conocer otra universidad, otro país o mejorar tu conocimiento de idiomas son
+algunas de las ventajas de los programas de movilidad que te ofrece la FIB.
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+Consigue un crecimiento personal y una experiencia vital inolvidable a través
+de una estancia en una universidad extranjera o de la realización de unas
+prácticas en empresas de todo el mundo.
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+[__](es/movilidad/incoming.md)
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+###  [Incoming ](es/movilidad/incoming.md)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+[__](es/movilidad/outgoing.md)
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+###  [Outgoing ](es/movilidad/outgoing.md)
 
-Consulta toda la información en lo referente a este proceso electoral.
+[__](es/movilidad/dobles-titulaciones.md)
+
+###  [Dobles titulaciones ](es/movilidad/dobles-titulaciones.md)
+
+[__](es/movilidad/alianzas-internacionales.md)
+
+###  [Alianzas Internacionales ](es/movilidad/alianzas-internacionales.md)
 
 ## Noticias
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/2025_enssat_summer_school_per_noticia_1.png?itok=ICAhEYUZ)](es/noticias/2025-enssat-
+summer-school-universidad-de-rennes-inscripciones-abiertas.md "2025 ENSSAT
+Summer School – Universidad de Rennes: ¡Inscripciones abiertas!")
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+### [2025 ENSSAT Summer School – Universidad de Rennes: ¡Inscripciones
+abiertas!](es/noticias/2025-enssat-summer-school-universidad-de-rennes-
+inscripciones-abiertas.md "2025 ENSSAT Summer School – Universidad de Rennes:
+¡Inscripciones abiertas!")
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+¡Aplica ahora para la Escuela de Verano ENSSAT 2025 en la Universidad de
+Rennes, una oportunidad única para aprender sobre IoT con becas disponibles!
 
 [![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
 programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
@@ -790,287 +774,123 @@ TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
 de las universidades socias de Unite! a postularse para las plazas de
 profesorado visitante financiadas
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/beijing_institute_of_technology_1.png?itok=JQ7xXKBc)](es/noticies/summer-
+program-beijing-institute-technology-beijing-china-2025.md "Summer program at
+Beijing Institute of Technology \(Beijing, China\) 2025")
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+### [Summer program at Beijing Institute of Technology (Beijing, China)
+2025](es/noticies/summer-program-beijing-institute-technology-beijing-
+china-2025.md "Summer program at Beijing Institute of Technology \(Beijing,
+China\) 2025")
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+BIT Summer Program offers seats**** for on-campus and online programs for
+summer 2025
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/logo-
+becas-santander_1_0.png?itok=5zq-tTo9)](es/noticias/becas-santander-para-
+movilidades-en-el-curso-2025-2026.md " Becas Santander para movilidades en el
+curso 2025-2026")
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+### [ Becas Santander para movilidades en el curso
+2025-2026](es/noticias/becas-santander-para-movilidades-en-el-
+curso-2025-2026.md " Becas Santander para movilidades en el curso 2025-2026")
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+Abierto el plazo para solicitar las Becas Santander para movilidades Erasmus y
+No Erasmus para el curso 2025/2026.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/ohbamsterdamimage.jpg?itok=w9HcGGAJ)](es/noticies/internships-
+ohb-germany.md "INTERNSHIPS AT OHB \(Germany\)")
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+### [INTERNSHIPS AT OHB (Germany)](es/noticies/internships-ohb-germany.md
+"INTERNSHIPS AT OHB \(Germany\)")
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+Internships open at OHB (Germany), a leading company in Europe.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/logo-
+nethermind.png?itok=P4yXbcC6)](es/noticias/internships-offered-nethermind-
+london-uk.md "Internships offered by NETHERMIND \(London, UK\) ")
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+### [Internships offered by NETHERMIND (London, UK) ](es/noticias/internships-
+offered-nethermind-london-uk.md "Internships offered by NETHERMIND \(London,
+UK\) ")
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+Nethermind is offering an internship program towards Computer Science and
+Mathematics students opened all year around.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/logo-
+nii-480x270.png?itok=20GDkz_4)
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+### [Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
+convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
+national-institute-informatics-nii-de-tokyo-1a-convocatoria.md "Solicitud para
+el National Institute of Informatics \(NII\) de Tokyo - 1a convocatoria")
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+__21 Feb 25 - 07 Abr 25
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
+El National Institute of Informatics (NII) de Tokio te ofrece la posibilidad
+de realizar una investigación**financiada** de corta duración, entre 2 y 6
+meses.
 
 [ __Consulta todas las noticias](es/noticias.md) [ __Propone una
 notícia](es/node/add/proposta-de-noticia.md)
 
-## Agenda
+## Mantente al día de las noticia de movilidad
 
-Mar 11 Mar
+Si tienes interés en marchar un cuatrimestre o todo el año de intercambio
+académico o quieres ir a hacer el TFG/TFM en una empresa extranjera, o bien
+recibir las convocatorias de becas para ir a China, Japón, EEUU,... puedes
+darte de alta en el canal de Noticias de Movilidad de la FIB.
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+[__Canal de noticias de Movilidad](es/mobilitat/rss.rss.md)
 
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## Contactos
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+## [Relaciones Internacionales FIB](es/contact/relaciones-internacionales-
+fib.md)
 
-[Cita previa](ca/cita-previa.md)
+Teléfono
 
-## Premios y reconocimientos
+(34) 93 401 07 37
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+E-mail
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+## [Oficina de Movilidad Internacional del Campus Nord](es/contact/oficina-de-
+movilidad-internacional-del-campus-nord.md)
 
-__16 Dec 24
+Teléfono
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+(34) 93 401 69 37
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+E-mail
 
-__09 Dec 24
+Web
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+[www.upc.edu/sri/en/students](sri/en/students.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+## [Vicedecanato de Relaciones Internacionales](es/contact/vicedecanato-de-
+relaciones-internacionales.md)
 
-__22 Nov 24
+Teléfono
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+(34) 93 401 69 61
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+E-mail
 
-__24 Oct 24
+## También te puede interesar
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+[ Move on Net ](index.md)
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+[](index.md)
 
-__14 Oct 24
+[ Careers EU ](home_en.md)
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
+[](home_en.md)
 
-## Haz un recorrido por la historia de la informática
+[ SRI UPC ](sri/es.md)
 
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+[](sri/es.md)
 
 ## Dónde estamos
 
@@ -1109,5 +929,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/movilidad.md)
 

@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/grados/grado-en-inteligencia-
+artificial/trabajo-de-fin-de-grado.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/graus/grau-en-intelligencia-artificial/treball-de-fi-de-grau.md "Treball de Fi de Grau")
+  * [English](en/studies/bachelors-degrees/bachelor-degree-artificial-intelligence/bachelors-thesis.md "Bachelor's thesis")
+  * [Español](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md "Trabajo de Fin de Grado")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,8 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-
+grado.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +717,320 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Trabajo de Fin de Grado
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) » [Grados](es/estudios/grados.md)
+» [Grado en Inteligencia Artificial](es/estudios/grados/grado-en-inteligencia-
+artificial.md) » Trabajo de Fin de Grado
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Matrícula](es/estudios/grados/grado-en-inteligencia-artificial/matricula.md)
+  * [Plan de estudios](es/estudios/grados/grado-en-inteligencia-artificial/plan-de-estudios.md)
+  * [Profesorado](es/estudios/grados/grado-en-inteligencia-artificial/profesorado.md)
+  * [Normativa académica](es/estudios/grados/grado-en-inteligencia-artificial/normativa-academica.md)
+  * [Horarios](es/estudios/grados/grado-en-inteligencia-artificial/horarios.md)
+  * [Exámenes](es/estudios/grados/grado-en-inteligencia-artificial/examenes.md)
+  * [Trabajo de Fin de Grado](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+El Trabajo de Fin de Grado (TFG) se cursa en el 8.º semestre. Consta de 18
+créditos ECTS y se puede realizar en la Facultad, en una empresa (española o
+extranjera) o en otra universidad (española o extranjera).  
+  
+La FIB dispone de numerosos [convenios con empresas](es/empresa/practicas-en-
+empresa.md) y universidades extranjeras que facilitan al estudiante la
+posibilidad de realizar el Trabajo de Fin de Grado en una de estas modalidades
+e, incluso, conseguir una [doble titulación](es/movilidad/dobles-
+titulaciones.md).
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+__
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+### Normativa
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+[Normativa del trabajo de fin de
+grado](sites/fib/files/documents/estudis/normativa-tfe-fib-ca.pdf.md)
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+**Qué tienes que hacer y cuando:**
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+__**Inscripción** : cuando se haya superado todas las asignaturas
+obligatorias.
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+__**Matrícula** : cuando se haya aceptado la inscripción por parte del
+responsable de la titulación.
 
-Consulta toda la información en lo referente a este proceso electoral.
+### Etapas de tu TFG
 
-## Noticias
+  * [**1**](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
+  * [Inscripción](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+  * [**2**](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
+  * [Matrícula](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+  * [**3**](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
+  * [Periodo de defensa](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+  * [**4**](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
+  * [Hito de seguimiento](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+  * [**5**](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
+  * [Entrega de la memoria](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+  * [**6**](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-grado.md)
+  * [Defensa](es/estudios/grados/grado-en-inteligencia-artificial/trabajo-de-fin-de-gradou.md)
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+__
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+### Premio FIB Alumni al mejor TFG del grado en Ingeniería Informàtica
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+FIB Alumni premia al mejor trabajo de fin de grado del grado en Ingeniería
+Informática. [Consulta las bases](es/estudios/becas-y-ayudas/convocatorias-de-
+premios/premio-fib-alumni.md).
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+**Evaluación del TFG**. La evaluación de las competencias transversales se
+hará en base a unos [indicadores
+](sites/fib/files/documents/estudis/tfg_indicadors_rubriques_esp.html.md)que
+se utilizarán a las rúbricas de evaluación, además de los indicadores de
+[inicio](sites/fib/files/documents/estudis/tfg-rubrica-hito-inicial-
+esp.html.md), [seguimiento](sites/fib/files/documents/estudis/tfg-rubrica-
+hito-seguimiento-esp.html.md) y [final](sites/fib/files/documents/estudis/tfg-
+rubrica-hito-final-esp.html.md).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+### Consejos para elaborar tu TFG
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+__
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+### Consejos para tu TFG
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+La FIB ha elaborado una [guía en forma de
+preguntas](sites/fib/files/documents/estudis/tfg-guia-estudiante-esp.pdf.md)
+que el estudiante se tiene que plantear en cada uno de los hitos de
+evaluación.
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+También te puede ser útil consultar el enlace [_6 pasos para que tu TFG/TFM
+sea un éxito_](es/estudiants/6-passos-que-teu-tfg/tfm-sigui-exit.md) _._
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+__
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+### Anàlisi de sostenibilitat
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+Uno de los capítulos de la memoria debe ser un análisis de sostenibilidad del
+proyecto. [Recomendaciones](sites/fib/files/documents/estudis/tfg-informe-de-
+sostenibilidad-es-2022.pdf.md), [vídeos explicativos](playlist.md) y ejemplos
+de un informe de sostenibilidad:
+[AKMA](sites/fib/files/documents/estudis/tfg_sost_exemple_akma.pdf.md) e
+[inventarios](sites/fib/files/documents/estudis/tfg_sost_exemple_inventarios.pdf.md)
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+## Procedimiento para el TFG
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+Desde el punto de vista académico, el éxito de cualquier TFG requiere una
+comunicación fluida con la persona supervisora / tutora con reuniones
+periódicas. Desde un punto de vista administrativo, la mayor parte del
+procedimiento se realiza a través del [Racó](index.md), desde donde el
+estudiantado recibirá la orientación necesaria a lo largo de todo el proceso.
+A continuación se destaca los principales pasos administrativos del TFG pero
+no pretende sustituir la necesidad de leer la normativa del trabajo de fin de
+grado.
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+__Durante el hito de la seguimiento del TFG es el único momento en que se
+permite actualizar el título y la descripción del trabajo.
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+### **Inscripción**
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+Inscribir el TFG para informar a la Facultat que el estudiantado ha acordado
+un tema de trabajo de fin de grado y empezará a trabajar.
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+__Es**importante tener en cuenta** , que se podrá iniciar el trabajo en el TFG
+una se haya realizado correctamente la inscripción y se cumpla con los
+requisitos siguientes:
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+  * El estudiantado podrá inscribir el TFG cuando haya superado el mínimo de créditos establecidos a la normativa.
+  * La inscripción se tiene que realizar un cuatrimestre antes de formalizar la matrícula.
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+Se tendrá que inscribir el TFG a través del [Racó](index.md), en una nueva
+pestaña que se mostrará a las personas que cumplan los requisitos descritos
+anteriormente. La inscripción tiene que ser aceptada por la persona
+supervisora o tutora del TFG.
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+__**Periodo de inscripción**
 
-Primer Concurso UPC de IA
+1.er cuatrimestre: Jueves 05 Septiembre 2024 a Sábado 01 Febrero 2025 - 23:59  
+2.º cuatrimestre: lunes 10 Febrero 2025 a Viernes 11 Julio 2025 - 23:59
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+### **Matrícula**
 
-## Agenda
+El estudiantado se podrá matricular del TFG cuando haya superado el mínimo de
+créditos establecido en la normativa.
 
-Mar 11 Mar
+Si el estudiantado inscribe el TFG en el cuatrimestre anterior, durante la
+matrícula aparecerá la opción para formalizar la matrícula del TFG.
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+__**Periodo de matrícula**
 
-__17:00 - 18:30
+2.º cuatrimestre 2024-2025 (inscripciones realizadas durante el 1r
+cuatrimestre del curso 2024-2025): 3 de febrero de 2025  
+1.er cuatrimestre 2025-2026 (inscripciones realizadas durante el 2º
+cuatrimestre del curso 2024-2025): por confirmar
 
-__Sala d'actes Manuel Martí Recober
+### **Hito inicial (solo GEI)**
 
-Mié 12 Mar
+**Solo para el estudiantado del grado en Ingeniería Informática**
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+GEP (Gestión de Proyectos) es un curso semipresencial vinculado al trabajo de
+fin de grado que se imparte durante cuatro semanas al empezar el curso
+lectivo. **Realizando la matrícula del TFG estás automáticamente inscrito a
+GEP**.  
+  
+El objetivo del curso será aprender a hacer una planificación del trabajo a
+hacer durante la realización del TFG. El alumno tendrá que generar un informe
+recogiendo los objetivos, la planificación, el alcance, etc. Este informe se
+tendrá que presentar como un acto académico dentro del curso GEP. El curso en
+sí no será presencial excepto esta presentación, que excepcionalmente también
+se podrá hacer vía videoconferencia.
 
-__16:00 - 17:30
+[Guía de GEP](sites/fib/files/documents/estudis/guia-gep-raco-fib.pdf.md)
 
-Mié 12 Mar
+La presentación se evaluará con una rúbrica por parte del director del
+proyecto y el profesorado de GEP y formará parte de la nota final del
+proyecto. También dentro de esta evaluación se tendrá que elegir una fecha por
+la reunión de seguimiento que se hará con el director o directora.
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+[Rúbrica para el hito inicial (evaluación de la presentación de
+GEP)](sites/fib/files/documents/estudis/tfg_rubrica_fita_inicial.html.md)
 
-__16:00 - 17:30
+### **Período de defensa**
 
-__online
+En este punto el estudiantado tiene que elegir, a través del [Racó](index.md),
+cuando quiere defender su TFG. Para cada matrícula, hay 2 periodos de defensa:
 
-[Consulta toda la agenda ](es/agenda.md)
+**Periodo ordinario**
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+TFG matriculado en el 1.er cuatrimestre: lunes 20 Enero 2025 a Viernes 24
+Enero 2025  
+TFG matriculado en el 2.º cuatrimestre: Miércoles 25 Junio 2025 a Martes 01
+Julio 2025
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+**Periode extraordinario**
 
-__21 Feb 25 - 07 Abr 25
+TFG matriculado en el 1.er cuatrimestre: dilluns 12 maig 2025 a divendres 16
+maig 2025  
+TFG matriculado en el 2.º cuatrimestre: dilluns 21 octubre 2024 a divendres 25
+octubre 2024
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+El periodo extraordinario de defensa requiere el pago de las tasas académicas
+(no de los créditos).
 
-## Pide cita previa
+**__Important** : El estudiantado tiene que discutir con la persona directora
+o tutora un plan factible y razonable. Por lo tanto, solo tiene que elegir el
+periodo de lectura cuando tenga la seguridad de poder cumplir con el plazo
+previsto y antes de la fecha tope. Si llega la fecha tope y tiene dificultades
+para cumplir el periodo de lectura ordinario, se le recomienda optar por el
+periodo de defensa extraordinario.
 
-* * *
+### **Hito de seguimiento**
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+Este hito tiene como objetivo reflejar el estado del TFG y las posibilidades
+de defenderlo adecuadamente dentro del plazo establecido. Sin completar este
+hito a tiempo, no se permitirá al estudiantado defender el trabajo,
+independientemente del periodo de defensa elegido.
 
-[Cita previa](ca/cita-previa.md)
+Antes de la fecha tope establecida al [Racó](index.md), el estudiante tendrá
+que subir al [Racó](index.md) un documento, consensuado con la persona
+directora o tutora, que tiene que incluir, obligatoriamente, los siguientes
+apartados:
 
-## Premios y reconocimientos
+Acompliment de la planificació i dels objectius.
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+  * Desempeño de la planificación y de los objetivos.
+  * Ajustes que hay hecho y justificación de estos cambios.
+  * Planificación prevista para finalizar el TFG.
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+La persona directora o tutora tiene que aceptar el documento y evaluarlo. La
+evaluación incluye los apartados establecidos en la normativa específica de la
+titulación o, en su defecto, los aspectos siguientes:
 
-__16 Dec 24
+  * La autonomía en la realización del proyecto.
+  * La autonomía en la redacción de la memoria.
+  * La planificación hecha y ejecutada hasta entonces.
+  * La comunicación con la persona directora o tutora o ponente.
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+Esta evaluación se puede modificar en el hito final.
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+**Fechas límite para realizar la reunión de seguimiento**
 
-__09 Dec 24
+**Periodo ordinario**
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+TFG matriculado al 1.er cuatrimestre: Jueves 12 Diciembre 2024 - 13:00  
+TFG matriculado al 2.º cuatrimestre: Jueves 22 Mayo 2025 - 13:00
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+**Periodo extraordinario**
 
-__22 Nov 24
+TFG matriculado al 1.er cuatrimestre: Jueves 03 Abril 2025 - 13:00  
+TFG matriculado al 2.º cuatrimestre: Jueves 19 Septiembre 2024 - 13:00
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+**__** Hay que tener en cuenta que, para la fecha tope de la revisión de
+progreso, la persona directora o ponente ha de haber aceptado y evaluado el
+progreso.
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+### **Entrega de la memoria (hito final)**
 
-__24 Oct 24
+Después de completar el hito de la revisión del progreso, el siguiente paso a
+realizar es subir el informe final del TFG a través del [Racó](index.md).
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+Hay un plazo estricto para presentar el informe final, que es de**una semana
+antes de la defensa** (consultar el [Racó](index.md) para conocer la fecha
+límite).
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+**__Importante,** la persona directora o ponente tiene que aceptar el informe
+de TFG antes de la fecha límite establecida. El incumplimiento del plazo
+supondrá la retirada automática de la defensa.
 
-__14 Oct 24
+La memoria tiene un formato libre. Es obligatorio incluir:
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
+  * la portada estándar de TFG (que el estudiantado puede autogenerar empleando los mecanismos establecidos por la FIB), y tiene que añadir la información indicada a la normativa específica de la titulación;
+  * un resumen del trabajo (o abstract) de 1 o 2 páginas en catalán, castellano e inglés; e
+  * incorporar un análisis de sostenibilidad e implicaciones éticas según el acuerdo del [Consejo de Gobierno de 07-2023](ca/consell-de-govern/consell-de-govern/sessio-07-2023-del-consell-de-govern/comissio-docencia-i-politica-academica-pendent-celebracio/informacio-de-la-guia-per-incorporar-lanalisi-de-sostenibilitat-i-implicacions-etiques-en-els-tfe/informacio-de-la-guia-per-incorporar-lanalisi-de-sostenibilitat-i-implicacions-etiques-en-els-tfe/@@display-file/visiblefile/Guia%20Informe%20Sostenibilitat%20TFG_TFM_versi%C3%B3%20UPC.pdf.md).
 
-## Haz un recorrido por la historia de la informática
+La normativa específica de cada titulación puede determinar los apartados
+mínimos necesarios. A modo orientativo, se recomienda que la memoria incluya
+los apartados siguientes:
 
-* * *
+  * Portada
+  * Resumen
+  * Índice
+  * Introducción, motivación y objetivos
+  * Estado del arte
+  * Especificación y diseño de la solución
+  * Desarrollo de la propuesta/técnica/trabajo que se ha realizado
+  * Experimentación y evaluación de la propuesta/técnica/trabajo
+  * Análisis de sostenibilidad e implicaciones éticas
+  * Conclusiones
+  * Listado de referencias utilizadas
+  * Anexos con la información complementaria
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+### **Defensa del trabajo**
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+El estudiantado tendrá que defender el TFG en sesión pública ante una comisión
+evaluadora. La comisión evaluadora será designada al menos quince días antes
+de la fecha elegida para la defensa del TFG. En los días siguientes a su
+designación, la comisión comunicará la fecha y lugar precisos para la defensa.
+La comisión evaluadora tendrá acceso al informe de seguimiento y al informe
+final. La evaluación del trabajo es una nota numérica entre 0 y 10.
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+### Articulos relacionados
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+  * [A Proposal to Develop and Assess Professional Skills in Engineering Final Year Projects](sites/fib/files/documents/estudis/tfb-preprint-a-proposal-to-develop-and-assess-professional-skills-in-engineering-final-year-projects.pdf.md) (inglés). International Journal in Engineering Education. Vol. 34, No. 2(A), pp. 400–413, 2018. ISSN 0949-149X.
+  * [Todos mis estudiantes acaban el TFG y en el tiempo previsto](sites/fib/files/documents/estudis/tfg-article-todos-mis-estudiantes-acabanel-tfg-y-en-el-tiempo-previsto.pdf.md) (español). ReVisión, ISSN 1989-1199, Vol 8, Num. 3. pp. 31-46, septiembre 2015. 
+  * [El método socrático como guía del Trabajo de Fin de Grado](sites/fib/files/documents/estudis/tfg-article-metodo-socratico-tfg-2015-1.pdf.md) (español). ReVisión, ISSN 1989-1199, Vol 8, Num. 1. pp. 53-61, enero 2015. 
+  * [Evaluación del Trabajo Final de Grado](sites/fib/files/documents/estudis/tfg-article-jenui2013-evaluacion-tfg.pdf.md) (español). XIX Jornadas de Enseñanza Universitaria de la Informática, JENUI 2013. Páginas 303-310. Castelló de la Plana, Julio de 2013. ISBN: 978-84-695-8051-6. 
+  * [La evaluación de competencias en los trabajos Fin de Estudios](index.php.md) (español). IEEE RITA, Revista Iberoamericana de Tecnologías de Aprendizaje. Vol. 5, número 3, pp 107-114. ISSN 1932-8540. Agosto 2010.
+  * [Guidelines for the final year project assessment in engineering](sites/fib/files/documents/estudis/tfg-article-guidelines-for-the-final-year-project-assessment-in-engineering-fie2009.pdf.md) (inglés). 39th ASEE/IEEE Frontiers in Education Conference, FIE2009. San Antonio, Texas (USA), October 2009, ISBN 978-1-4244-4714-5, ISSN 0190-5848, pág. M2J-1 – M2J-5
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+## También te puede interesar
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+[ Calendario académico curso 2024-2025 GEI, GCED, GIA y BBI
+](sites/fib/files/calendari-academic-2024-2025-graus.pdf.md)
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+[](sites/fib/files/calendari-academic-2024-2025-graus.pdf.md)
 
 ## Dónde estamos
 
@@ -1109,5 +1069,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/grados/grado-en-inteligencia-
+artificial/trabajo-de-fin-de-grado.md)
 

@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/grados/plan-de-accion-
+tutorial/aula-lliure.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/graus/pla-daccio-tutorial/aula-lliure.md "Aula Lliure")
+  * English
+  * [Español](es/estudios/grados/plan-de-accion-tutorial/aula-lliure.md "Aula Lliure")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/grados/plan-de-accion-tutorial/aula-lliure.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,350 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Aula Lliure
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) » [Grados](es/estudios/grados.md)
+» [Plan de acción Tutorial](es/estudios/grados/plan-de-accion-tutorial.md) »
+Aula Lliure
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Aula Lliure](es/estudios/grados/plan-de-accion-tutorial/aula-lliure.md)
+    * [Horarios](es/estudios/grados/plan-de-accion-tutorial/aula-lliure/horarios.md)
+  * [Mentorías entre iguales](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-iguales.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+El proyecto 'Aula Lliure' está diseñado para que los estudiantes de fase
+inicial del GEI puedan aprovechar la experiencia académica de los estudiantes
+más veteranos y así mejorar su rendimiento académico.
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+![](/sites/fib/files/images/fib/aulalliure_br.png)
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+Los veteranos asumen el rol de formadores voluntarios dando clase de repaso y
+refuerzo a los estudiantes de fase inicial del GEI pero solo de aquellas
+asignaturas que se ofrecen en su cuatrimestre natural, es decir, en el Q1 - F,
+IC, FM, PRO1 - y en el Q2 - M1, M2, EC, PRO2-. Las clases son de 2 horas por
+asignatura y se programan un mínimo de 10 sesiones.
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+El Aula Lliure en la FIB se pone en marcha gracias a la iniciativa de dos
+estudiantes del GEI, Daniel Armengod y Eduard Seoane.
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+Su objetivo era trasladar a la FIB el mismo programa que lleva unos cuantos
+años funcionando con mucho éxito en la ETSEIB. El proyecto ha contado, desde
+sus inicios, con el apoyo de la Delegación de estudiantes de la FIB (DEFIB) y
+ha sido impulsado desde la dirección del centro. Finalmente, el programa se
+puso en marcha por primera vez en el curso 2017/2018.
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+Aquellos **formadores voluntarios** , que sean estudiantes de grado y**** que
+participen en esta actividad durante un cuatrimestre, recibirán las
+recompensas siguientes:
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+  * 2 ECTS por actividades universitarias, y
+  * Una bonificación del 20% en el orden de matrícula del siguiente cuatrimestre.
 
-Consulta toda la información en lo referente a este proceso electoral.
+![](/sites/fib/files/images/fib/foto-aulalliure-petita.jpg)
 
-## Noticias
+La organización del Aula Lliure en un cuatrimestre comienza con la publicación
+de una convocatoria para captar formadores.
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+![](/sites/fib/files/images/fib/aulalliure-projector-petita.jpg)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+En la convocatoria para el Q1 se buscan formadores para F, IC, FM y PRO1
+mientras que para el Q2 se solicitan formadores para M1, M2, EC y PRO2. A los
+voluntarios se les asigna la asignatura que impartiran y se espera a que se
+matriculen para decidir el número de grupos por asignatura, los horarios, las
+aulas, etc. En torno a la tercera semana del curso se publica en el Racó un
+**formulario de inscripción** al Aula Lliure para que los estudiantes de Fase
+Inicial puedan matricularse sin ningún coste económico.
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Un estudiante que se inscriba en el Aula Lliure puede indicar, como máximo,
+**4 preferencias** (asignaturas distintas, las mismas pero en horarios
+distintos, etc.). Y al final de la misma semana se procesan todas
+las**solicitudes** , se hace la matrícula de los inscritos (asignatura, grupo)
+y se les notifica la asignación por correo electrónico.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## Histórico de ediciones
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+#### [Curs 22/23-Q2](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
+
+En esta edición hemos contado con 6 profesores becados y 7 profesores
+voluntarios. La oferta ha constado de un total de 22 grupos de las asignaturas
+EC, M1, M2, PRO2 y PRO1. Ocho profesores de Aula Lliure participaron en el
+curso "Taller de formación para el Aula Lliure" impartido por el profesor
+David López.  
+  
+Cifras de la edición:
+
+  * La oferta docente ha constado de 7 grupos de EC, 4 grupos de M1, 4 grupos de M2, 5 grupos de PRO2 y 2 grupos de PRO1.
+  * Se han inscrito 95 alumnos, con un total de 222 matrículas.
+  * Sobre las encuestas a los estudiantes: 
+    * Ha habido 32 respuestas de estudiantes, un 33% sobre el total de matriculados.
+    * En cuanto a su formador de Aula Lliure, el 84,4% lo considera ‘muy buen docente’ o ‘excelente’ y el 81,4% dice que la ayuda a comprender (mucho, excelente) la asignatura.
+    * Un 59,4% dice que ha ido a muchas clases (entre un 50 y un 100%) y un 31,3% ha asistido bastante (entre un 25 y un 50% de las sesiones).
+    * El 100% de los encuestados considera que el programa es útil para ENTENDER la asignatura y el 100% para APROBARLA. Finalmente, el 100% recomiendan el Aula Lliure.
+
+Toda la docencia ha sido mayoritariamente impartida de forma presencial.
+Además, en la encuesta realizada al profesorado de Aula Lliure, estos han
+indicado qué competencias transversales piensan que la actividad fomenta.
+Concretamente, piensan que han mejorado en mayor medida en Comunicación oral y
+escrita, Aprendizaje autónomo, Actitud adecuada ante el trabajo y
+Razonamiento. Es decir, podemos afirmar que, no tan solo aprenden el alumnos,
+sino también lo hacen los profesores.
+
+#### [Curs 22/23-Q1](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
+
+En esta edición hemos contado con 6 profesores becarios y 6 profesores
+voluntarios. Se ha podido generar una oferta de 20 grupos de PRO1, PRO2, IC,
+FM y F. Todos los profesores que tuvieron disponibilidad participaron en el
+curso “Taller de formación por el Aula Lliure” que imparte el profesor David
+López.  
+  
+A continuación se muestran cifras y resultados de esta edición.
+
+  * La oferta docente ha constado de 6 grupos de PRO1, 2 grupos de PRO2, 4 grupos de FM, 4 grupos de F y 4 grupos de IC.
+  * Se ha inscrito un total de 149 alumnos con un total de 236 matrículas.
+  * En cuanto a las encuestas de satisfacción de los estudiantes: 
+    * Ha habido 64 respuestas, correspondiendo al 43% del total de estudiantes inscritos.
+    * En cuanto a su formador del Aula Lliure, el 81,3% afirma que su profesor domina la materia totalmente, y el otro 18,7% opina que la domina bastante bien.
+    * En el 87,5% de los casos, los alumnos comentan que los profesores se muestran accesibles.
+    * En cuanto a la asistencia, un 51,6% ha ido entre un 75% y 100% de las clases, y un 28,1% ha ido entre un 50% y 75% de las clases. El otro 20,3% ha asistido esporádicamente.
+    * Un 92,2% afirma que el Aula Lliure es de gran utilidad para aprobar la asignatura y un 98,4% recomienda asistir al Aula Lliure.
+
+La docencia ha sido impartida de forma completamente presencial. Además, en la
+encuesta realizada al profesorado del Aula Lliure ha quedado reflejada que su
+experiencia participando dentro del proyecto los ha ayudado a mejorar su
+competencia en **Comunicación oral y escrita** y en **Uso solvente de los
+recursos y de la información**.  
+  
+En esta edición hemos hecho el récord de número de alumnos inscritos.
 
-[Cita previa](ca/cita-previa.md)
+#### [Curso 21/22-Q2](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 
-## Premios y reconocimientos
+En esta edición hemos contado con 6 profesores becados y 9 profesores
+voluntarios. Se ha podido ofertar un total de 19 grupos de EC, M1, M2, PRO2 y
+PRO1. Todos los profesores que tuvieron disponibilidad participaron en el
+curso ‘Taller de formación para el Aula Lliure’ impartido por el profesor
+David López.
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+Cifras de la edición:
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+  * La oferta docente ha constado de 4 grupos de EC, 4 grupos de M1, 3 grupos de M2, 5 grupos de PRO2 y 3 grupos de PRO1.
 
-__16 Dec 24
+  * Se han inscrito 92 alumnos, con un total de 216 matrículas.
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+  * Sobre las encuestas a los estudiantes:
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+    * Ha habido 86 respuestas de estudiantes, un 40% sobre el total de inscripciones(216).
 
-__09 Dec 24
+    * En cuanto a su formador del Aula Lliure, el 98,8% lo considera ‘muy buen docente’ o ‘excelente’ y el 98,8% dice que la ayuda a comprender (mucho, excelente) la asignatura. Un 64% dice que ha ido a muchas clases (entre un 50 y un 100%) y un 24,4% ha asistido bastante (entre un 25 y un 50% de las sesiones). El 100% de los encuestados considera que el programa es útil para ENTENDER la asignatura y el 91,9% para APROBARLA. Finalmente, el 100% recomiendan el aula Libre.
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+Toda la docencia ha sido mayoritariamente impartida de forma presencial, a
+pesar de que algunos profesores han impartido algunas clases de forma en línea
+(sobre todo las clases de repaso de cara a los exámenes) para fomentar la
+asistencia. Además, en la encuesta realizada al profesorado de Aula Libre,
+estos han indicado qué competencias transversales piensan que la actividad
+fomenta. Concretamente, piensan que han mejorado en mayor medida en
+Comunicación oral y escrita, Aprendizaje autónomo, Actitud adecuada ante el
+trabajo y Razonamiento. Es decir, podemos afirmar que, no tan solo aprenden el
+alumnos, sino también lo hacen los profesores.  
+En esta edición hemos hecho el récord de número de profesorado voluntario del
+Aula Lliure.
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+#### [Curso 21/22-Q1](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 
-__22 Nov 24
+En esta edición hemos contado con 6 profesores becados y 7 profesores
+voluntarios. Se ha podido ofertar un total de 17 grupos de PRO1, IC, FM, F y
+PRO2. Todos los profesores que tuvieron disponibilidad participaron en el
+curso ‘Taller de formación para el Aula Lliure’ impartido por el profesor
+David López.
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+Cifras de la edición:
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+  * La oferta docente ha constado de 2 grupos de F, 3 grupos de FM, 5 grupos de IC, 5 grupos de PRO1 y 2 grupos de PRO2.
 
-__24 Oct 24
+  * Se han inscrito 125 alumnos, con un total de 221 matrículas.
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+  * Sobre las encuestas a los estudiantes:
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+    * Ha habido 70 respuestas de estudiantes, que es un 32% del total de inscripciones(221).
 
-__14 Oct 24
+    * En cuanto a su formador de Aula Lliure, el 98,6% lo considera ‘muy buen docente’ o‘excelente’ y el 98,6% dice que la ayuda a comprender (mucho, excelente) la asignatura. Un 67,2% dice que ha ido a muchas clases (entre un 50 y un 100%) y un 28,6% ha asistido bastante (entre un 25 y un 50% de las sesiones). El 100% considera que el programa es útil para ENTENDER la asignatura y un 95,7% para APROBARLA. Finalmente, el 100% recomienda el Aula Lliure.
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
+Toda la docencia ha sido impartida de forma presencial, a pesar de que algunas
+clases se han realizado de forma híbrida (presencial y retransmitida por meet)
+para maximizar la asistencia. Además, en esta edición hemos hecho el récord de
+alumnos inscritos y de inscripciones totales, así como de número de grupos
+ofrecidos.
 
-## Haz un recorrido por la historia de la informática
+#### [Curso 20/21-Q2](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 
-* * *
+En este curso hemos contado con 6 profesores becados y 2 profesores
+voluntarios, que recibirán una compensación de 2 ECTS. Se ha podido ofertar un
+total de 12 grupos de las asignaturas PRO2, EC, M1, M2 y PRO1. A pesar de que
+PRO1 no pertenece al cuatrimestre natural, nos pareció interesante abrir 2
+grupos para ayudar a los alumnos repetidores a superarla. Todos los profesores
+participaron en una nueva edición del curso impartido por el profesor David
+López ‘Taller de formació per l’Aula Lliure’.
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+Cifras de la edición:
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+  * La oferta docente ha constado de 2 grupos de EC, 2 grupos de M1, 2 grupos de M2, 4 grupos de PRO2 y 2 grupos de PRO1.
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+  * Se han inscrito 63 alumnos, con un total de 143 matrículas.
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+  * Sobre las encuestas a los estudiantes:
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+    * Ha habido 50 respuestas de estudiantes (79%).
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+    * De su formador del Aula Lliure, el 98% lo considera ‘muy buen docente’ o ‘excelente’ y el 98% dice que la ayuda a comprender (mucho, excelente) la asignatura. Un 78% dice que ha ido a muchas clases (entre un 50 y un 100%) y un 12% ha asistido bastante (entre un 25 y un 50% de las sesiones). El 100% consideran que es útil para ENTENDER la asignatura y un 96% para APROBARLA. Finalmente, el 100% recomienda el Aula Lliure.
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+#### [Curso 20/21-Q1](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+En esta edición hemos contado con 6 profesores becados y 3 profesores
+voluntarios, que recibirán una compensación de 2 ECTS. Se ha podido ofertar un
+total de 13 grupos de las asignaturas PRO1, IC, FM y F. Todo el profesorado ha
+participado en el curso ‘Taller de formació per l’Aula Lliure’ impartido por
+el profesor David López, que empezó a impartirse el curso pasado.
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+El programa en cifras:
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+  * La oferta docente ha constado de 2 grupos de F, 2 grupos de FM, 4 grupos de IC y 5 grupos de PRO1.
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+  * Se han inscrito 96 alumnos, con un total de 203 matrículas.
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+  * Sobre las encuestas a los estudiantes:
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+    * HHa habido 64 respuestas de estudiantes (67%).
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+    * En cuanto a su formador de Aula Lliure, el 84% lo considera ‘muy buen docente’ o ‘excelente’ y el 87,5% dice que la ayuda a comprender (mucho, excelente) la asignatura. Un 71,9% dice que ha ido a muchas clases (entre un 50 y un 100%) y un 15,6% ha asistido bastante (entre un 25 y un 50% de las sesiones). El 92,2% consideran que el programa es útil para ENTENDER la asignatura y un 95,3% para APROBARLA. Finalmente, el 92,2% recomiendan el Aula Lliure.
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+A pesar de que este cuatrimestre las clases tuvieron que ir cambiando de
+presencial a en línea y a métode híbrido (presenciales y retransmitidas por
+meet), de acuerdo con la opinión de los alumnos podemos concluir que el
+desarrollo de la actividad ha estado satisfactorio.
 
-## Acreditaciones de calidad
+#### [Curso 19/20](es/estudios/grados/plan-de-accion-tutorial/aula-lliure.md)
 
-### Sellos AQU
+Como novedad de este curso, los 8 profesores de Aula Libre (PAL) del Q1 han
+asistido al curso ‘Taller de formación de Aula Libre’ de 10 horas impartido
+por el profesor David López en la primera semana de septiembre, con el
+objetivo fundamental de conocer técnicas para mejorar la atención de los
+estudiantes. Por lo que recompensas respecta, los PAL han recibido 2 ECTS por
+actividades extrauniversitarias y una bonificación del 20% en el orden de
+matrícula del siguiente cuadrimestre, así como la certificación de la
+participación en la actividad formativa. Los profesores y profesoras
+coordinadores de las asignaturas del grado han recibido un informe de su
+asignatura elaborado por los estudiantes que forman parte del Aula Libre.
 
-**GEI**
+Por lo que respecta a Q2, 5 PAL participaron en el “Taller de formació per
+l’Aula Lliure” que volvió a impartir el profesor David López el mes de
+febrero. Durante el Q2 la actividad del aula libre se ha visto muy afectada
+por el confinamiento. Aún con eso, algunos de los 7 PAL han continuado
+haciendo soporte académico on-line.
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+![](/sites/fib/files/images/aulalliure19-20.png)
 
-**GCED**
+#### [Curso 18/19 Q1](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+Se ha contado con 4 formadores voluntarios que han hecho clases de refuerzo /
+repaso de 3 asignaturas del Q1 de Fase inicial (Pro1, FM y IC).
 
-**GIA**
+Algunas cifras de esta edición:
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+  * Se han abierto 1 grupo de FM, 2 de IC y 1 de Pro1.
+  * Se han inscrito oficialmente 73 estudiantes y ha habido un número total de 109 matrículas.
+  * En cuanto a las encuestas a los estudiantes. 
+    * Contestaron 36 estudiantes (50%).
+    * De las respuestas de los estudiantes: De su formador del Aula Libre, el 86% lo considera 'muy buen docente' y el 92% dice que le ayuda a comprender (mucho, bastante) la asignatura. Un 55% dice que ha ido a muchas clases (entre un 50 y un 100%) y un 14% ha ido a bastantes clases (entre un 25 y un 50%). El 89% consideran que es útil para ENTENDER la asignatura y el 83% que es útil para APROBACIÓN. Y el 92% recomiendan el Aula Libre.
 
-**MEI**
+Los profesores coordinadores de las asignaturas del grado han recibido un
+informe de su asignatura elaborado por el estudiantado formador del Aula
+Libre. Por primera vez se ha medido el impacto del Aula Libre sobre el
+rendimiento académico de los estudiantes, que se puede consultar en "Una
+Propuesta de mentoría académica entre iguales para el grado en ingeniería
+informática" María Teresa Abad, Gemma Sesé y José Fernández (Actas de las
+Jenui, Vol 4 (2019), 343-348).
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+#### [Curso 18/19 Q2](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 
-**MIRI**
+Se ha contado con 3 formadores que han impartido las asignaturas EC, M1 y
+PRO2.
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+Algunas cifras de esta edición:
 
-**MAI**
+  * Se han abierto 1 grupo de cada asignatura impartida.
+  * Se han inscrito oficialmente 44 estudiantes y ha habido un número total de 70 matrículas.
+  * En cuanto a las encuestas a los estudiantes. 
+    * Contestaron 16 estudiantes (36%).
+    * De su formador del Aula Libre, el 81% lo considera 'muy buen docente' y el 88% dice que le ayuda a comprender (mucho, bastante) la asignatura. Un 56% dicen que ha ido a muchas clases (entre un 50 y un 100%) y un 6% ha asistido bastante (entre un 25 y un 50% de las sesiones). El 100% consideran que es útil para ENTENDER la asignatura y también para APROBACIÓN. Y el 100% recomiendan el Aula Libre.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+#### [Curso 17/18 Q2](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 
-**MFPS**
+Se ha contado con 3 formadores (2 de los cuales repiten del cuatrimestre
+anterior) que han dado M1 (1 grupo), PRO2 (1 grupo) y EC (2 grupos). Por
+desgracia no se ha podido ofrecer M2 por falta de formador. Las clases han
+comenzado la semana del 12 de marzo y han acabado la primera semana del mes de
+junio.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+Algunas cifras de esta edición:
 
-**MDS**
+  * Se han abierto 2 grupos de EC, 1 de PRO2 y 1 de M1.
+  * Los matriculados, por asignatura, han sido: 
+    * 20 matriculados en AL-PRO2.
+    * 69 matriculados en AL-EC (g10 (44), g20 (25)).
+    * 53 matriculados en AL-M1.
+  * Al finalizar el cuatrimestre, se han pasado encuentas tanto a estudiantes como a formadores. 
+    * Han contestado 47 estudiantes (34,3 % de los matriculados): 
+      * PRO2: 8 respuestas.
+      * EC: 23 respuestas.
+      * M1: 16 respuestas.
+    * De entre los que han contestado:De su formador de Aula Lliure, el 76,6% lo considera 'muy buen docente' y el 89,3% opina que le ayuda a comprender la asignatura (mucho, bastante). Un 48,9% considera que ha ido a muchas clases (entre un 75 y un 100%) y un 25,5% dice que ha ido a bastantes (entre un 50 y un 75%). El 93,6% consideran que la actividad es útil para ENTENDER la asignatura y también para APROBARLA. Y el 95,7% recomienda Aula Lliure.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+Se ha conseguido identificar a todos los asistentes. Se han incorporado los
+resultados al 'Cuadro de dirección' para hacer un estudio del impacto sobre
+los resultados académicos. Se irán acumulando los datos de cada edición.
 
-### Sellos Euro-inf
+#### [Curso 17/18 Q1 (primera edición)](es/estudios/grados/plan-de-accion-
+tutorial/aula-lliure.md)
 
-**GEI**
+Se ha contado con 7 formadores voluntarios que han hecho clase de
+refuerzo/repaso de las 4 asignaturas del Q1 de Fase Inicial (PRO1, F, FM y
+IC). Las sesiones han comenzado la semana del 2 de octubre y han acabado la
+del 18 de diciembre.
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+Algunas cifras de esta primera edición:
 
-**MEI y MIRI**
+  * Se han abierto 6 grupos de PRO1, 4 de IC, 2 de F y 1 de FM.
+  * Se han inscrito oficialmente 131 estudiantes: 
+    * 1 asignatura: 31 personas,
+    * 2 asignaturas: 51 personas,
+    * 3 asignaturas: 42 personas,
+    * 4 asignaturas: 7 personas.
+  * La distribución de matrículados por asignatura ha sido: 
+    * 94 matriculados en AL-PRO1 (6 grupos: g10 (25 estudiantes), g20 (19), g30 (14), g50 (14), g60 (16), g70 (6))
+    * 84 matriculados en AL-IC (4 grupos: g10 (16), g20 (26), g30 (23), g40 (19))
+    * 39 matriculados en AL-F (2 grupos: g10 (26), g20 (13))
+    * 26 matriculados en AL-FM (1 grupo: g10 (26))
+  * Una vez finalizado el cuatrimestre, se han pasado encuestas a estudiantes y formadores con el resultado siguiente: 
+    * Han contestado 64 estudiantes (89,1 % inscritos oficialmente): 
+      * F: 15 respuestas.
+      * FM: 12 respuestas.
+      * IC: 16 respuestas.
+      * PRO1: 21 respuestas.
+    * De entre los que han contestado: De su formador de Aula Lliure, el 73,4% lo considera 'muy buen docente' y el 92,2% opina que le ayuda a comprender la asignatura (mucho, bastante). Un 51,6% considera que ha ido a muchas clases (entre un 75 y un 100%) y un 29,7% dice que ha ido a bastantes (entre un 50 y un 75%). El 100% consideran que la actividad es útil para ENTENDER la asignatura mientras que el 92,2 % consideran que es útil para APROBARLA. El 100% recomienda Aula Lliure.
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+  * El coordinador de cada asignatura del GEI (PRO1, F, FM, IC) ha mantenido una reunión inicial con uno de los formadores de esa asignatura en el Aula Lliure para planificar el contenido de las sesiones y facilitarles el material docente necesario para las clases. Así mismo, una vez acabada la actividad, ha recibido un informe, elaborado por los formadores, sobre el desarrollo de los contenidos de las clases. 
+  * En algunos grupos se ha podido identificar a los asistentes y su frecuencia de asistencia. A partir de esa información y de sus resultados académicos, intentaremos 'medir' el impacto académico del Aula Lliure.
 
 ## Dónde estamos
 
@@ -1109,5 +1098,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/grados/plan-de-accion-tutorial/aula-
+lliure.md)
 

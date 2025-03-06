@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/movilidad/alianzas-
+internacionales/universidades-partner.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/mobilitat/aliances-internacionals/universitats-partner.md "Universitats partner")
+  * [English](en/mobility/international-partnerships/partner-universities.md "Partner universities")
+  * [Español](es/movilidad/alianzas-internacionales/universidades-partner.md "Universidades partner")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/movilidad/alianzas-internacionales/universidades-partner.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,300 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Universidades partner
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Movilidad](es/movilidad.md) » [Alianzas
+Internacionales](es/movilidad/alianzas-internacionales.md) » Universidades
+partner
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Programas de Movilidad](es/movilidad/alianzas-internacionales/programas-de-movilidad.md)
+  * [Redes Universitarias](es/movilidad/alianzas-internacionales/redes-universitarias.md)
+  * [Universidades partner](es/movilidad/alianzas-internacionales/universidades-partner.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+## Lista de universidades con convenio de doble titulación
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+  * ### Alemania
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+  * [Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) (Double Degree - EUMaster4HPC)](es/mobilitat/aliances-internacionals/universitats-partner/D__ERLANGE01-DT.md)
+  * ### EUA
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+  * [Georgia Institute of Technology - Georgia Tech Lorraine (Double Degree)](es/mobilitat/aliances-internacionals/universitats-partner/USA_ATLANT01-DT.md)
+  * ### Francia
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+  * [Clermont Auvergne Institut National Polytechnique (Double Degree)](es/mobilitat/aliances-internacionals/universitats-partner/F_AUBIERE04-DT.md)
+  * [Institut National Universitaire Champollion (Double Degree)](es/mobilitat/aliances-internacionals/universitats-partner/F_ALBI11-DT.md) (solo hasta el curso 2024-2025)
+  * [Sorbonne Université - (Double Degree - EUMaster4HPC)](es/mobilitat/aliances-internacionals/universitats-partner/F__PARIS468-DT.md) (solo hasta el curso 2024-2025)
+  * ### Italia
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+  * [Politecnico di Torino (Double Degree)](es/mobilitat/aliances-internacionals/universitats-partner/I_TORINO02-DT.md)
+  * [Università degli Studi di Padova (Double Degree)](es/mobilitat/aliances-internacionals/universitats-partner/I__PADOVA01-DT.md)
+  * ### Luxemburgo
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+  * [Université du Luxembourg (Double Degree - EUMaster4HPC)](es/mobilitat/aliances-internacionals/universitats-partner/LUXLUX-VIL01-DT.md) (solo hasta el curso 2024-2025)
+  * ### Perú
 
-Consulta toda la información en lo referente a este proceso electoral.
-
-## Noticias
-
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
-
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
-
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+  * [Pontificia Universidad Católica del Perú (Double Degree)](es/mobilitat/aliances-internacionals/universitats-partner/PERLIMA06-DT.md)
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+## Lista de universidades
+
+  * ### Alemania
+
+  * [Albert-Ludwigs-Universitat Freiburg](es/mobilitat/aliances-internacionals/universitats-partner/D_FREIBUR01.md)
+  * [Friedrich-Alexander-Universitat Erlangen-Nurnberg](es/mobilitat/aliances-internacionals/universitats-partner/D_ERLANGE01.md)
+  * [Goethe University Frankfurt](es/mobilitat/aliances-internacionals/universitats-partner/D_FRANKFU01.md)
+  * [Gottfried Wilhelm Leibniz Universitat Hannover](es/mobilitat/aliances-internacionals/universitats-partner/D_HANNOVE01.md)
+  * [Julius-Maximilians Universitaet Wuerzburg](es/mobilitat/aliances-internacionals/universitats-partner/D__WURZBUR01.md)
+  * [Karlsruher Institut fur Technologie (Fakultat fur Wirtschaftswissenschaften)](es/mobilitat/aliances-internacionals/universitats-partner/D_KARLSRU01-ECO.md)
+  * [Karlsruher Institut fur Technologie (Institut fur Technische Informatik)](es/mobilitat/aliances-internacionals/universitats-partner/D_KARLSRU01-INF.md)
+  * [Philipps - Universitat Marburg](es/mobilitat/aliances-internacionals/universitats-partner/D_MARBURG01.md)
+  * [Rheinisch Westfalische Technische Hochschule Aachen](es/mobilitat/aliances-internacionals/universitats-partner/D_AACHEN01.md)
+  * [Ruhr-Universität Bochum (RUB)](es/mobilitat/aliances-internacionals/universitats-partner/D_BOCHUM01.md)
+  * [Technische Universität Berlin](es/mobilitat/aliances-internacionals/universitats-partner/D_BERLIN02.md)
+  * [Technische Universitat Darmstad](es/mobilitat/aliances-internacionals/universitats-partner/D_DARMSTA01.md)
+  * [Technische Universität München](es/mobilitat/aliances-internacionals/universitats-partner/D_MUNCHEN02.md)
+  * [Universität des Saarlandes](es/mobilitat/aliances-internacionals/universitats-partner/D_SAARBRU01.md)
+  * [Universitat Leipzig](es/mobilitat/aliances-internacionals/universitats-partner/D_LEIPZIG01.md)
+  * [Universitat Mannheim](es/mobilitat/aliances-internacionals/universitats-partner/D_MANNHEI01.md)
+  * [University of Stuttgart](es/mobilitat/aliances-internacionals/universitats-partner/D__STUTTGA01.md)
+  * ### Argentina
+
+  * [Instituto Tecnológico de Buenos Aires](es/mobilitat/aliances-internacionals/universitats-partner/AL_ARGBUENOSA12.md)
+  * [Universidad de Buenos Aires](es/mobilitat/aliances-internacionals/universitats-partner/ARGBUENOSA01.md)
+  * ### Austria
+
+  * [Fachhochschule Vorarlberg](es/mobilitat/aliances-internacionals/universitats-partner/A_DORNBIR01.md)
+  * [Salzburg University of Applied Sciences](es/mobilitat/aliances-internacionals/universitats-partner/A__SALZBUR08.md)
+  * [Technische Universitaet Graz](es/mobilitat/aliances-internacionals/universitats-partner/A__GRAZ02.md)
+  * [Technische Universitat Wien - Faculty of Electrical Engineering and Information Technology](es/mobilitat/aliances-internacionals/universitats-partner/A_WIEN02-ELEC.md)
+  * [Technische Universitat Wien - Faculty of Informatics](es/mobilitat/aliances-internacionals/universitats-partner/A_WIEN02-INFO.md)
+  * ### Bélgica
+
+  * [Katholieke Universiteit Leuven](es/mobilitat/aliances-internacionals/universitats-partner/B__LEUVEN01.md)
+  * [Université Catholique de Louvain - École Polytechnique de Louvain (EPL)](es/mobilitat/aliances-internacionals/universitats-partner/B_LOUVAIN01.md)
+  * [Université Catholique de Louvain - Faculty of Sciences (SC)](es/mobilitat/aliances-internacionals/universitats-partner/B_LOUVAIN01-FSC.md)
+  * [Universiteit Antwerpen](es/mobilitat/aliances-internacionals/universitats-partner/B_ANTWERP01.md)
+  * [Universiteit Gent](es/mobilitat/aliances-internacionals/universitats-partner/B_GENT01.md)
+  * [Vrije Universiteit Brussel](es/mobilitat/aliances-internacionals/universitats-partner/B_BRUSSEL01.md)
+  * ### Bolívia
+
+  * [Universidad Católica Boliviana (CINDA)](es/mobilitat/aliances-internacionals/universitats-partner/BO_CATOLILAPAZ.md) (solo hasta el curso 2024-2025)
+  * ### Brasil
+
+  * [Federal University of Sao Carlos](es/mobilitat/aliances-internacionals/universitats-partner/BRASAOCA01.md)
+  * [Universidade de Sao Paulo](es/mobilitat/aliances-internacionals/universitats-partner/BRASAOPAUL03.md)
+  * ### Bulgaria
+
+  * [Technical University of Sofia](es/mobilitat/aliances-internacionals/universitats-partner/BG_SOFIA16.md)
+  * ### Canadá
+
+  * [École Polytechnique Montréal](es/mobilitat/aliances-internacionals/universitats-partner/CANMONTREAL01.md)
+  * [Universite du Quebec (ETS)](es/mobilitat/aliances-internacionals/universitats-partner/CAN_ESMONT.md)
+  * ### Chile
+
+  * [Pontificia Universidad Católica de Chile](es/mobilitat/aliances-internacionals/universitats-partner/CHISANTIAGOCH08.md)
+  * [Universidad Andrés Bello](es/mobilitat/aliances-internacionals/universitats-partner/CHISANTIAGOCH12.md)
+  * [Universidad de Valparaíso](es/mobilitat/aliances-internacionals/universitats-partner/CHIVALPARA05.md) (solo hasta el curso 2024-2025)
+  * [Universidad Técnica Federico Santa Maria](es/mobilitat/aliances-internacionals/universitats-partner/CHIVALPARA02.md)
+  * ### China
+
+  * [Beihang University](es/mobilitat/aliances-internacionals/universitats-partner/CHNBEIJING04.md)
+  * [Beijing Institute of Technology](es/mobilitat/aliances-internacionals/universitats-partner/CHNBEIJING05.md)
+  * [City University of Hong Kong](es/mobilitat/aliances-internacionals/universitats-partner/CHNHONGKO01.md)
+  * [South China University Of Technology](es/mobilitat/aliances-internacionals/universitats-partner/CH_GUANGZHOU01.md)
+  * ### Chipre
+
+  * [Panepistimio Kyprou](es/mobilitat/aliances-internacionals/universitats-partner/CY_NICOSIA01.md)
+  * ### Colombia
+
+  * [Pontificia Universidad Javieriana](es/mobilitat/aliances-internacionals/universitats-partner/AL_CO-PUJ.md) (solo hasta el curso 2024-2025)
+  * [Universidad de los Andes](es/mobilitat/aliances-internacionals/universitats-partner/AL_CO-UA.md) (solo hasta el curso 2024-2025)
+  * ### Corea del Sur
+
+  * [Incheon National University](es/mobilitat/aliances-internacionals/universitats-partner/KR_INCHEON01.md)
+  * ### Croacia
+
+  * [University of Zagreb](es/mobilitat/aliances-internacionals/universitats-partner/HR_ZAGREB01.md)
+  * ### Dinamarca
+
+  * [IT University of Copenhagen](es/mobilitat/aliances-internacionals/universitats-partner/DK_KOBENHA52.md)
+  * [Syddansk Universiteit](es/mobilitat/aliances-internacionals/universitats-partner/DK_ODENSE01.md)
+  * [Technical University of Denmark](es/mobilitat/aliances-internacionals/universitats-partner/DK_LYNGBY01.md)
+  * ### Eslovaquia
+
+  * [Slovenska Technicka Univerzita V Bratislave - FIIT](es/mobilitat/aliances-internacionals/universitats-partner/SK_BRATISL01.md)
+  * ### Eslovenia
+
+  * [Univerza v Mariboru](es/mobilitat/aliances-internacionals/universitats-partner/SI_MARIBOR01.md)
+  * ### España
+
+  * [Universidad Autonoma de Madrid](es/mobilitat/aliances-internacionals/universitats-partner/E_MADRID04.md)
+  * [Universidad Carlos III de Madrid](es/mobilitat/aliances-internacionals/universitats-partner/E_MADRID14.md)
+  * [Universidad de Alicante](es/mobilitat/aliances-internacionals/universitats-partner/E_ALICANTE01.md)
+  * [Universidad de Cádiz](es/mobilitat/aliances-internacionals/universitats-partner/E_CADIZ01.md)
+  * [Universidad de Córdoba](es/mobilitat/aliances-internacionals/universitats-partner/E_CÓRDOBA01.md)
+  * [Universidad de Deusto](es/mobilitat/aliances-internacionals/universitats-partner/E_BILBAO02.md)
+  * [Universidad de Granada](es/mobilitat/aliances-internacionals/universitats-partner/E_GRANADA01.md)
+  * [Universidad de la Laguna](es/mobilitat/aliances-internacionals/universitats-partner/E_TENERIF01.md)
+  * [Universidad de las Palmas de Gran Canaria](es/mobilitat/aliances-internacionals/universitats-partner/E_LAS-PAL01.md)
+  * [Universidad de Malaga](es/mobilitat/aliances-internacionals/universitats-partner/E_MALAGA01.md)
+  * [Universidad de Murcia](es/mobilitat/aliances-internacionals/universitats-partner/E_MURCIA01.md)
+  * [Universidad de Oviedo](es/mobilitat/aliances-internacionals/universitats-partner/E_OVIEDO01.md)
+  * [Universidad de Santiago de Compostela](es/mobilitat/aliances-internacionals/universitats-partner/E_SANTIAG01.md)
+  * [Universidad de Sevilla](es/mobilitat/aliances-internacionals/universitats-partner/E_SEVILLA01.md)
+  * [Universidad De Valladolid](es/mobilitat/aliances-internacionals/universitats-partner/E__VALLADO01.md)
+  * [Universidad de Zaragoza](es/mobilitat/aliances-internacionals/universitats-partner/E_ZARAGOZ01.md)
+  * [Universidad del País Vasco (EHU) - Escuela de Ingeniería de Vitoria-Gasteiz](es/mobilitat/aliances-internacionals/universitats-partner/E_BILBAO01-EIVG.md)
+  * [Universidad del País Vasco (EHU) - Facultad de Economía y Empresa](es/mobilitat/aliances-internacionals/universitats-partner/E_BILBAO01-FEE.md)
+  * [Universidad del Pais Vasco (EHU) - Facultad de Informática de San Sebastián](es/mobilitat/aliances-internacionals/universitats-partner/E_DONOSTIA99.md)
+  * [Universidad Pablo de Olavide](es/mobilitat/aliances-internacionals/universitats-partner/E_SEVILLA03.md)
+  * [Universidad Politecnica de Madrid](es/mobilitat/aliances-internacionals/universitats-partner/E_MADRID01.md)
+  * [Universidad Politécnica de Valencia](es/mobilitat/aliances-internacionals/universitats-partner/E_VALENCI02.md)
+  * [Universidad Pública de Navarra](es/mobilitat/aliances-internacionals/universitats-partner/E_PAMPLON02.md)
+  * [Universitat de les Illes Balears](es/mobilitat/aliances-internacionals/universitats-partner/E_PALMA01.md)
+  * [Universitat de València](es/mobilitat/aliances-internacionals/universitats-partner/E_VALENCI01.md)
+  * [Universitat Jaume I](es/mobilitat/aliances-internacionals/universitats-partner/E_CASTELL01.md)
+  * [Universitat Rovira i Virgili](es/mobilitat/aliances-internacionals/universitats-partner/E_TARRACO01.md)
+  * ### Estonia
+
+  * [Tartu Ülikool](es/mobilitat/aliances-internacionals/universitats-partner/EE_TARTU02.md)
+  * ### EUA
+
+  * [Georgia Institute of Technology](es/mobilitat/aliances-internacionals/universitats-partner/USA_ATLANTA01.md)
+  * ### Finlandia
+
+  * [Aalto Yliopisto](es/mobilitat/aliances-internacionals/universitats-partner/SF_ESPOO12.md)
+  * [University of Oulu](es/mobilitat/aliances-internacionals/universitats-partner/SF_OULU01-ITEE.md)
+  * ### Francia
+
+  * [Centrale Lille](es/mobilitat/aliances-internacionals/universitats-partner/F_LILLE14.md)
+  * [Centrale SUPÉLEC](es/mobilitat/aliances-internacionals/universitats-partner/F_GIF-YVE03.md)
+  * [Clermont Auvergne Institut National Polytechnique](es/mobilitat/aliances-internacionals/universitats-partner/F_AUBIERE04.md)
+  * [École Centrale de Lyon](es/mobilitat/aliances-internacionals/universitats-partner/F_LYON11.md)
+  * [École Centrale de Marseille](es/mobilitat/aliances-internacionals/universitats-partner/F_MARSEIL11.md)
+  * [École Centrale de Nantes](es/mobilitat/aliances-internacionals/universitats-partner/F_NANTES07.md)
+  * [École Centrale d'Electronique (ECE Paris)](es/mobilitat/aliances-internacionals/universitats-partner/F_PARIS222.md)
+  * [École Francaise Electronique et Informatique (EFREI)](es/mobilitat/aliances-internacionals/universitats-partner/F_PARIS066.md)
+  * [École Normale Superieure de Lyon](es/mobilitat/aliances-internacionals/universitats-partner/F_LYON103.md)
+  * [École Supérieure d'Ingenieur en Électronique et Électrotechnique (ESIEE PARIS)](es/mobilitat/aliances-internacionals/universitats-partner/F_NOISY02.md)
+  * [EPF École d'Ingénieurs](es/mobilitat/aliances-internacionals/universitats-partner/F_SCEAUX01.md)
+  * [Grenoble INP (ENSIMAG) - UGA Institute Of Engineering And Management](es/mobilitat/aliances-internacionals/universitats-partner/F_GRENOBL22-ENSIMAG.md)
+  * [Grenoble INP (ESISAR) - UGA Institute Of Engineering And Management](es/mobilitat/aliances-internacionals/universitats-partner/F__GRENOBL22-ESISAR.md)
+  * [Institut National des Sciences Appliquées de Lyon (INSA Lyon)](es/mobilitat/aliances-internacionals/universitats-partner/F_LYON12.md)
+  * [Institut National Polytechnique de Toulouse](es/mobilitat/aliances-internacionals/universitats-partner/F_TOULOUS28.md)
+  * [Institut National Universitaire Champollion](es/mobilitat/aliances-internacionals/universitats-partner/F_ALBI11.md)
+  * [Sorbonne universités](es/mobilitat/aliances-internacionals/universitats-partner/F_PARIS468.md)
+  * [Université de Lorraine](es/mobilitat/aliances-internacionals/universitats-partner/F_NANCY43.md)
+  * [Université de Montpellier](es/mobilitat/aliances-internacionals/universitats-partner/F_MONTPEL54.md)
+  * [Universite de Nantes - Polytech Nantes](es/mobilitat/aliances-internacionals/universitats-partner/F_NANTES01.md)
+  * [Universite de Rennes 1](es/mobilitat/aliances-internacionals/universitats-partner/F_RENNES01.md)
+  * ### Grecia
+
+  * [Ethniko Metsovio Polythecnio](es/mobilitat/aliances-internacionals/universitats-partner/G_ATHINE02.md)
+  * [Panepistimio Kritis](es/mobilitat/aliances-internacionals/universitats-partner/G_KRITIS01.md)
+  * [University of West Attica - Panepistimio Dytikis Attikis](es/mobilitat/aliances-internacionals/universitats-partner/G__EGALEO02.md)
+  * ### Hungría
+
+  * [Budapest University of Technology and Economics](es/mobilitat/aliances-internacionals/universitats-partner/HU_BUDAPES02.md)
+  * ### Irlanda
+
+  * [Technological University of Dublin](es/mobilitat/aliances-internacionals/universitats-partner/IRLDUBLIN44.md)
+  * [Trinity College Dublin](es/mobilitat/aliances-internacionals/universitats-partner/IRLDUBLIN01.md)
+  * ### Italia
+
+  * [Alma Mater Studiorum - Università di Bologna](es/mobilitat/aliances-internacionals/universitats-partner/I_BOLOGNA01.md)
+  * [Politecnico di Milano](es/mobilitat/aliances-internacionals/universitats-partner/I_MILANO02.md)
+  * [Politecnico di Torino](es/mobilitat/aliances-internacionals/universitats-partner/I_TORINO02.md)
+  * [Università degli Studi della Campania "Luigi Vanvitelli"](es/mobilitat/aliances-internacionals/universitats-partner/I_NAPOLI09.md)
+  * [Università Degli Studi Di Bari "Aldo Moro"](es/mobilitat/aliances-internacionals/universitats-partner/I__BARI01.md)
+  * [Universita degli studi di Brescia](es/mobilitat/aliances-internacionals/universitats-partner/I_BRESCIA01.md)
+  * [Universita degli studi di Cagliari](es/mobilitat/aliances-internacionals/universitats-partner/I_CAGLIAR01.md)
+  * [Universita degli studi di Milano](es/mobilitat/aliances-internacionals/universitats-partner/I_MILANO01.md)
+  * [Universita degli Studi di Padova "Il Bo" (Department of Information Engineering)](es/mobilitat/aliances-internacionals/universitats-partner/I_PADOVA01-ELEINF.md)
+  * [Universita degli Studi di Padova "Il Bo" (Department of Mathematics)](es/mobilitat/aliances-internacionals/universitats-partner/I__PADOVA01-MATH.md)
+  * [Università degli Studi di Perugia](es/mobilitat/aliances-internacionals/universitats-partner/I_PERUGIA01.md)
+  * [Universita degli studi di Roma "La Sapienza"](es/mobilitat/aliances-internacionals/universitats-partner/I_ROMA01.md)
+  * [Università degli studi di Salerno](es/mobilitat/aliances-internacionals/universitats-partner/I_SALERNO01.md)
+  * ### Letònia
+
+  * [Riga Technical University](es/mobilitat/aliances-internacionals/universitats-partner/LV_RIGA02.md)
+  * ### Lituania
+
+  * [Vilniaus Gedimino Technikos Universitetas](es/mobilitat/aliances-internacionals/universitats-partner/LT_VILNIUS02.md)
+  * ### Méjico
+
+  * [Instituto Tecnológico Autónomo de México (ITAM)](es/mobilitat/aliances-internacionals/universitats-partner/MX_MEXICO09.md) (solo hasta el curso 2024-2025)
+  * [Universidad De Monterrey](es/mobilitat/aliances-internacionals/universitats-partner/MX_MONTERREY02.md)
+  * ### Noruega
+
+  * [Kristiania University College](es/mobilitat/aliances-internacionals/universitats-partner/N_OSLO58.md)
+  * [Norges Teknisk-Naturvitenskapelige Universitet](es/mobilitat/aliances-internacionals/universitats-partner/N_TRONDHE01.md)
+  * [Universitet i Bergen](es/mobilitat/aliances-internacionals/universitats-partner/N_BERGEN01.md)
+  * ### Países Bajos
+
+  * [Eindhoven University of Technology (Department of Mathematics and Computer Science)](es/mobilitat/aliances-internacionals/universitats-partner/NL_EINDHOV17-CS.md)
+  * [Eindhoven University of Technology (Faculty of Industrial Engineering and Innovation Sciences)](es/mobilitat/aliances-internacionals/universitats-partner/NL_EINDHOV17-IND.md)
+  * [Fontys University of Applied Sciences](es/mobilitat/aliances-internacionals/universitats-partner/NL_EINDHOV03.md)
+  * [Saxion University of Applied Sciences](es/mobilitat/aliances-internacionals/universitats-partner/NL_ENSCHED03.md)
+  * [Technische Universiteit Delft](es/mobilitat/aliances-internacionals/universitats-partner/NL_DELFT01.md)
+  * [Universiteit Maastricht](es/mobilitat/aliances-internacionals/universitats-partner/NL_MAASTRI01.md)
+  * [University of Twente](es/mobilitat/aliances-internacionals/universitats-partner/NL_ENSCHED01.md)
+  * ### Panamá
+
+  * [Universidad Tecnológica de Panamá](es/mobilitat/aliances-internacionals/universitats-partner/PA_PANAMA02.md)
+  * ### Polonia
+
+  * [AGH University of Science and Technology](es/mobilitat/aliances-internacionals/universitats-partner/PL_KRAKOW02.md)
+  * [Gdansk University of Technology](es/mobilitat/aliances-internacionals/universitats-partner/PL_GDANSK02.md)
+  * [Lodz University of Technology](es/mobilitat/aliances-internacionals/universitats-partner/PL_LODZ02.md)
+  * [Politechnika Warszawska - Faculty of Electronics and Information Technology](es/mobilitat/aliances-internacionals/universitats-partner/PL_WARSZAW02-ELEC.md)
+  * [Politechnika Warszawska - Faculty of Mathematics and Information Sciences](es/mobilitat/aliances-internacionals/universitats-partner/PL_WARSZAW02-MATH.md)
+  * [Politechnika Wroclawska](es/mobilitat/aliances-internacionals/universitats-partner/PL_WROCLAW02.md)
+  * [Poznan University of Technology](es/mobilitat/aliances-internacionals/universitats-partner/PL_POZNAN02.md)
+  * [University of Gdansk](es/mobilitat/aliances-internacionals/universitats-partner/PL_GDANSK01.md)
+  * ### Portugal
+
+  * [Instituto Politecnico do Porto](es/mobilitat/aliances-internacionals/universitats-partner/P_PORTO05.md)
+  * [Universidade de Coimbra - Electrical and Computer Engineering Department](es/mobilitat/aliances-internacionals/universitats-partner/P_COIMBRA01-DEEC.md)
+  * [Universidade de Coimbra - Faculdade de Ciencias e Tecnologia](es/mobilitat/aliances-internacionals/universitats-partner/P_COIMBRA01-CSD.md)
+  * [Universidade de Lisboa - Faculty of Sciences, Informatics Department](es/mobilitat/aliances-internacionals/universitats-partner/P_LISBOA109-FC.md)
+  * [Universidade de Lisboa - Técnico Lisboa (Instituto Superior Técnico, IST)](es/mobilitat/aliances-internacionals/universitats-partner/P_LISBOA109-TL.md)
+  * [Universidade do Minho](es/mobilitat/aliances-internacionals/universitats-partner/P_BRAGA01.md)
+  * [Universidade do Porto - Faculdade de Ciencias](es/mobilitat/aliances-internacionals/universitats-partner/P_PORTO02-CIENC.md)
+  * [Universidade do Porto - Faculty of Engineering (FEUP)](es/mobilitat/aliances-internacionals/universitats-partner/P_PORTO02-FE.md)
+  * ### Reino Unido
+
+  * [University of Coventry](es/mobilitat/aliances-internacionals/universitats-partner/UK_COVENTR02.md)
+  * [University of Edinburgh](es/mobilitat/aliances-internacionals/universitats-partner/UK_EDINBUR01.md)
+  * ### República Checa
+
+  * [Ceske Vysoke Uceni Technicke v Praze](es/mobilitat/aliances-internacionals/universitats-partner/CZ_PRAHA10.md)
+  * [Masarykova Univerzita v Brne](es/mobilitat/aliances-internacionals/universitats-partner/CZ_BRNO05.md)
+  * ### Rumanía
+
+  * [National University of Science and Technology Politehnica Bucharest](es/mobilitat/aliances-internacionals/universitats-partner/RO_BUCURES43.md)
+  * ### Suecia
+
+  * [Blekinge Institute of Technology](es/mobilitat/aliances-internacionals/universitats-partner/S_KARLSKR01.md)
+  * [Chalmers University of Technology](es/mobilitat/aliances-internacionals/universitats-partner/S_GOTEBOR02.md)
+  * [Kungliga Tekniska Högskolan](es/mobilitat/aliances-internacionals/universitats-partner/S_STOCKHO04.md)
+  * [Linköpings Universitet](es/mobilitat/aliances-internacionals/universitats-partner/S_LINKOPI01.md)
+  * [Umea University](es/mobilitat/aliances-internacionals/universitats-partner/S_UMEA01.md)
+  * [Uppsala Universitet](es/mobilitat/aliances-internacionals/universitats-partner/S_UPPSALA01.md)
+  * ### Suiza
+
+  * [Ecole Polytechnique Federale de Lausanne](es/mobilitat/aliances-internacionals/universitats-partner/CH_LAUSANN06.md)
+  * [Eidgenössische Technische Hochschule Zürich](es/mobilitat/aliances-internacionals/universitats-partner/CH_ZURICH07.md)
+  * [Haute Ecole Spécialisée de Suisse Occidentale, Haute École Ingenierie et de Gestion du Canton de Vaud](es/mobilitat/aliances-internacionals/universitats-partner/CH_DELEMON02.md)
+  * ### Taiwán
+
+  * [National Taiwan University of Science and Technology - TAIWANTECH](es/mobilitat/aliances-internacionals/universitats-partner/TW_TAIPEI04.md)
+  * ### Uruguay
+
+  * [Universidad de Montevideo](es/mobilitat/aliances-internacionals/universitats-partner/UY_MONTEVI01.md)
 
 ## Dónde estamos
 
@@ -1109,5 +1048,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/movilidad/alianzas-
+internacionales/universidades-partner.md)
 

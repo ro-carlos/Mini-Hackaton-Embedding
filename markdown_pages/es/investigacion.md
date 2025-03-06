@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/investigacion.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/recerca.md "Recerca")
+  * [English](en/research.md "Research")
+  * [Español](es/investigacion.md "Investigación")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/investigacion.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,162 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Investigación
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » Investigación
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+## Descubrimos y aplicamos
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+* * *
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+La actividad de investigación tiene como objetivo, la aplicación de los
+descubrimientos y adelantos científicos y tecnológicos para afrontar los
+desafíos del mundo.
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+La FIB es miembro activo de la red [Informatics Europe](index.md), que
+representa a la comunidad académica y de investigación en Ciencies de la
+Computación y Sistemas Informáticos en Europa.
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+La actividad de investigación, tanto básica como aplicada, que se lleva a cabo
+en los centros y laboratorios de la UPC, nos sitúan en el vértice de la
+innovación, de la investigación y del desarrollo tecnológico. Los proyectos
+que se desarrollan hacen de la Facultad y de los Departamentos vinculados a la
+misma un referente mundial en el ámbitos de las Tecnologías de la Información
+y la Comunicación. Los numerosos grupos de investigación vinculados a los
+departamentos impulsan y llevan a cabo proyectos de investigación, a menudo en
+colaboración con organizaciones y empresas nacionales e internacionales.
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+[__](es/investigacion/departamentos.md)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+###  [Departamentos ](es/investigacion/departamentos.md)
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+[__](es/investigacion/centros-de-investigacion.md)
 
-Consulta toda la información en lo referente a este proceso electoral.
+###  [Centros de Investigación ](es/investigacion/centros-de-investigacion.md)
+
+[__](es/investigacion/grupos-de-investigacion.md)
+
+###  [Grupos de Investigación ](es/investigacion/grupos-de-investigacion.md)
+
+[__](es/investigacion/proyectos.md)
+
+###  [Proyectos ](es/investigacion/proyectos.md)
+
+[__](es/investigacion/inlab-fib.md)
+
+###  [inLab FIB ](es/investigacion/inlab-fib.md)
+
+Las entidades de investigación ofrecen becas a los estudiantes de los
+diferentes másters de la FIB
+
+[Becas de Investigación](es/becas.md)
 
 ## Noticias
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/logo-
+dac-upc.jpg?itok=n0sg96PY)](es/noticias/cba-scholarships-ai-networking.md "CBA
+scholarships in AI for networking")
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+### [CBA scholarships in AI for networking](es/noticias/cba-scholarships-ai-
+networking.md "CBA scholarships in AI for networking")
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+The [CBA](index.md) research group has recently started a specific division in
+the area of AI applied to Computer Networks.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/arco-
+scholarchips-v1.png?itok=Y27oGKy7)](es/noticias/arco-scholarships-miri-
+students.md "ARCO Scholarships for MIRI Students")
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+### [ARCO Scholarships for MIRI Students](es/noticias/arco-scholarships-miri-
+students.md "ARCO Scholarships for MIRI Students")
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
+If you are searching for a 2 years scholarship grants, ARCO is looking for a
+student to join the group to carry out their Master thesis in leading edge
+research projects.
 
 [ __Consulta todas las noticias](es/noticias.md) [ __Propone una
 notícia](es/node/add/proposta-de-noticia.md)
 
-## Agenda
+###  [FUTUR UPC ](FIB.md)
 
-Mar 11 Mar
+Descubre toda la producción Científica de los investigadores de la FIB en el
+portal FUTUR de la UPC
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+[![](/sites/fib/files/images/recerca/bxh_2016_futurportal.png)](FIB.md)
 
-__17:00 - 18:30
+###  [Trabajos fin de grado y masteres ](handle/2099.1/1441.md)
 
-__Sala d'actes Manuel Martí Recober
+Descubre los proyectos llevados a cabo por estudiantes de la FIB
 
-Mié 12 Mar
+[![](/sites/fib/files/documents/estudis/upccommons.jpeg)](handle/2099.1/1441.md)
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
+**Estudio bibliometrico elaborado por la Biblioteca Gabriel Ferraté**  
+Estudio comparativo de la [publicación científica en el ámbito de la
+informática en la UPC](handle/2117/22885.md) vs. otras universidades de ámbito
+nacional y internacional
 
 ## Premios y reconocimientos
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+![Premio AEUNI 2020 David
+Lopez](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/premi-
+aenui-2020-david-lopez-br.png?itok=75tuCKR1)
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+### [David López Álvarez, “Premio AENUI a la calidad e innovación docente
+2020”](es/la-fib/la-facultad/premios-y-reconocimientos/david-lopez-alvarez-
+premio-aenui-la-calidad-e-innovacion-docente-2020.md "David López Álvarez,
+“Premio AENUI a la calidad e innovación docente 2020”")
 
-__16 Dec 24
+__10 Jul 20
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+![Premio ICREA, foto de Antonio Gonzalez y Victor
+Rotger](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/premi-
+icrea-antonio-gonzalez-victor-rotger-br.png?itok=Gkd1C8R_)
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+### [Antonio González y Víctor Rotger reciben las distinciones ICREA Academia
+2019](es/la-fib/la-facultad/premios-y-reconocimientos/antonio-gonzalez-y-
+victor-rotger-reciben-las-distinciones-icrea-academia-2019.md "Antonio
+González y Víctor Rotger reciben las distinciones ICREA Academia 2019")
 
-__09 Dec 24
+__02 Jun 20
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+![fermin-
+sanchez](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/fermin-
+sanchez-premi.jpg?itok=eE9n1VMl)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+### [Fermín Sánchez gana el Premio UPC a la Calidad en la Docencia
+Universitaria 2020](es/la-fib/la-facultad/premios-y-reconocimientos/fermin-
+sanchez-gana-el-premio-upc-la-calidad-en-la-docencia-universitaria-2020.md
+"Fermín Sánchez gana el Premio UPC a la Calidad en la Docencia Universitaria
+2020")
 
-__22 Nov 24
+__27 May 20
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+![Núria Castell, recollint premi
+IEC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/nuria-
+castell-recollida-premi-iec-2020-br.jpg?itok=HZsYHr3Y)
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+### [Núria Castell, mención honorífica del premio CREU CASAS del Institut
+d’Estudis Catalans](es/la-fib/la-facultad/premios-y-reconocimientos/nuria-
+castell-mencion-honorifica-del-premio-creu-casas-del-institut-destudis-
+catalans.md "Núria Castell, mención honorífica del premio CREU CASAS del
+Institut d’Estudis Catalans")
 
-__24 Oct 24
+__14 May 20
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+![Foto d'Alicia Casals recollint el
+premi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/alicia-
+casals-recollida-premi-br.png?itok=IZYmyI5c)
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+### [Alicia Casals, premio “Nit de la Robòtica” 2019](es/la-fib/la-
+facultad/premios-y-reconocimientos/alicia-casals-premio-nit-de-la-
+robotica-2019.md "Alicia Casals, premio “Nit de la Robòtica” 2019")
 
-__14 Oct 24
+__25 Oct 19
 
 [Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
 reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
 
 ## Dónde estamos
 
@@ -1109,5 +909,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/investigacion.md)
 

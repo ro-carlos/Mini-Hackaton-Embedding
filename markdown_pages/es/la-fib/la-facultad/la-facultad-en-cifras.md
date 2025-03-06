@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/la-fib/la-facultad/la-facultad-en-cifras.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/la-fib/la-facultat/la-facultat-en-xifres.md "La facultat en xifres")
+  * [English](en/fib/school/school-figures.md "The school in Figures")
+  * [Español](es/la-fib/la-facultad/la-facultad-en-cifras.md "La facultad en cifras")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/la-fib/la-facultad/la-facultad-en-cifras.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,176 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# La facultad en cifras
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [La FIB](es/la-fib.md) » [La Facultad](es/la-fib/la-
+facultad.md) » La facultad en cifras
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
-
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
-
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
-
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
-
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
-
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
-
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
-
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
-
-Consulta toda la información en lo referente a este proceso electoral.
-
-## Noticias
-
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
-
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
-
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## La FIB
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+2729
 
-[Cita previa](ca/cita-previa.md)
+Estudiantes
 
-## Premios y reconocimientos
+5
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+Grados
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+10
 
-__16 Dec 24
+Másteres
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+565
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+Titulados y tituladas 2022-23
 
-__09 Dec 24
+47
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+Años de historia
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+271
 
-__22 Nov 24
+Personal docente e investigador
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+17
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+Asociaciones de estudiantes
 
-__24 Oct 24
+11819
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+Titulados totales
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
+## Alianzas internacionales
 
 * * *
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+Tenemos acuerdos con las mejores universidades del sector
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+205
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+Universidades
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+43
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+Países
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+5
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+Dobles Titulaciones
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+1888
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+Estudiantes satisfechos
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+[Universidades Partner](es/movilidad/alianzas-internacionales/universidades-
+partner.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+[Programas de movilidad](es/movilidad/alianzas-internacionales/programas-de-
+movilidad.md)
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+[Redes Universitarias](es/movilidad/alianzas-internacionales/redes-
+universitarias.md)
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+## Nuestra reputación
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+Pos.101-150
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+### ARWU - Shangai ranking
 
-## Acreditaciones de calidad
+* * *
 
-### Sellos AQU
+  * Ocupamos el segundo lugar en España y el 22-39 en Europa en Ingeniería/Tecnología e Informática.
 
-**GEI**
+Pos. 89
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+### National Taiwan University (NTU) Ranking by Subject - Computer Science
 
-**GCED**
+* * *
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+  * Segunda universidad española y 12 en Europa en Informática
 
-**GIA**
+Pos.51-100
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+### QS World University Rankings
 
-**MEI**
+* * *
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+  * Primera universidad española y en la posición 12-29 en Europa en Ciencias de la Computación y Sistemas de Información
 
-**MIRI**
+Pos. 53
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+### US News Best Global Universities Rankings
 
-**MAI**
+* * *
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+  * Ocupamos el segundo lugar en España y el décimo en Europa en Informática
 
-**MFPS**
+## La FIB disposa de
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+* * *
 
-**MDS**
+470
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+PC
 
-### Sellos Euro-inf
+26
 
-**GEI**
+Servidores físicos
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+74
 
-**MEI y MIRI**
+Servidores virtuales
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
+7
 
-## La FIB es miembro de
+Cortafuegos
 
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
+1508
 
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
+Puntos de red
 
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
+29
 
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
+Puntos de red inalámbricos
 
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+## Memorias Académicas
+
+A continuación podéis encontrar las memorias académicas y los informes de
+gestión de los últimos años (disponibles sólo en catalán).
+
+  * **Curso 2021-2022**. [Memoria FIB](sites/fib/files/documents/fib/memoria-2021-2022.pdf.md) (4.9 MB) - [Informe de gestión](sites/fib/files/documents/fib/informe-de-gestio-2022-amb-addenda.pdf.md)
+  * **Curso 2020-2021**. [Memoria FIB](sites/fib/files/documents/fib/memoria-2020-2021.pdf.md) (3.6 MB) - [Informe de gestión](sites/fib/files/documents/actes/jf20211215_informegestio_20-21_v2.pdf.md)
+  * **Curso 2019-2020**. [Memoria FIB](sites/fib/files/documents/fib/memoria-2019-2020-vfinal.pdf.md) (4.1 MB) - [Informe de gestión](sites/fib/files/documents/actes/jf20201216_p4_informegestio_19-20_v3.pdf.md)
+  * **Curso 2018-2019**. [Memoria FIB](sites/fib/files/documents/fib/memoria-2018-2019-definitiva-br.pdf.md) (5.2 MB)
+  * **Curso 2017-2018**. [Memoria FIB](sites/fib/files/documents/fib/memoria-2017-2018-final-br.pdf.md) (4.6 MB)
+  * **Curso 2016-2017**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2016-2017_final.pdf.md) (7.5 MB)
+  * **Curso 2015-2016**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2015-2016.pdf.md) (6.6 MB)
+  * **Curso 2014-2015**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2014-2015.pdf.md) (7.1 MB)
+
+  * **Curso 2013-2014**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2013-2014.pdf.md) (7.0 MB)
+  * **Curso 2012-2013**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2012-2013.pdf.md) (1.4 MB)
+  * **Curso 2011-2012**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2011-2012.pdf.md) (5.4 MB)
+  * **Curso 2010-2011**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2010-2011.pdf.md) (5.5 MB)
+  * **Curso 2009-2010**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2009-2010.pdf.md) (4.0 MB)
+  * **Curso 2008-2009**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2008-2009.pdf.md) (4.7 MB)
+  * **Curso 2007-2008**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2007-2008.pdf.md) (2.2 MB)
+  * **Curso 2006-2007**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2006-2007.pdf.md) (2.5 MB)
+  * **Curso 2005-2006**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2005-2006.pdf.md) (4.2 MB)
+  * **Curso 2004-2005**. [Memoria FIB](sites/fib/files/documents/fib/memoria_2004-2005.pdf.md) (3.8 MB)
+
+## También te puede interesar
+
+[ Indicadores docentes ](es/universitat/24/unitat/24080330181.md)
+
+[](es/universitat/24/unitat/24080330181.md)
+
+[ Libro de datos de la UPC ](lldades/quadrecomandament.asp.md)
+
+[](lldades/quadrecomandament.asp.md)
 
 ## Dónde estamos
 
@@ -1109,5 +923,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/la-fib/la-facultad/la-facultad-en-cifras.md)
 

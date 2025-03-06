@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/movilidad/incoming/estancia-academica.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/mobilitat/incoming/estada-academica.md "Estada acadèmica")
+  * [English](en/mobility/incoming/academic-stays.md "Academic stays")
+  * [Español](es/movilidad/incoming/estancia-academica.md "Estancia académica")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/movilidad/incoming/estancia-academica.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,201 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Estancia académica
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Movilidad](es/movilidad.md) »
+[Incoming](es/movilidad/incoming.md) » Estancia académica
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Estancia académica](es/movilidad/incoming/estancia-academica.md)
+  * [Estancia en prácticas](es/movilidad/incoming/estancia-en-practicas.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+Si quieres venir a estudiar a la Facultat d'Informàtica de Barcelona como
+**estudiante de intercambio** o**** cursar una **doble titulación** , tienes
+que seguir los siguientes pasos:
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+  1. [Mira si existe el acuerdo](es/movilidad/incoming/estancia-academica.md)
+  2. [Tu universidad te nomina](es/movilidad/incoming/estancia-academica.md)
+  3. [Espera recibir un e-mail con información para registrarte](es/movilidad/incoming/estancia-academica.md)
+  4. [Acredita el nivel de idioma](es/movilidad/incoming/estancia-academica.md)
+  5. [Prepara el acuerdo académico](es/movilidad/incoming/estancia-academica.md)
+  6. [Sube la documentación requerida a la aplicación](es/movilidad/incoming/estancia-academica.md)
+  7. [Aplicación pendiente de validar](es/movilidad/incoming/estancia-academica.md)
+  8. [Espera respuesta](es/movilidad/incoming/estancia-academica.md)
+  9. [Regístrate en los programas de acogida](es/movilidad/incoming/estancia-academica.md)
+  10. [Matricúlate](es/movilidad/incoming/estancia-academica.md)
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+### 1\. Mira si existe el acuerdo
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+Verifica que existe un acuerdo bilateral firmado entre tu universidad y la
+FIB; puedes consultar las [universidades partner](es/movilidad/alianzas-
+internacionales/universidades-partner.md), [programas de
+movilidad](es/movilidad/alianzas-internacionales/programas-de-movilidad.md) y
+[dobles titulaciones](es/movilidad/dobles-titulaciones.md).
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+###  2\. Tu universidad te nomina
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+Para venir a la Facultat d'Informàtica de Barcelona (FIB) como estudiante de
+intercambio, primero tienes que ser nominado/da por tu universidad.
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+El procedimiento de nominación se enviará a todas las instituciones partner
+por correo electrónico a mediados de marzo y principios de octubre. Para
+cualquier duda o información sobre el procedimiento relacionado con la
+nominación, tu universidad puede contactar con
 
-Consulta toda la información en lo referente a este proceso electoral.
+**Plazos de nominación:**
 
-## Noticias
+  * 1er cuatrimestre y curso completo: **2 de mayo**
+  * 2º cuatrimestre: **2 de noviembre**
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+### 3\. Espera recibir un e-mail con información para registrarte
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Una vez hayamos recibido tu nominación, recibirás un correo electrónico con la
+información y la fecha límite para completar tu formulario de solicitud en
+línea a través de nuestra plataforma.
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+**Plazos para completar la solicitud:**
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+  * 1er cuatrimestre y curso completo: **1 de junio**
+  * 2º cuatrimestre:****1 de diciembre****
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+### 4\. Acredita el nivel de idioma
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+Barcelona es la principal ciudad de Cataluña, una comunidad bilingüe, así que
+tanto el catalán como el castellano son lenguas oficiales en la UPC. Como
+estudiante de movilidad tienes que tener, como mínimo, un nivel intermedio
+(B1) del idioma de impartición de la titulación en que te matricularás. Este
+idioma de impartición es:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+  * Grado en Ingeniería Informática - GEI: castellano/catalán
+  * Grado en Ciencia e Ingeniería de Datos - GCED: castellano/catalán
+  * Máster en Ingeniería Informática - MEI: castellano/catalán
+  * Máster en Innovación e Investigación en Informática - MIRI: inglés
+  * Máster en Inteligencia Artificial - MAI: inglés
+  * Máster en Ciencia de Datos - MDS: inglés
+
+En el caso de que la lengua de impartición no sea tu lengua materna, hará
+falta que aportes un certificado para acreditar el nivel solicitado.
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+En el caso del **inglés** , el nivel B1 lo podrás acreditar mediante cualquier
+de los certificados habitualmente aceptados: TOEFL, IELTS, TOEIC (4
+habilidades), FCE, examen DAAD, ...
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+Consulta la [tabla de certificados admitidos por la
+UPC](slt/ca/certifica/taulacertificats.md).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+En el caso del **castellano** , el nivel B1 lo podrás acreditar mediante:
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+  * El “Diploma de Español como Lengua Extranjera ([DELE](es/dele/que-es.md))”, otorgado por la [Instituto Cervantes](default.htm.md).
+  * Un certificado del [SIELE Global](examen.md), otorgado por la institución SIELE, con una puntuación que sea al menos equivalente al nivel B1 del CEFR.
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+En el caso del **catalán** , el nivel B1 lo podrás acreditar mediante el
+[Certificat de Nivell
+Elemental](catala/aprendre_catala/certificats_examens_elemental.cfm.md),
+otorgado por el [Institut Ramon Llull](catala/home/index.cfm.md).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+**En cualquier caso, también podrás acreditar el nivel B1 mediante un
+certificado equivalente obtenido en la Universidad.**
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+### 5\. Prepara el acuerdo académico
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+El acuerdo académico es el documento donde quedarán recogidas las asignaturas
+que cursarás durante tu estancia de movilidad y que tiene que tener tu
+conformidad, la de tu universidad y la de la universidad de acogida. Para la
+FIB, la lista de asignaturas recogidas en la solicitud de admisión equivale al
+acuerdo académico. De todos modos, en función del programa en que hagas tu
+movilidad, es posible que tengas que rellenar un documento específico.
+Consulta con tu universidad para informarte especialmente si quieres cursar
+una doble titulación.
+
+Consulta el listado de [CURSOS DISPONIBLES](course_catalogue.md) para
+estudiantes de intercambio.
+
+  * Hay dependencias entre asignaturas, así que ten en cuenta los requisitos de cada asignatura. Tendrás que adjuntarnos tu expediente de notas para que podamos verificar que los cumples.
+  * Todas las asignaturas tienen un nombre limitado de plazas para estudiantes de intercambio. Las plazas se asignarán siguiendo el orden en el cual **se complete** el proceso de solicitud.
+  * El Acuerdo Académico del **cuatrimestre de primavera** de los estudiantes con **estada anual** puede ser modificado de acuerdo con el rendimiento académico del **cuatrimestre de otoño** , siguiendo la misma normativa que para los estudiantes regulares.
+  * Los estudiantes de máster pueden elegir asignaturas de diferentes titulaciones mientras cumplan los requisitos académicos y de idioma.
+  * En un cuatrimestre, como máximo, puedes cursar 30 ECTS.
+  * Si estás interesado en realizar el trabajo de fin de grado (TFG) o trabajo de fin de máster (TFM) en la FIB, has de saber que nuestro TFG es de 18 ECTS mientras que ofrecemos TFM de 18 o de 30 ECTS. Consulta los detalles de cada titulación. 
+    * [Información sobre el trabajo de fin de grado GEI- 18 ECTS](es/estudios/grados/grado-en-ingenieria-informatica/trabajo-de-fin-de-grado.md)
+    * [Información sobre el trabajo de fin de grado GCED - 18 ECTS](es/estudiantes-de-grado/trabajo-final-de-grado-tfg.md)
+    * [Información sobre el trabajo de fin de master MEI - 30 ECTS](es/estudios/masteres/master-en-ingenieria-informatica/trabajo-de-fin-de-master.md)
+    * [Información sobre el trabajo de fin de master MIRI - 30 ECTS](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/trabajo-de-fin-de-master.md)
+    * [Información sobre el trabajo de fin de master MAI - 18 ECTS](es/estudios/masteres/master-en-inteligencia-artificial/trabajo-de-fin-de-master.md)
+    * [Información sobre el trabajo de fin de master MDS - 30 ECTS](es/estudios/masteres/master-en-ciencia-de-datos/trabajo-de-fin-de-master.md)
+
+### 6\. Sube la documentación requerida a la aplicación
+
+Antes de cerrar la aplicación sube la siguiente documentación:
+
+  * Acreditación del nivel de idioma.
+  * Expediente de notas oficial (emitido por tu universidad con todos los cursos hechos hasta ahora). Si eres estudiante de máster debes adjuntar también el expediente del grado.
+  * Curriculum vitae
+  * Lista de asignaturas matriculadas actualmente.
+
+### 7\. Aplicación pendiente de validar
+
+Una vez hayas cerrado la aplicación el coordinador de tu universidad recibirá
+un e-mail para validar la información que has indicado.
+
+### 8\. Espera respuesta
+
+Una vez revisada la documentación te enviaremos un correo electrónico
+informándote de si has sido aceptado o no. A través de la aplicación podrás
+descargarte la carta de admisión y el acuerdo académico debidamente firmado y
+sellado.
+
+### 9\. Regístrate en los programas de acogida
+
+La Universitat Politècnica de Catalunya dispone de 2 programas de acogida para
+los estudiantes internacionales de intercambio: la semana de orientación
+(_Orientation Week_) y el _Buddy Programme_ Salsa'm.
+
+La _**Orientation Week**_ **(OW)** se desarrolla en 2 días e incluye una
+bienvenida institucional, información sobre trámites legales, sesiones con
+información sobre los principales servicios de la universidad que te pueden
+ayudar durante tu estancia, un taller lingüístico introductorio de lengua y
+cultura catalana así como una visita a un museo de Barcelona y una actividad
+deportiva.
+
+Hay varias ediciones de la OW antes del inicio de las clases. Si quieres
+asistir a alguna de sus ediciones tendrás que registrarte. Consulta toda la
+información en la web del [Gabinete de Relaciones Internacionales y Empresa de
+la UPC](sri/es/estudiantado/movilidad-estudiantes/incomings/prepara-tu-
+viaje/orientation-week/orientation-week.md).
+
+El**_Buddy Programme_ Salsa'm** tiene como objetivo recibir a los estudiantes
+de intercambio y ayudarlos a adaptarse a la vida universitaria en Barcelona. A
+cada participante se le asigna un estudiante local que proporciona apoyo
+académico, cultural y lingüístico. También se realizan actividades de grupo
+como visitas guiadas, salidas culturales y cenas internacionales.
+
+Este programa de acogida es una gran oportunidad para conocer gente nueva,
+hacer amigos, practicar idiomas y sacar el máximo provecho de tu estancia en
+la FIB.
+
+Si estás interesado en participar en este programa rellena el
+[formulario](slt/ca/formulari/international-students.md).
+
+Puedes ver que se hace en este programa en [Facebook](salsam.upc.md).
+
+Para cualquier consulta que tengas sobre el _Buddy Programme_ Salsa'm puedes
+enviar un correo electrónico a
+
+### 10\. Matricúlate
+
+Si te tienes que matricular por primera vez:
+[Matrícula](es/estudios/secretaria/tramites/matricula-
+incoming-1a-matricula.md)
+
+Si es el segundo cuatrimestre que te matriculas (estancia anual):
+[Matrícula](es/estudios/secretaria/tramites/matricula-
+incoming-2a-matricula.md)
+
+Por favor, lee detenidamente estas normas puesto que son para facilitar el
+proceso de registro. Y si tienes alguna consulta, no dudes en contactar con
+nosotros.
 
 ## Dónde estamos
 
@@ -1109,5 +948,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/movilidad/incoming/estancia-academica.md)
 

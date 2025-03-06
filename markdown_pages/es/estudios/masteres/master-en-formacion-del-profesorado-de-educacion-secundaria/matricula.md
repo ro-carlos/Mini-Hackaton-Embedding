@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria/matricula.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/masters/master-en-formacio-del-professorat-deducacio-secundaria/matricula.md "Matrícula")
+  * English
+  * [Español](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/matricula.md "Matrícula")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,8 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-
+secundaria/matricula.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +717,170 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Matrícula
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) »
+[Másteres](es/estudios/masteres.md) » [Máster en Formación del Profesorado de
+Educación Secundaria](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria-obligatoria-y-bachillerato-formacion-
+profesional-y-ensenanza.md) » Matrícula
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Destacados](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/destacados.md)
+  * [Dirección y profesorado](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+  * [Requisitos de acceso y preinscripción](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/requisitos-de-acceso-y-preinscripcion.md)
+  * [Plan de estudios](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/plan-de-estudios.md)
+  * [Matrícula](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/matricula.md)
+  * [Horarios](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/horario.md)
+  * [Normativa académica](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/normativa-academica.md)
+  * [Prácticum](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/practicum.md)
+  * [Trabajo de Fin de Máster](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/trabajo-de-fin-de-master.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+## Procedimento de matrícula
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+#### [Estudiantes de nuevo ingreso](es/estudios/masteres/master-en-formacion-
+del-profesorado-de-educacion-secundaria/matricula.md)
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+Recibirás un correo de bienvenida de la UPC. Para preparar tu matrícula, sigue
+estos pasos para formalizarla. Desde la UPC hemos preparado un video para
+ayudarte en tu primera matrícula al grado.
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+Charla informativa sobre la matrícula:**18 de septiembre de 2024** , vía GMeet
+(recibirás el enlace para conectarte por correo electrónico).
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+  * de 16.00 a 17.00 h alumnos admitidos en la especialidad de Tecnología para la ESO y Bachillerato y la especialidad de Tecnologías Industriales FP.
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+__**Antes de la matrícula**
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+A partir del momento en que recibas un mensaje de la UPC, puedes iniciar el
+proceso de activación de tu cuenta en la UPC. El nombre de usuario y la
+contraseña que obtendrás te permitirán validar tus datos personales y
+modificarlos, si es necesario, y durante tu vida universitaria te dará acceso
+a diversos servicios de la UPC.
 
-Consulta toda la información en lo referente a este proceso electoral.
+  1. **[Regístrate antes de matricularte](gcredencials/recupera-contrasenya.md)**. Si no te registras no podrás matricularte, así que ¡este punto **es importante**!  
+A continuación recibirás un correo para poder obtener tus credenciales de
+usuario y contraseña (credenciales UPC).  
 
-## Noticias
+  2. **[Accede a la e-Secretaria para validar y completar tus datos.](apl/home_estudiants.php.md)**  
+La e-Secretaría es la plataforma virtual con la que accediras a tu expediente
+y todos los trámites académicos durante tu vida universitaria. Tendrás que:
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+     * validar y / o modificar tus datos personales,
+     * validar y / o modificar las autorizaciones del uso de tus datos de carácter personal (RGPD).
+     * autorizar la domiciliación de los pagos (si optas por domiciliar los pagos, deberás subir el orden SEPA firmada electrónicamente o manualmente por el titular de la cuenta).
+  3. **Qué debes saber antes de matricularte**
+     * La matrícula es el contrato entre tu y la Universidad. Una vez te hayas matriculado, tienes que hacer el pago. 
+       * Como estudiante ejerces tu derecho de matrícula de forma voluntaria y responsable.**La solicitud de matrícula implica obligatoriamente el pago de los precios públicos fijados para la prestación de servicios académicos y estás obligado a pagarlos,** una vez aplicados los recargos y bonificaciones establecidos.
+       * El hecho de **no pagar la matrícula no implica que se anule** , pero se aplicarán recargos por pagos realizados fuera del plazo establecido.
+       * Este contrato obliga a la UPC a prestarte los servicios previstos y ti a pagarlos, a seguirlos y a respetar las [normativas](sga/es/normativas/NormativasAcademicas.md) como estudiante de la UPC.
+     * La matrícula para los estudiantes de nuevo acceso es online 
+       * La matrícula de los estudiantes nuevos en la UPC se hace en línea vía [e-Secretaria](apl/home_estudiants.php.md).
+       * La matrícula se formalizará el día y la hora asignados.
+  4. **[¿Qué documentación hay que aportar?](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/matricula.md)**
+  5. **[Horarios y grupos a matricularse](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/matricula.md)**
+  6. **[¿Cuánto te costará? ¿Tienes derecho a beca? ¿Cómo se puede pagar?](es/masteres/precios-y-becas.md)**  
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Tienes dudas sobre el pago, te explicamos en el video las opciones de pago que
+tienes
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+  7. **[¿Cuándo y dónde tienes que matricularte?](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/matricula.md)**
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+__**Día de la matrícula**
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+Conéctate a la [e-Secretaria ](apl/home_estudiants.php.md)(credenciales UPC
+con las que te registraste). Y sigue las instrucciones.
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+Al terminar la matrícula recibirás un mail indicando que se ha hecho
+correctamente, con instrucciones para el pago y con enlace a la e-Secretaria.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Te puedes descargar la matrícula a través de la
+[e-Secretaria](apl/home_estudiants.php.md).
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+__**Despues de la matrícula**
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+  * [Carnet UPC](identitatdigital/ca/carnetupc.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+### ¿Cuándo?
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+  * Matrícula: **19 de septiembre de 2024 ([en línea de 10:00 a 14:00 h](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/matricula.md)) **
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+### Documentación
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+En caso de poder acreditar algun tipo de descuento en la matricula (carnet de
+família numerosa, etc.) es necesario depositar en la eSecretaria el documento
+correspondiente, en el apartado "Entrada de Documentación".
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+Todos estos documentos deben estar vigentes en el momento de la matrícula.
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+### Horarios y grupos
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+En el momento de hacer la matrícula tendrás que escoger si quieres cursar el
+Máster en 1 curso académico, 60 ECTS de octubre a junio, o a tiempo parcial (2
+años académicos); 29 ECTS el primer año y 31 ECTS el segundo año.
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+  * si haces el Master en 1 curso académico debes escoger todas las asignaturas que te salgan en el momento de la matrícula,
+  * si haces el Master en 2 años académicos (vía lenta) tienes que escoger las asignaturas que cursarás el 1º año, que son las que tienes a continuación ([TECNO ](sites/fib/files/documents/estudis/msec-matricula-assignatures-via-lenta-1r-any-tecno-br.pdf.md)/ [FP](sites/fib/files/documents/estudis/msec-matricula-assignatures-via-lenta-1r-any-fp-br.pdf.md)).
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+__Hemos preparado una**[guía de acogida](es/estudios/grados/guia-de-acogida-
+estudiantado-de-grado.md)** con información que creemos útil! está dirigida a
+los estudiantes nuevos de grado, pero hay mucha información en común. Dale un
+vistazo y si tienes dudas contacta con nosotros.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+#### [Estudiantes de cursos anteriores](es/estudios/masteres/master-en-
+formacion-del-profesorado-de-educacion-secundaria/matricula.md)
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+### Quién puede matricularse en este turno
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+El estudiantado matriculado en este programa de la UPC en cursos anteriores y
+que han cumplido los requisitos de la [normativa de
+permanencia](ca/estudis/masters/master-en-formacio-del-professorat-deducacio-
+secundaria/normativa-academica.md).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+### ¿Cuándo?
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+**17 de septiembre de 2024**
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+### ¿Cómo matricularte?
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+La matrícula se realizará en línea a través de la
+[e-Secretaria](apl/home_estudiants.php.md), de 10:00 a 14:00 h.
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+### Documentación a aportar
 
-Primer Concurso UPC de IA
+No es necesaria ninguna documentación a excepción de la que acredita
+situaciones que dan derecho a reducciones de matrícula.  
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## Información práctica que encontrarás en la web de la UPC
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+__
 
-[Cita previa](ca/cita-previa.md)
+### Precios y formas de pago
 
-## Premios y reconocimientos
+[Precios de la matrícula](sga/es/matricula-e/precios.md) y [Modalidades de
+pago](sga/es/matricula-e/PagoMatricula.md)
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+__
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+### Becas
 
-__16 Dec 24
+[Consulta las becas que tienes a tu alcance](sga/es/Becas.md)
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+__
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+### Carnet UPC
 
-__09 Dec 24
+[Resuelve todas tus dudas sobre el Carnet
+UPC](identitatdigital/ca/carnetupc.md)
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+__
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+### Seguro escolar
 
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+[Cómo lo obtengo](sga/es/matricula-e/seguros.md)
 
 ## Dónde estamos
 
@@ -1109,5 +919,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria/matricula.md)
 

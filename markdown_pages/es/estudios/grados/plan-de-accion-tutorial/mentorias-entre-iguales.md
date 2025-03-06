@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/grados/plan-de-accion-
+tutorial/mentorias-entre-iguales.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/graus/pla-daccio-tutorial/mentories-entre-iguals.md "Mentories entre iguals")
+  * English
+  * [Español](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-iguales.md "Mentorías entre iguales")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-iguales.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,276 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Mentorías entre iguales
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) » [Grados](es/estudios/grados.md)
+» [Plan de acción Tutorial](es/estudios/grados/plan-de-accion-tutorial.md) »
+Mentorías entre iguales
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Aula Lliure](es/estudios/grados/plan-de-accion-tutorial/aula-lliure.md)
+  * [Mentorías entre iguales](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-iguales.md)
+    * [Horarios](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-iguales/horaris.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+En las Mentorías, los estudiantes más veteranos (de grado o máster), acogen y
+acompañan a los estudiantes de nuevo ingreso a los largo de 7 sesiones de 1
+hora durante el primer cuatrimestre del curso académico.
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+El **objetivo** es triple: ayudarles a ubicarse tanto físicamente (los nuevos
+espacios, su uso) como académicamente (organización del grado, normativas,
+herramientas, dificultades), propiciar la creación de nuevas relaciones
+sociales trabajando en grupos pequeños con contenidos no académicos y, por
+último, proporcionandoles herramientas para desarrollar hábitos de estudio
+efectivos y saludables.
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+El **elemento clave** del proyecto es sacar provecho de la experiencia y la
+proximidad generacional de los estudiantes de la FIB de cursos más avanzados
+con los estudiantes de nuevo ingreso.
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+![](/sites/fib/files/images/fib/noies-mentories.jpg)
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+Los veteranos se encargan de la acogida y acompañamiento de los 'nuevos', es
+lo que se denomina 'mentorías entre iguales'.
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+El **proyecto** , resultado de la iniciativa del equipo directivo de la FIB,
+ha contado desde sus inicios con el respaldo de la Delegación de Estudiantes
+de la FIB (DEFIB). En las dos primeras ediciones se ofreció el programa a los
+estudiantes del GEI aunque en la tercera edición se han incorporado los
+estudiantes del GCED.
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+Cada nueva edición comienza con una convocatoria, normalmente en mayo, para
+captar mentores. Se realiza la selección de mentores y, en una reunión general
+cuando acaba el curso, se les presenta el proyecto con todos los detalles.
 
-Consulta toda la información en lo referente a este proceso electoral.
+Normalmente, antes de las vacaciones de verano, los voluntarios reciben una
+formación totalmente gratuita en herramientas de coaching (unas 10 horas). Las
+sesiones de mentorías empiezan la primera semana de clase del curso. Cada
+mentor está al frente de un grupo de entre 15 y 18 estudiantes nuevos. Tal y
+como sucede con el resto de asignaturas, la comunicación entre el mentor y su
+grupo se hace a través del Racó.
 
-## Noticias
+De las 7 sesiones de 1 hora que tiene cada uno de los, aproximadamente, 28
+grupos de mentorías en el GEI, se procura que las 3 primeras coincidan con las
+3 primeras semanas del curso. Despúes, se hace una sesión cada 15 días, más o
+menos. En cualquier caso, es muy recomendable que a finales de noviembre todos
+los grupos hayan acabado las 7 sesiones. El mentor, estudiante de grado, que
+finaliza satisfactoriamente el programa recibe hasta 2 ECTS por actividades
+universitarias y la acreditación oficial del ICE del curso de Coaching.
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+![](/sites/fib/files/images/estudis/foto-anna.png)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
-
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
+## Opiniones
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+#### De los mentorizados
 
-[Cita previa](ca/cita-previa.md)
+![]()
 
-## Premios y reconocimientos
+_“Realmente me han resultado super útiles, me han explicado muchas cosas que
+no sabía o que no tenía claras, y cuando te encuentras en un entorno nuevo y
+donde todo es tan diferente, se agradece mucho tener a alguien a tu lado que
+te ayude y oriente un poco. Me ha aclarado muchas dudas. Además, mi mentor ha
+conseguido hacer las clases super divertidas y entretenidas.”_
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+![]()
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+_“Me han ayudado a conocer todo el mundo desconocido de la facultad (que no
+era poco), a organizar un horario de estudio adecuado a la carrera y a
+relacionarme con la gente con más facilidad. ”_
 
-__16 Dec 24
+![]()
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+_“Me han servido para entender temas como la matrícula, los créditos... Y me
+ha gustado mucho el hecho de que sea un alumno más mayor quien las haga, ya
+que habla desde su experiencia.”_
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+![]()
 
-__09 Dec 24
+_“Como todos los alumnos de primer curso, al entrar estaba super perdido con
+todo y las mentorías me han ayudado con las cosas más esenciales del
+funcionamiento de la FIB. Recomiendo 100% que se haga todos los años para los
+alumnos nuevos ya que son de gran ayuda.”_
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+#### De los mentores
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+![]()
 
-__22 Nov 24
+_“Experiencia muy positiva tanto para mi como mentor como para los
+estudiantes. En ciertos momentos, han tenido pereza para asistir pero yo creo
+que les han resultado muy útiles ya que se les han resuelto muchas dudas que
+han ido preguntando y han aprendido cosas útiles y necesarias.”_
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+![]()
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+_“A pesar de la baja asistencia que he tenido en mi grupo, creo que las
+mentorías han sido una buena experiencia tanto para mi como para los
+mentorizados. Creo que es una muy buena herramienta para explicar las cosas
+más importantes del funcionamiento de la FIB que de otra manera vas
+aprendiendo a golpes y, de hecho, creo que en el fondo los alumnos lo valoran
+aunque algunas veces les suponga un pequeño esfuerzo asistir a las sesiones.”_
 
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
+## Prensa
 
 * * *
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+El diario _El Punt Avui_ ha publicado un par de noticias explicando el
+programa piloto (El Punt avui, Raül Garcia i Aranzueque, 19 de junio de 2017).
+Para documentarse vino a la FIB y entrevistó a 5 mentores y 5 mentorizados.
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+[Les universitats més humanes](opinio/article/62-apunt/1171970-les-
+universitats-mes-humanes.html.md)
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+[El germà gran de la uni](societat/article/16-educacio/1171936-el-germa-gran-
+de-la-uni.html.md)
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+La revista _L'Oasi_ , publicada por los alumnos de la FIB, ha dedicado una
+página completa del número 55 a les Mentorías para destacar su utilidad.
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+[Les mentories no són
+inútils](sites/fib/files/documents/fib/oasi_abril2018_les-mentories-no-son-
+inutils.pdf.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+## Histórico de ediciones
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+* * *
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+#### [Curso 23/24](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-
+iguales.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+Es la octava edición del Programa de Mentorías para estudiantes del GEI, la
+sexta edición para los estudiantes del GCED y la tercera para los estudiantes
+del GIA.
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+  * Hay un total de 42 mentores a cargo de 26 subgrupos del GEI (16 al turno por la mañana y 10 al turno por la tarde), 3 subgrupos del GCED y 3 subgrupos del GIA, coordinados por el exestudiant del GEI Pablo Buxó. De los 42 mentores, hay 26 de GEI, 9 de GCED y 7 de GIA.
+  * Las siete sesiones de mentorías se realizan en formato presencial entre los meses de septiembre y noviembre.
+  * En junio y en septiembre se han realizado dos ediciones presenciales del curso de formación de técnicas para conectar y acompañar en la mentoría.
+  * Se han hecho tres reuniones generales de seguimiento por las personas mentoras a las cuales ha asistido también la vicedecana jefa de estudios de la fase inicial como responsable del programa.
+  * El 73,81% del estudiantado mentor ha respondido también una encuesta (31 personas). El 100% de estos recomendaría las mentorías al estudiantado de nuevo ingreso y también el 100% recomendarían hacer de mentor al estudiantado de la FIB. El 54,84% ha hecho de mentor porque considera que es una actividad útil para el estudiantado y el 38,71% porque así lo decidieron en el momento que fueron mentorizados, cuando llegaron a la FIB.
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+![](/sites/fib/files/images/mentorias_202324.png)
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+#### [Curso 22/23](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-
+iguales.md)
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+Es la séptima edición del Programa de Mentorías para estudiantes del GEI, la
+quinta edición para los estudiantes del GCED y la segunda para los estudiantes
+del GIA.
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+  * Hay un total de 33 mentores a cargo de 23 subgrupos del GEI (14 al turno por la mañana y 9 al turno por la tarde), 4 subgrupos del GCED y 2 subgrupos del GIA, coordinados por el exestudiant del GEI Ismael Quiñones. De los 33 mentores, hay 23 de GEI, 8 de GCED y 2 de GIA.
+  * Las siete sesiones de mentorías se realizan en formato presencial entre los meses de septiembre y noviembre.
+  * En junio y en septiembre se han realizado dos ediciones presenciales del curso de formación de técnicas para conectar y acompañar en la mentoría.
+  * Se han hecho tres reuniones generales de seguimiento por las personas mentoras a las cuales ha asistido también la vicedecana jefa de estudios de la fase inicial como responsable del programa.
+  * El 90,91% del estudiantado mentor ha respondido también una encuesta (30 personas). El 100% de estos recomendaría las mentorías al estudiantado de nuevo ingreso y también el 100% recomendarían hacer de mentor al estudiantado de la FIB. El 34,5% ha hecho de mentor porque considera que es una actividad útil para el estudiantado y el 41,4% porque así lo decidieron en el momento que fueron mentorizados, cuando llegaron a la FIB.
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+![](/sites/fib/files/images/estudis/mentories-22-23.png)
 
-## Acreditaciones de calidad
+#### [Curso 21/22](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-
+iguales.md)
 
-### Sellos AQU
+Es la sexta edición del Programa de Mentories para estudiantes del GEI, la
+cuarta edición para los estudiantes del GCED y la primera para los estudiantes
+del GIA.
 
-**GEI**
+  * Hay un total de 39 mentores a cargo de 25 subgrupos del GEI (15 en el turno de la mañana y 10 en el turno de la tarde), 4 subgrupos del GCED y 2 subgrupos del GIA, coordinados por el estudiante del GEI Ismael Quiñones.
+  * Las siete sesiones de mentories se realizan en formato presencial.
+  * En junio y en septiembre, en horario de tarde y mañana, respectivamente, se han realizado dos ediciones presenciales del curso de formación de técnicas para conectar y acompañar en la mentoria.
+  * Se han hecho tres reuniones generales de seguimiento para las personas mentoras a las cuales ha asistido también la vicedecana jefa de estudios de la fase inicial, responsable del programa.
+  * El 97,44% del estudiantado mentor ha respondido también una encuesta (38 personas). El 100% recomendaría las mentories al estudiantado de nuevo ingreso y 37 recomendarían hacer de mentor al estudiantado de la FIB. El 47,4% ha hecho de mentor porque considera que es una actividad útil para el estudiantado y el 36,8% porque así lo decidieron en el momento que fueron mentorizados, cuando llegaron a la FIB.
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+![](/sites/fib/files/images/estudis/mentories21-22.png)
 
-**GCED**
+#### [Curso 20/21](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-
+iguales.md)
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+Es la quinta edición del Programa de Mentorías para estudiantes del GEI y la
+tercera edición para los estudiantes del GCED.
 
-**GIA**
+  * Hay un total de 28 mentores a cargo de 20 subgrupos del GEI (12 en el turno por la mañana y 8 en el turno de tarde) y 4 subgrupos del GCED, y coordinados por el estudiante del GEI Alberto Garrote.
+  * Las siete sesiones de mentorías se realizan en formato presencial. Si hay estudiantes confinados, el formato es híbrido.
+  * En septiembre se realizaron dos ediciones presenciales, en horario de mañana o de tarde, del curso de formación de técnicas para conectar y acompañar en la mentoría.
+  * Se han hecho tres reuniones generales de seguimiento por las personas mentoras a las cuales han asistido también la vicedecana de estudiantado y la vicedecana jefa de estudios de la fase inicial como responsables del programa.
+  * El 100% del estudiantado mentor ha respondido también una encuesta (28 personas). El 100% recomendaría las mentorías al estudiantado de nuevo ingreso y el 96,4% recomendaría hacer de mentor al estudiantado de la FIB. El 60,7% ha hecho de mentor porque considera que es una actividad útil para el estudiantado.
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+![](/sites/fib/files/images/estudis/mentories20-21.png)
 
-**MEI**
+#### [Curso 19/20](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-
+iguales.md)
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+Es la cuarta edición del Programa de Mentorías para estudiantes del GEI y la
+segunda edición para los estudiantes del GCED.
 
-**MIRI**
+  * Cada mentor se ha hecho cargo de un grupo formado por unos 15 estudiantes de nueva entrada, con los que se ha encontrado en al menos 7 sesiones durante el cuadrimestre, cada una de una hora duración. La coordinadora del grupo de mentores ha estado la estudiante Aurora Tomàs Berjaga.
+  * Ha habido 4 reuniones de coordinación con todos los mentores, en julio y al inicio, medio y final de cuatrimestre, a las cuales han asistido también la vicedecana jefe de estudios de la fase inicial.
+  * De acuerdo con las encuestas realizadas, la existencia del programa está muy bien valorada tanto por estudiantes como para mentores. El soporte dado por el coordinador de mentorías se ha valorado muy positivamente, así como las funcionalidades aportadas por el racó.
+  * Estudiantado mentor: 29 estudiantes del GEI, todos y todas con más de 90 ECTS superados, y 8 estudiantes del GCED, de los cuales 4 son de segundo y 4 de tercer curso.
+  * Formación previa: 34 mentoras y mentores han seguido un curso de 10 horas  _Tècniques per connectar i acompanyar en la mentoria_ impartido por la ICE, con contenidos renovados respecto a años anteriores, 16 en la edición y 18 en la de setiembre.
+  * Estudiantes mentorizados: 400 del GEI y 60 del GCED.
+  * Subgrupos: 27 del GEI y 4 del GCED.
+  * Sesiones: 7 por subgrupo.
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+![](/sites/fib/files/images/mentories19-20.png)
 
-**MAI**
+#### [Curso 18/19](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-
+iguales.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+La tercera edición de las Mentorías ha funcionado de una forma muy similar a
+las ediciones anteriores. No obstante, se han introducido algunos cambios que
+han tenido un impacto positivo.
 
-**MFPS**
+  * Horarios: Se ha vuelto a utilizar la franja cultural de los miércoles para bastantes grupos, dos grupos han hecho mentories “entre” o “antes” de clases. Comprobamos que las franjas “entre” clases son las que llevan a una mayor participación.
+  * Se incorporan los estudiantes del GCED en el programa.
+  * 32 mentores, de un total de 33, han participado en una de las dos sesiones del curso de coaching.
+  * Ha habido cuatro reuniones con los mentores (julio, septiembre, octubre y diciembre). En esta edición se ha introducido la reunión de medio cuatrimestre, que se valora positivamente.
+  * La propia existencia del programa está muy bien valorada tanto por estudiantes como por mentores. El apoyo dado por el coordinador de mentorías se valora muy positivamente, así como las funcionalidades aportadas por el  _Racó_.
+  * Se ha hecho un primer análisis del impacto académico de las mentorías y se ha comprobado que entre los estudiantes que aprueban todas las asignaturas del cuatrimestre hay una mayoría que han tenido una alta participación en el programa (5 o más sesiones). En cambio, los estudiantes que no aprueban ninguna asignatura mayoritariamente no han asistido a mentorías.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+#### [Curso 17/18](es/estudios/grados/plan-de-accion-tutorial/mentorias-entre-
+iguales.md)
 
-**MDS**
+La segunda edición de las Mentorías ha funcionado de una forma muy similar a
+la edición anterior. No obstante, se han introducido algunos cambios que han
+tenido un impacto positivo, otros no tanto pero lo anotamos en la lista de
+mejoras futuras:
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+  * Los horarios de las mentorías han coincidido, mayoritariamente, con la franja cultural y alguno, muy pocos, con las franjas de exámenes. Este aspecto ha estado mejor valorado que en la edición anterior.
+  * Los mentores han participado más activamente en las encuestas y, por tanto, tenemos más información.
+  * Se ha conseguido grabar un vídeo con los testimonios de los mentorizados. El objetivo es proyectarlo en el acto de Bienvenida del próximo curso. En la edición anterior se intentó pero no fue posible.
+  * 22 de los 28 mentores han seguido el curso de coaching mientras que en las edición 16/17 fueron 28 los que lo hicieron. Se ha de intentar que todos los mentores reciban la formación.   
+Por cuestiones de calendario, no ha tenido lugar la reunión de coordinación
+planificada para mitad de cuatrimestre y se ha detectado que no solo es
+necesaria sino que hay que aumentar su número.  
+Este curso hemos conseguido listas de asistencia aunque no de todos los
+grupos/sesiones. Aun así, comenzamos a tener identificados a muchos de los
+asistentes. Habrá que analizar los datos recogidos par identificar el posible
+impacto académico de las mentorías (mejora del rendimiento).
 
-### Sellos Euro-inf
+  * Hace falta reajustar el contenido de alguna de las sesiones y tener más en cuenta el calendario académico.
 
-**GEI**
+#### [Curso 16/17 (primera edición)](es/estudios/grados/plan-de-accion-
+tutorial/mentorias-entre-iguales.md)
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+La primera edición de este programa se ha desarrollado en el primer
+cuatrimestre del curso 16/17. Han participado todos los estudiantes de nuevo
+ingreso (411) durante su primer cuatrimestre en la FIB. Los estudiantes se han
+distribuido en 28 grupos a cada uno de los cuales se ha asignado un mentor, es
+decir, un estudiante que ha aprobado un mínimo de 90 ECTS. Todos los mentores
+han realizado un curso en coaching, impartido con el soporte del ICE, se ha
+contado con un Racó adaptado a la actividad y con un estudiante-coordinador,
+Carlos García Calatrava, que ha gestionado el día a día del programa. Desde la
+FIB, el soporte lo ha proporcionado la Jefa de estudios de Fase Inicial y la
+Vicedecana de Estudiantado que han elaborado el material de partida.
 
-**MEI y MIRI**
+El programa ha implicado la realización de siete sesiones de una duración
+aproximada de una hora en todo el cuatrimestre. El día 9 de noviembre tuvo
+lugar una reunión general de seguimiento en la que se ha constatado un alto
+grado de satisfacción por parte de los mentores.
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+En una encuesta realizada al final del cuatrimestres, los estudiantes han
+valorado positivamente la actividad: (Participación en la encuesta: 37%;
+recomiendan las mentorías a los nuevos: 75,8%; están satisfechos o muy
+satisfechos con las mentorías: 65,4%; creen que son útiles o muy útiles: 58%).
 
 ## Dónde estamos
 
@@ -1109,5 +1024,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/grados/plan-de-accion-
+tutorial/mentorias-entre-iguales.md)
 

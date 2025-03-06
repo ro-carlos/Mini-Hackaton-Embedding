@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/secretaria/tramites.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/secretaria/tramits.md "Tràmits")
+  * [English](en/studies/academic-management/administrative-procedures.md "Administrative Procedures")
+  * [Español](es/estudios/secretaria/tramites.md "Trámites")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/secretaria/tramites.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,361 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Trámites
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) »
+[Secretaría](es/estudios/secretaria.md) » Trámites
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+Aquí encontrarás los diferentes trámites relacionados con tus estudios en la
+FIB.
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+Categoría
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+\- Todas
+-AccésCertificadosConvalidaciones/ReconocimientosMatrículaMovilidadTítulos
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+Estudios
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+\- Todas -Estudios de gradoEstudios de máster
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+__[ Acreditación competencia genérica en 3a
+lengua](es/estudios/secretaria/tramites/acreditacion-competencia-generica-
+en-3a-lengua.md)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+Durante los estudios de Grado, antes de solicitar el título.
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+__[ Ampliació de crèdits a la matrícula
+](es/estudios/secretaria/tramites/ampliacio-de-credits-la-matricula.md)
 
-Consulta toda la información en lo referente a este proceso electoral.
+  * **GEI**
+    * estudiantes con la Fase Inicial superada: **del 20 al 24 de enero de 2025**
+    * estudiantes de Fase Inicial:**del 20 al 24 de enero de 2025**
+  * **​GCED | GIA | BBI**
+    * estudiantes con la Fase Inicial superada:**del 20 al 28 de enero de 2025**
+    * estudiantes de Fase Inicial:**del 20 al 28 de enero de 2025**
+  * **Màsters:** MEI, MIRI, MAI y MDS: **del 20 al 28 de enero de 2025**
 
-## Noticias
+__[ Añadir asignatura al potencial de la
+matrícula](es/estudios/secretaria/tramites/anadir-asignatura-al-potencial-de-
+la-matricula.md)
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+  * **GEI**
+    * estudiantes con la Fase Inicial superada: **del 20 al 24 de enero de 2025**
+    * estudiantes de Fase Inicial:**del 20 al 24 de enero de 2025**
+  * **GCED | GIA | BBI**
+    * estudiantes con la Fase Inicial superada:**del 20 al 28 de enero de 2025**
+    * estudiantes de Fase Inicial:**del 20 al 28 de enero de 2025**
+  * **MASTERS:** consultar el trámite [Modificación de Matrícula y Cambio de Grupo](es/estudios/secretaria/tramites/modificacion-de-matricula-y-cambio-de-grupo.md)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+__[ Cambio de mención (GEI)](es/estudios/secretaria/tramites/cambio-de-
+mencion-gei.md)
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Període Q2:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+Jueves, 16 Enero, 2025 a Miércoles, 22 Enero, 2025
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+__[ Certificaciones
+académicas](es/estudios/secretaria/tramites/certificaciones-academicas.md)
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+Se pueden solicitar durante todo el curso.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+__[ Certificaciones de situación del
+expediente](es/estudios/secretaria/tramites/certificaciones-de-situacion-del-
+expediente.md)
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Se pueden solicitar durante todo el curso.
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+Se solicitan en e-Secretaria y se podran recogerr al cabo de 4 dias hábiles en
+la Secretaria del Centro.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+**El horario de recogida de los certificados es de 9.30 a 14.00h.**
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+__[ Convalidaciones de Ciclos Formativos de Grado
+Superior](es/estudios/secretaria/tramites/convalidaciones-de-ciclos-
+formativos-de-grado-superior.md)
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+Cuando el estudiante/a haya elegido la especialidad.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+__[ Cuatrimestre adicional (Continuidad de
+Estudios)](es/estudios/secretaria/tramites/cuatrimestre-adicional-continuidad-
+de-estudios.md)
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+Període Q2:
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+Martes, 4 Febrero, 2025 a Martes, 18 Febrero, 2025
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+__[ Eliminar asignaturas de la matrícula (Baja
+académica)](es/estudios/secretaria/tramites/eliminar-asignaturas-de-la-
+matricula-baja-academica.md)
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+Periodo Q1:
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+lunes, 9 Septiembre, 2024 a Jueves, 31 Octubre, 2024
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+Període Q2:
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+lunes, 17 Febrero, 2025 a lunes, 31 Marzo, 2025
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+__[ Matrícula de Máster](es/estudios/secretaria/tramites/matricula-de-
+master.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+**Máster en Innovación e Investigación en Informática (MIRI) | Máster en Ingeniería Informática (MEI) | Máster en Inteligencia Artificial (MAI) | Máster en Ciencia de Datos (MDS)**
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+  * Estudiantado matriculado en cursos anteriores:**3 de febrero de 2025**
+  * Estudiantado de nuevo acceso: **5 de febrero de 2025**
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+**Máster en Formación del Profesorado de Educación Secundaria Obligatoria y
+Bachillerato, Formación Profesional y Enseñanza de Idiomas****(MFPS)**
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+  * Matrícula de estudiantes que continúan (“no nuevos”):**17 de septiembre de 2024**
+  * Matrícula de estudiantes de nuevo acceso: **19 de septiembre de 2024**
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+__[ Matrícula estudiantes de GRADO](es/estudios/secretaria/tramites/matricula-
+estudiantes-de-grado.md)
 
-Primer Concurso UPC de IA
+  * **Grado en Ingeniería Informática**
+    * Matrícula estudiantes GEI (Fase Inicial superada):**3, 4 y 5 de febrero de 2025**
+    * Matrícula estudiantes GEI (Fase Inicial): **6 de febrero de 2025**
+  * **Grado en Ciencia e Ingeniería de Datos**
+    * Matrícula estudiantes GCED (Fase Inicial Superada): **6 de febrero de 2025**
+    * Matrícula estudiantes GCED (Fase Inicial): **6 de febrero de 2025**
+  * **Grado en Inteligencia Artificial**
+    * Matrícula estudiantes GIA (Fase Inicial Superada): **6 de febrero de 2025**
+    * Matrícula estudiantes GIA (Fase Inicial): **6 de febrero de 2025**
+  * **Grado en Bioinformática**
+    * Matrícula estudiantes BBI (Fase Inicial Superada): **de febrero de 2025**
+    * Matrícula estudiantes BBI (Fase Inicial): **6 de febrero de 2025**
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+__[ Matrícula Incoming (1ª
+matrícula)](es/estudios/secretaria/tramites/matricula-
+incoming-1a-matricula.md)
 
-## Agenda
+  * Curso académico 2024/25 - **Semestre de otoño o estancia de curso completo: 5 de septiembre de 2024 a las 9:30h en el Aula Màster (Edificio A3 Campus Nord)**
+  * Curso académico 2024/25 - **Semestre de primavera: 6 de febrero de 2025** **a las 9:30h en el Auditorio Manuel Martí Recober (Edificio B6 Campus Nord)**
 
-Mar 11 Mar
+__[ Matrícula Incoming (2ª
+matrícula)](es/estudios/secretaria/tramites/matricula-
+incoming-2a-matricula.md)
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+El 2º semestre de la estancia en la FIB para estancias anuales.**** El
+estudiantado debe matricularse según fecha y hora indicado en el Racó. La
+fecha de matrícula se calcula según el rendimiento académico del estudiante/a
+durante su 1º semestre en la FIB.
 
-__17:00 - 18:30
+__[ Matrícula Outgoing](es/estudios/secretaria/tramites/matricula-outgoing.md)
 
-__Sala d'actes Manuel Martí Recober
+Debes matricularte el día y hora que aparezca en el [Racó](index.md) segun
+orden de matrícula.
 
-Mié 12 Mar
+__[ Modificación de matrícula y Cambio de
+Grupo](es/estudios/secretaria/tramites/modificacion-de-matricula-y-cambio-de-
+grupo.md)
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+**Período cambio de grupo**  
+Viernes 07 Febrero 2025 - 07:00 a Domingo 09 Febrero 2025 - 23:59
 
-__16:00 - 17:30
+**Resolución cambio de grupo**  
+Miércoles 12 Febrero 2025 - 12:00
 
-Mié 12 Mar
+**Período modificación matrícula**  
+Viernes 07 Febrero 2025 - 07:00 a Domingo 09 Febrero 2025 - 23:59
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+**Resolución modificación matrícula**  
+Miércoles 12 Febrero 2025 - 12:00
 
-__16:00 - 17:30
+__[ Parámetro Alfa](es/estudios/secretaria/tramites/parametro-alfa.md)
 
-__online
+Període Q2:
 
-[Consulta toda la agenda ](es/agenda.md)
+lunes, 20 Enero, 2025 a Viernes, 24 Enero, 2025
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+__[ Prematrícula de especialidad
+MIRI](es/estudios/secretaria/tramites/prematricula-de-especialidad-miri.md)
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+**Fase 1:** martes 28 de enero de 2025, de 10:00 a 23:59 h
 
-__21 Feb 25 - 07 Abr 25
+**Fase 2** : jueves 30 de enero de 2025, de 10:00 a 23:59 h
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+__[ Prematrícula de las asignaturas de especialidad del
+GEI](es/estudios/secretaria/tramites/prematricula-de-las-asignaturas-de-
+especialidad-del-gei.md)
 
-## Pide cita previa
+**Fase 1** : martes 28 de enero de 2025, de 10:00 a 23:59 h
 
-* * *
+**Fase 2** : jueves 30 de enero de 2025, de 10:00 a 23:59 h
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+__[ Prematrícula de las asignatures optativas del
+GIA](es/estudios/secretaria/tramites/prematricula-de-las-asignatures-
+optativas-del-gia.md)
 
-[Cita previa](ca/cita-previa.md)
+**Fase 1:** del jueves 30 de enero de 2025 a las 10:00 h hasta el viernes 31
+de enero de 2025 a las 23:59 h.
 
-## Premios y reconocimientos
+**Fase 2** : miércoles 5 de febrero de 2025, de 10:00 a 23:59 h
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+__[ Prematrícula de opativas del
+GCED](es/estudios/secretaria/tramites/prematricula-de-opativas-del-gced.md)
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+**Fase 1:** del jueves 30 de enero de 2025 a las 10:00 h hasta el viernes 31
+de enero de 2025 a las 23:59 h.
 
-__16 Dec 24
+**Fase 2** : martes 4 de febrero de 2025, de 10:00 a 23:59 h
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+__[ Prematrícula de optativas del
+MDS](es/estudios/secretaria/tramites/prematricula-de-optativas-del-mds.md)
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+**Fase 1:** martes 28 de enero de 2025, de 10:00 a 23:59 h
 
-__09 Dec 24
+**Fase 2** : jueves 30 de enero de 2025, de 10:00 a 23:59 h
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+__[ Prematrícula de optativas
+MAI](es/estudios/secretaria/tramites/prematricula-de-optativas-mai.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+**Fase 1:** martes 28 de enero de 2025, de 10:00 a 23:59 h
 
-__22 Nov 24
+**Fase 2** : jueves 30 de enero de 2025, de 10:00 a 23:59 h
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+____[ Recogida del título](es/estudios/secretaria/tramites/recogida-del-
+titulo.md)
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+Se podrá recoger el título en los días hábiles (de lunes a viernes) en el Área
+de Gestión Académica (Secretaria) **en el horario de 10:00 a 13.00 hores**.
+Pide [cita previa](ca/cita-previa.md)!
 
-__24 Oct 24
+__[ Reconocimiento de
+asignaturas](es/estudios/secretaria/tramites/reconocimiento-de-asignaturas.md)
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+Periodo Q1:
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+lunes, 3 Junio, 2024 a lunes, 2 Septiembre, 2024
 
-__14 Oct 24
+Període Q2:
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
+lunes, 2 Diciembre, 2024 a Miércoles, 31 Diciembre, 2025
 
-## Haz un recorrido por la historia de la informática
+__[ Reconocimiento de créditos optativos por actividades de extensión
+universitaria](es/estudios/secretaria/tramites/reconocimiento-de-creditos-
+optativos-por-actividades-de-extension-universitaria.md)
 
-* * *
+Periodo Q1:
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+Viernes, 1 Noviembre, 2024 a Sábado, 30 Noviembre, 2024
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+Període Q2:
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+Martes, 1 Abril, 2025 a Miércoles, 30 Abril, 2025
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+__[ Renuncia a la matrícula](es/estudios/secretaria/tramites/renuncia-la-
+matricula.md)
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+Periodo Q1:
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+lunes, 9 Septiembre, 2024 a Jueves, 31 Octubre, 2024
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+Període Q2:
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+lunes, 17 Febrero, 2025 a lunes, 31 Marzo, 2025
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+__[ Simultaneidad de estudios](es/estudios/secretaria/tramites/simultaneidad-
+de-estudios.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+Periodo Q1:
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+lunes, 1 Julio, 2024 a lunes, 15 Julio, 2024
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+__[ Solicitud de acceso por cambio de estudios, centro o universidad, con
+reconocimiento](es/estudios/secretaria/tramites/solicitud-de-acceso-por-
+cambio-de-estudios-centro-o-universidad-con-reconocimiento.md)
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+Periodo Q1:
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+Sábado, 15 Junio, 2024 a lunes, 15 Julio, 2024
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+Trámite resolución Q1:
 
-## Acreditaciones de calidad
+Viernes, 26 Julio, 2024
 
-### Sellos AQU
+__[ Solicitud de plaza de movilidad en el programa
+SICUE](es/estudios/secretaria/tramites/solicitud-de-plaza-de-movilidad-en-el-
+programa-sicue.md)
 
-**GEI**
+[Convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-de-plaza-
+en-universidades-espanolas-en-el-programa-sicue.md): Durante el mes de febrero
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+Listado **provisional** de plazas concedidas: finales de abril.
 
-**GCED**
+Listado **definitivo** de plazas concedidas: mediados de mayo.
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+__[ Solicitud de plaza de movilidad en el programa
+VULCANUS](es/estudios/secretaria/tramites/solicitud-de-plaza-de-movilidad-en-
+el-programa-vulcanus.md)
 
-**GIA**
+[Convocatoria](es/movilidad/outgoing/calendario-movilidad/programa-
+vulcanus.md): Desde mediados de noviembre hasta mediados de enero,
+aproximadamente.
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+__[ Solicitud de plaza de movilidad para destinos de la red
+CINDA](es/estudios/secretaria/tramites/solicitud-de-plaza-de-movilidad-para-
+destinos-de-la-red-cinda.md)
 
-**MEI**
+Del 1 al 15 de octubre
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+__[ Solicitud de plaza de movilidad para el NII - Tokio
+](es/estudios/secretaria/tramites/solicitud-de-plaza-de-movilidad-para-el-nii-
+tokio.md)
 
-**MIRI**
+Cuando esté abierta la convocatoria en el calendario de movilidad.
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+__[ Solicitud de plaza de movilidad para Erasmus+, América Latina, India,
+Rusia, Taiwan, China y dobles titulaciones en
+Europa](es/estudios/secretaria/tramites/solicitud-de-plaza-de-movilidad-para-
+erasmus-america-latina-india-rusia-taiwan-china-y-dobles-titulaciones-en-
+europa.md)
 
-**MAI**
+[**1a. convocatoria:**](es/movilidad/outgoing/calendario-movilidad/solicitud-
+de-plaza-en-programa-erasmus-america-latina-taiwan-china-y-dobles-
+titulaciones.md) De mediados de febrero a finales de la primera semana de
+marzo, aproximadamente.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+**Resolución 1a. convocatoria:** La resolución de plazas se comunicará dos
+semanas después del cierre y por la e-Secretaria.
 
-**MFPS**
+**2a. convocatoria:** Solo para destinos que han quedado vacantes en la 1a
+convocatoria. Hacia finales de septiembre, aproximadamente.
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+**Resolución 2a. convocatoria:** La resolución de plazas se comunicará dos
+semanas después del cierre y por la e-Secretaria.
 
-**MDS**
+__[ Solicitud de plaza de movilidad para EUA (estancia de
+investigación)](es/estudios/secretaria/tramites/solicitud-de-plaza-de-
+movilidad-para-eua-estancia-de-investigacion.md)
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+[Convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-de-plaza-
+para-eua.md): Desde principios de diciembre y hasta finales de enero,
+aproximadamente.
 
-### Sellos Euro-inf
+__[ Solicitud del título y del Suplemento Europeo al
+Título](es/estudios/secretaria/tramites/solicitud-del-titulo-y-del-suplemento-
+europeo-al-titulo.md)
 
-**GEI**
+Una vez el estudiante cumpla con las condiciones para solicitar el título.
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+__[ Solicitud plaza de movilidad en el programa
+UNITECH](es/estudios/secretaria/tramites/solicitud-plaza-de-movilidad-en-el-
+programa-unitech.md)
 
-**MEI y MIRI**
+Desde principios de diciembre hasta mediados de enero aproximadamente
+(consultar convocatoria para más concreción)
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
+__[ Traslado de un expediente](es/estudios/secretaria/tramites/traslado-de-un-
+expediente.md)
 
-## La FIB es miembro de
+Este trámite habrá que realizarlo cuando un estudiante de la FIB solicite
+plaza en otro centro o Universidad, y esté admitido.
 
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+__Trámite Online __Trámite Presencial
 
 ## Dónde estamos
 
@@ -1109,5 +1108,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/secretaria/tramites.md)
 

@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/masters/master-en-formacio-del-professorat-deducacio-secundaria/direccio-i-professorat.md "Direcció i professorat")
+  * English
+  * [Español](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md "Dirección y profesorado")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,8 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-
+secundaria/direccion-y-profesorado.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,363 +717,216 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Dirección y profesorado
+
+## Usted está aquí
+
+[Inicio](es.md) » [Estudios](es/estudios.md) »
+[Másteres](es/estudios/masteres.md) » [Máster en Formación del Profesorado de
+Educación Secundaria](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria-obligatoria-y-bachillerato-formacion-
+profesional-y-ensenanza.md) » Dirección y profesorado
+
+  * [Destacados](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/destacados.md)
+  * [Dirección y profesorado](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+  * [Requisitos de acceso y preinscripción](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/requisitos-de-acceso-y-preinscripcion.md)
+  * [Plan de estudios](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/plan-de-estudios.md)
+  * [Matrícula](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/matricula.md)
+  * [Horarios](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/horario.md)
+  * [Normativa académica](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/normativa-academica.md)
+  * [Prácticum](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/practicum.md)
+  * [Trabajo de Fin de Máster](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/trabajo-de-fin-de-master.md)
+
+  * [Dirección](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+  * [Roles y asignaciones del profesorado](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+  * [Roles Profesorado Prácticum y TFM](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+  * [Profesorado](es/estudios/masteres/master-en-formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+
+## Dirección
+
+La **Dirección académica** : Cristina Simarro Rodriguez ( )  
+  
+El **Órgano responsable del Máster** está formado por cuatro miembros del
+profesorado de la UPC, que son los responsables de cada bloque de materias:
+bloque genérico, bloques específicos de tecnología y formación profesional y
+bloque de prácticum.  
+  
+La **Unidad encargada de la organización del Máster** es la Facultad de
+Informática de Barcelona. En este sentido ejerce la gestión académico-
+administrativa de los estudios: preinscripción, matrícula, expedientes y
+títulos..  
+  
+El **profesorado** que participa en la impartición de estos estudios está
+formado por personal docente e investigador de la UPC que pertenece a los
+diferentes centros y departamentos de esta Universidad y profesorado asociado
+adscrito al ICE, con amplia experiencia profesional en el ámbito de la
+enseñanza secundaria y la organización de centros docentes.  
+  
+Los **centros de prácticas** : escogidos por el ICE entre los centros de
+enseñanza de secundaria que son centros formadores del Departamento de
+Educación de la Generalitat.
+
+## Roles y asignaciones del profesorado
+
+#### [Comissión Académica del Máster (CAMSEC)](es/estudios/masteres/master-en-
+formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+
+Este Órgano, que es el responsable de la dirección y coordinación de los
+estudios y de rendir cuentas a los Órganos de Gobierno de la Universidad, está
+formado por el Decano de la FIB y los profesores y profesoras responsables de
+cada bloque (tecnología, formación profesional, bloque genérico y prácticum).  
+  
+A las reuniones de la CAMSEC participa también personal de la FIB como apoyo
+técnico para cuestiones organizativas y de gestión académica.  
+  
+Consulta la composición actual de la [Comisión Académica del Máster.](es/la-
+fib/la-facultad/gobierno/camsec.md)
+
+#### [Coordinador/a del bloque](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+
+Vela por la buena coordinación entre los contenidos de las asignaturas que
+forman parte del bloque. En este sentido también es responsable de la
+validación definitiva de las guías docentes de estas asignaturas.
+
+#### [Responsable/coordinador/a de asignatura](es/estudios/masteres/master-en-
+formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+
+Vela porque la impartición de la docencia y la evaluación de la asignatura a
+los diferentes grupos sea homogénea y respete los criterios comunes
+establecidos a la guía docente de la asignatura y las normativas académicas de
+la Universidad y las especificas de este Máster establecidas por la CAMSEC.  
+Por este motivo tiene que elaborar la guía docente, asegurar la homogeneidad
+del sistema de evaluación de la asignatura en el diferentes grupos, revisar y
+enviar a la secretaría los ficheros de notas que genera a Atenea y firmar las
+actas correspondientes.  
+Tiene que atender quejas o reclamaciones del estudiantado respecto a la
+asignatura.
+
+### Bloque genérico
+
+  * **Aprendizaje, conducta y desarrollo de la personalidad** : Cristina Tudela
+  * **Organización escolar: contextos educativos y participación** : Pere Ribas
+  * **Sociedad, familia y educación** : Patricia Pueyo
+
+### Bloque específico de tecnología
+
+  * **Complementos para la formación disciplinar en Tecnología** : Antonio Hernández
+  * **Aprendizaje y enseñanza de la Tecnología a Secundaria I** : Antonio Romero
+  * **Aprendizaje y enseñanza de la Tecnología a Secundaria II** : Herminio Manzano
+  * **Innovación docente e iniciación a la investigación educativa en la Tecnología** : Montse Pérez Moya
+  * **Prácticum I i II:** Maica Sanz
+
+### Bloque específico de formación profesional
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
-
-[web de los másteres de la FIB](index.md)
-
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
-
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
-
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
-
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
-
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
-
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
-
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
-
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
-
-Consulta toda la información en lo referente a este proceso electoral.
-
-## Noticias
-
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
-
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
-
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
-
+  * **Antecedentes y orientación disciplinar a la Formación Profesional** : Beatriz Amante
+  * **Didáctica de la Formación Profesional** : Herminio Martínez
+  * **Enseñanza de la Formación Profesiona** l: Raúl Sánchez
+  * **Innovación docente y iniciación a la investigación educativa a la Formación Profesional** : Antoni Hernández
+  * **Prácticum I i II:** Maica Sanz
+
+#### [Profesorado de las asignaturas](es/estudios/masteres/master-en-
+formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+
+Imparte la docencia de acuerdo con el que especifica la guía docente, la
+normativa propia del Máster y la general de la Universidad, respetando las
+pautas establecidas por el/por la responsable de la asignatura y el
+coordinador/a de el bloque.
+
+#### [Tutor/a individual](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+
+El alumnado cuenta con la asignación de un/a profesor/a de la Universidad
+puede ser o no profesor del máster (TUTOR UPC) que actúa como:
+
+  * Director del TFM, guiando el trabajo que hace el estudiantado y evaluando este trabajo.
+  * Tutor de prácticum, haciendo un seguimiento del estudiantado durante la realización de las prácticas.
+
+#### [Revisores/as de propuestas de TFM](es/estudios/masteres/master-en-
+formacion-del-profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
+
+Revisan las propuestas de TFM presentadas por el estudiantado y autorizadas
+por los respectivos directores/as, para asegurar que se cumplen los requisitos
+mínimos marcados en la normativa relacionados con la temática, estructura,
+ámbito de realización.
+
+  * Antonio Hernández
+  * Maica Sanz
+
+## Roles profesorado Prácticum y TFM
+
+FUNCIONES PROFESORADO | PRÁCTICUM | TFM  
+---|---|---  
+PROFESORADO  
+SECUNDARIA | Mentor/a | 
+
+  * Planifica las tareas del/a estudiante en el centro
+  * Supervisa y facilita las actuaciones del estudiantado en el centro
+  * Interviene en la evaluación del prácticum
+
+|  De manera voluntaria cualquiera de los dos puede:
+
+  * Proponer al/a estudiante temas para el TFM
+  * Orientar sobre recursos, información, etc. para llevar a cabo el TFM
+
+  
+Coordinador/a | 
+
+  * Es el interlocutor/a con la Universidad
+  * Organiza las actividades de cariz transversal al centro
+
+  
+PROFESORADO UPC | Tutor/a y/o director/a | 
+
+  * Hace el seguimiento de la tarea del/a estudiante en el centro de prácticas
+  * Contacto con el tutor/a y coordinador/a de el centro
+
+|
+
+  * Valida la propuesta de TFM
+  * Supervisa el trabajo del estudiantado
+  * Valida la memoria definitiva para poder ser defendida
+  * Interviene en la evaluación del TFM
+
+  
+Coordinador/a prácticum y TFM | 
+
+  * Asignación del estudiantado en los centros de secundaria
+  * Seguimiento general de las prácticas
+  * Evaluación prácticum
+
+|
+
+  * Asignación de directores
+  * Seguimiento general de los TFM
+  * Composición tribunales TFM
+
+  
+  
+## Profesorado
+
+Persona | Departamento | Correo electrónico  
+---|---|---  
+[Amante Garcia, Beatriz](1103367.md) | EPC |   
+Garcia Rodriguez, Antonio | ICE |   
+Gomez Jorge, Paz | ICE |   
+[Hernandez Fernandez, Antoni](1122482.md) | ICE |   
+[Jove Casals, Jose Maria](1002791.md) | ICE |   
+Lopez i Jornet, Alicia | ICE |   
+López Sánchez, Raúl | ICE |   
+Manzano Bojados, Herminio | ICE |   
+[Marti Maranillo, Ramón](1002429.md) | ICE |   
+[Martinez Garcia, Herminio](1003374.md) | EEL |   
+Moreno Dionis, Monica | ICE |   
+Pueyo Perez, Patricia | ICE |   
+Ribas Garriga, Pere | ICE |   
+Ruiz Martin, Hector | ICE |   
+[Sanz Gomez, Maica](1001779.md) | ICE |   
+Simarro Rodriguez, Cristina | ICE |   
+[Tan Bachs, Isaac](1100492.md) | DECA |   
+Tudela Fabregat, Cristina | ICE |   
+Zurita Mon, Silvia | ICE |   
+  
 ## Dónde estamos
 
 Edificio B6 del Campus Nord  
@@ -1109,5 +964,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/masteres/master-en-formacion-del-
+profesorado-de-educacion-secundaria/direccion-y-profesorado.md)
 

@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/grados/quieres-estudiar-un-
+grado/acceso-los-estudios.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/graus/vols-estudiar-un-grau/acces-als-estudis.md "Accés als estudis")
+  * [English](en/studies/bachelors-degrees/do-you-want-study-bachelors-degree/access-studies.md "Access to studies")
+  * [Español](es/estudios/grados/quieres-estudiar-un-grado/acceso-los-estudios.md "Acceso a los estudios")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/grados/quieres-estudiar-un-grado/acceso-los-estudios.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,219 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Acceso a los estudios
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) » [Grados](es/estudios/grados.md)
+» [¿Quieres estudiar un grado?](es/estudios/grados/quieres-estudiar-un-
+grado.md) » Acceso a los estudios
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+La UPC es una universidad pública y por tanto el acceso se hace a través de la
+Oficina de Acceso a la Universidad de la _Generalitat de Catalunya_.
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+Encontrarás toda la información (vías de acceso, preinscripción, calendario,
+etc) en el [Canal Universitats de GenCat](es/preinscripcions/index.html.md).
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+Te dejamos los **códigos de preinscripción** de nuestros grados:
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+  * 31059 Grado en Ingeniería Informática ([ficha informativa GenCat](ca/detalls/oferta/1456-Enginyeria-Informatica.md))
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+  * 31089 Grado en Ciencia e Ingeniería de Datos ([ficha informativa GenCat](ca/detalls/oferta/4207-Ciencia-i-Enginyeria-de-Dades.md))
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+  * 31106 Grado en Inteligencia Artificial ([ficha informativa GenCat](ca/detalls/oferta/4838-Intelligencia-Artificial.md))
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+  * 31116 Grado en + Máster Universitario en Ingeniería Informática (PARS: Ingeniero/a informático/a) ([ficha informativa GenCat](ca/detalls/oferta/4990-Enginyeria-Informatica-Grau-en-Master-Universitari-en-Enginyeria-Informatica-PARS-Enginyer-a-Informatic-a.md))
+  * 91917 Bachelor's degree in Bioinformatics (interuniversitario UPF-UPC-UB) ([ficha informativa GenCat](es/detalls/oferta/5141-Bioinformatica-docencia-en-Angles.md))
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+### Ponderaciones de asignaturas de la fase específica de PAU 2024
 
-Consulta toda la información en lo referente a este proceso electoral.
+Las ponderaciones actualizadas se pueden consultar en el [Canal d'Universitats
+de la GenCat](es/preinscripcions/sobre-
+preinscripcio/ponderacions/index.html.md).
 
-## Noticias
+**
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+Grado en Ingeniería Informática (GEI)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+**
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Dibujo Técnico: 0,10  
+Economía de la Empresa: 0,10  
+Electrotecnia: 0,20  
+Física: 0,20  
+Matemáticas: 0,20  
+Química: 0,10  
+Tecnología Industrial: 0,20
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+**Grado en Ciencia e Ingeniería de Datos (GCED)**
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+Biología: 0,20  
+Ciencias de la Tierra y del Medio Ambiente / Geología: 0,10  
+Dibujo Técnico: 0,10  
+Diseño: 0,10  
+Economía de la Empresa: 0,10  
+Electrotecnia: 0,10  
+Física: 0,20  
+Matemáticas: 0,20  
+Química: 0,10  
+Tecnología Industrial: 0,10
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+**Grado en Inteligencia Artificial (GIA)**
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Biología: 0,20  
+Dibujo Técnico: 0,10  
+Economía de la Empresa: 0,10  
+Electrotecnia: 0,10  
+Física: 0,20  
+Matemáticas: 0,20  
+Química: 0,10  
+Tecnología Industrial: 0,20
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+**Grado en Bioinformática (BBI)**
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+Biología: 0,20  
+Física: 0,20  
+Geología y Ciencias ambientales: 0,20  
+Matemáticas: 0,20  
+Química: 0,20
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+Las **ponderaciones del programa sucesivo** (PARS: Ingeniero/a informático/a -
+Grado en + Máster Universitario en Ingeniería Informática) son las mismas del
+Grado en Ingeniería Informática.
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+### Acceso a los estudios
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+Se puede**acceder a los estudios de la FIB** después de haber cursado:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+  * [Bachillerato](es/grados/acceso-y-admision/vias-de-acceso/bachillerato.md)
+  * [Ciclos Formativos de Grado Superior ](es/grados/acceso-y-admision/vias-de-acceso/cfgs.md)
+  * [Pruebas de acceso para los más grandes de 25 años y de 45 años](es/grados/acceso-y-admision/vias-de-acceso/acceso-a-los-estudios-de-grado-para-mayores-de-25-y-45-anos.md)
+  * [Cambio de universidad y/o estudios universitarios oficiales españoles](es/estudios/grados/quieres-estudiar-un-grado/acceso-los-estudios.md)
+  * [Estudiantes que han cursado estudios universitarios extranjeros](es/estudios/grados/quieres-estudiar-un-grado/acceso-los-estudios.md)
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+## Cambio de universidad y/o de estudios universitarios oficiales españoles
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+El acceso por cambio de universidad y/o de estudios universitarios oficiales
+españoles implica en todos los casos el cierre del expediente de origen. En
+consecuencia, no pueden acceder en ningún caso por esta vía los estudiantes
+titulados o que están en disposición de obtener el título, ni los que vuelan
+simultanear estudios o cursar un itinerario conducente a una doble titulación.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+### ¿Quién puede pedir el acceso a estudios de la UPC?
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+Los estudiantes que quieren cambiar de universidad y/o de estudios
+universitarios oficiales españoles pueden solicitar la admisión directamente
+en un centro o estudio sin tener que obtener la plaza mediante el proceso de
+preinscripción, si se reconoce un mínimo de 30 ECTS, de acuerdo con el que
+establece el apartado 4.1 de la normativa académica de los estudios de Grado y
+Máster
+([NAGRAMA](sga/ca/normatives/NormativesAcademiques/NormativesAcademiques.md)),
+y si cumplen los criterios que se especifican a continuación.
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+### Requisitos para la admisión a los estudios:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+  * Reconocimiento de un mínimo de 30 ECTS en los estudios a los cuales se quiere acceder, correspondientes a asignaturas obligatorias. En ningún caso no se reconoce el trabajo de fin de grado.
+  * No estar afectado por las normas de permanencia a los estudios de origen, si estos se han cursado a la UPC. Un estudiante declarado no apto en aplicación de los apartados 5.4 y 5.5 de la Normativa de permanencia de los estudios de grado de la UPC ([NAGRAMA](sga/ca/normatives/NormativesAcademiques/NormativesAcademiques.md)) se considera que está afectado durante los dos años siguientes a su desvinculación. Si ha sido desvinculado en aplicación del apartado 5.8, se considera que está afectado durante el tiempo de desvinculación que ha resuelto el rector o rectora.
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+Si no se reúnen estos requisitos, se tiene que obtener la plaza por el proceso
+de preinscripción.
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+### Criterios de selección
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+Las solicitudes de admisión presentadas se priorizarán de acuerdo con los
+siguientes criterios
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+  * Estudios que pertenecen a la misma rama de conocimiento.
+  * Ponderación de los expedientes académicos de los estudiantes
+  * Nota de acceso a los estudios universitarios.
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+### Oferta de plazas curso 2024-2025 (cuatrimestre de otoño)
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+  * Grado en Ingeniería Informática: **5**
+  * Grado en Ciencia e Ingeniería de Datos:**3**
+  * Grado en Inteligencia Artificial:**3**
+  * Grado en Bioinformática: **3**
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+### Periodo de presentación de solicitudes
 
-Primer Concurso UPC de IA
+  * Del 14 de junio de 2024 al 15 de julio de 2024.
+  * La resolución y la fecha de la misma estará pública en el [trámite de acceso a los estudios](es/estudios/secretaria/tramites/solicitud-de-acceso-por-cambio-de-estudios-centro-o-universidad-con-reconocimiento.md).
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+### Como presentar la solicitud
 
-## Agenda
+#### Documentación necesaria
 
-Mar 11 Mar
+  * Si eres estudiante de la UPC 
+    * copia del DNI (en vigor)
+    * copia del expediente con nombre de la asignatura y la última convocatoria
+    * Rellenar la [solicitud de cambio de centro o estudios y reconocimiento de asignaturas](sites/fib/files/tramits/canvi_de_centre_i_reconeixement_dassignatures_0.pdf.md)
+  * si no eres estudiante de la UPC 
+    * Certificación académica personal emitida por el Centro de Origen.
+    * Plan de estudios y programas de las asignaturas, publicados y sellados por el Centro de Origen.
+    * Copia del DNI.
+    * Copia compulsada del documento de acceso a la Universidad donde conste la nota de acceso.
+    * Rellenar la [solicitud de cambio de centro o estudios y reconocimiento de asignaturas](sites/fib/files/tramits/canvi_de_centre_i_reconeixement_dassignatures_0.pdf.md)
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+#### Tramitar la solicitud
 
-__17:00 - 18:30
+La solicitud de admisión se presentará de forma electrónica con el [trámite
+Solicitud de acceso por cambio de estudios, centro o universidad, con
+reconocimiento](es/estudios/secretaria/tramites/solicitud-de-acceso-por-
+cambio-de-estudios-centro-o-universidad-con-reconocimiento.md)
 
-__Sala d'actes Manuel Martí Recober
+Si sois admitidos/admitidas por esta vía tendréis que abonar las tasas de
+traslado de expediente de acuerdo con la información del
+[trámite](es/estudios/secretaria/tramites/solicitud-de-acceso-por-cambio-de-
+estudios-centro-o-universidad-con-reconocimiento.md).
 
-Mié 12 Mar
+## Estudiantes que han cursado estudios universitarios extranjeros
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+Los estudiantes que hayan cursado los estudios universitarios en el extranjero
+tendrán que solicitar la convalidación de estos estudios para poderse
+incorporar en una universidad española.
 
-__16:00 - 17:30
+El procedimiento de acceso a la Universidad variará en función del número de
+créditos convalidados:
 
-Mié 12 Mar
+  1. Los estudiantes que puedan convalidar un mínimo de 30 ECTS solicitarán la admisión directamente al centro donde quieran continuar los estudios. Estos estudiantes no podrán hacer la preinscripción.
+  2. Se convalidarán un mínimo de 30 ECTS de los estudios a los cuales se quiera acceder, correspondientes a asignaturas obligatorias. En ningún caso se convalidará el trabajo de fin de grado. La asignación de plazas por esta vía —que es competencia del centro docente— se realizará de acuerdo con la oferta de plazas para la admisión a través del [cambio de universidad y/o de estudios universitarios oficiales españoles](es/estudios/grados/quieres-estudiar-un-grado/acceso-los-estudios.md).
+  3. Los estudiantes que convalidan menos de 30 ECTS realizarán la preinscripción pidiendo sólo el estudio del centro que haya hecho esta convalidación y presentarán el certificado del estudio de convalidación emitido por el centro. La calificación que constará a efectos de preinscripción será un 5.
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+### Como presentar la solicitud
 
-__16:00 - 17:30
+#### Documentación necesaria
 
-__online
+  * Título oficial o certificado oficial acreditativo, si procede.
+  * Certificación académica personal.
+  * [Declaración de equivalencia de notas medias de estudios universitarios realizados en centros estranjeros](equivalencia-de-notas-medias-de-estudios-universitarios-realizados-en-centros-extranjeros.md)
+  * Pla de estudios y programas de las asignaturas, publicados por el centro correspondiente.
+  * DNI en el caso de ciudadanos españoles.
+  * Documento que acredite su identidad en el caso de ciudadanos extranjeros.
 
-[Consulta toda la agenda ](es/agenda.md)
+Los documentos académicos tendrán que ser oficiales, originales y expedidos
+por las autoridades competentes, y legalizados por vía diplomática.
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+Cuando las fotocopias sean compulsadas y legalizadas por la representación
+diplomática o consular en España del país de la persona que realiza la
+solicitud, no será necesario acompañarlas de los documentos originales. Así
+mismo, todos tendrán que ir acompañados de la traducción oficial al castellano
+o al catalán.
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+[Legalización de los documentos expedidos al
+extranjero](sga/es/expedientes/LegDoc.md)
 
-__21 Feb 25 - 07 Abr 25
+#### Tramitar la solicitud
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+La solicitud de admisión se presentará de forma electrónica con el [trámite
+Solicitud de acceso por cambio de estudios, centro o universidad, con
+reconocimiento](es/estudios/secretaria/tramites/solicitud-de-acceso-por-
+cambio-de-estudios-centro-o-universidad-con-reconocimiento.md)
 
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+Si la persona es admitida por esta vía deberá abonar las tasas de traslado de
+expediente de acuerdo con la información del
+[trámite](es/estudios/secretaria/tramites/solicitud-de-acceso-por-cambio-de-
+estudios-centro-o-universidad-con-reconocimiento.md).
 
 ## Dónde estamos
 
@@ -1109,5 +967,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/grados/quieres-estudiar-un-
+grado/acceso-los-estudios.md)
 

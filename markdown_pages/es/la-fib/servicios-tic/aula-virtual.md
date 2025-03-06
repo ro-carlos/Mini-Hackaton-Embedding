@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/la-fib/servicios-tic/aula-virtual.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/la-fib/serveis-tic/aulavirtual.md "AulaVirtual")
+  * [English](en/fib/it-services/aulavirtual.md "AulaVirtual")
+  * [Español](es/la-fib/servicios-tic/aula-virtual.md "Aula Virtual")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/la-fib/servicios-tic/aula-virtual.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,205 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Aula Virtual
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [La FIB](es/la-fib.md) » [Servicios TIC](es/la-
+fib/servicios-tic.md) » Aula Virtual
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+Categoria:
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+Entorno de trabajo y soporte a la docencia
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+Teletrabajo
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+Dirigido:
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+Estudiante
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+PDI
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+Contacto:
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+[Área de docencia TIC](es/contact/area-de-docencia-tic.md)
 
-Consulta toda la información en lo referente a este proceso electoral.
+  
 
-## Noticias
+La FIB ofrece el servicio de un ordenador virtual que puede ser usado
+remotamente con exactamente los mismo servicios que los de los laboratorios.
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+Este servicio está disponible en la URL:
+[https://aulavirtual.fib.upc.edu](index.md)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+## Utilización
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Aulavirtual es un solución de virtualización de escritorio basada en el
+software [RAVADA](index.md), desarrollada en la UPC como software libre.
+Proporciona al usuario un escritorio virtual personal que se ejecuta en un
+servidor remoto de manera independiente al dispositivo (ordenador con Windows,
+OS X o Linux) desde el que nos conectamos.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+Este servicio está dirigido a todos los alumnos y PDI de la FIB.
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+Actualmente el servicio "aulavirtual" ofrece la imagen de Linux y Windows
+disponible en los laboratorios de informática.
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+## FAQ's
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+**¿Cuántas instancias puedo ejecutar?**
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Puedes arrancar una instancia de cada imagen disponible.
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+**¿Por cuánto tiempo estará disponible mi instancia?**
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+Tu instancia es volátil, lo que quiere decir que se destruirá cuando pares la
+máquina. Es decir, los cambios se pierden entre reinicios. También se borrará
+si la máquina no tiene actividad durante 12 horas.Recordad dejar vuestros
+datos en dispositivos externos o la red.
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+**¿Desde dónde me puedo conectar?**
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+Puedes conectarte a aulavirtual desde el exterior de la FIB mediante el
+servicio VPN de la UPC, [UPCLink.](ca/upclink.md) Aquí tenéis la información
+de como acceder y configurar el servicio en vuestro ordenador:
+[UPCLink.](ca/upclink.md) No es posible conectarse desde los laboratorios.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+**¿Qué software necesito para conectarme?**
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+Para conectarse al entorno de Aulavirtual necesitas un ordenador con Windows,
+OS X o Linux en el cual poder instalar el visor [Virt-viewer](download.md)
+(Windows i Linux) o [RemoteViewer](osx-client.html.md) (OS X). Este visor nos
+permitirá capturar remotamente la consola de nuestra instancia en nuestro
+ordenador. Además, si instalamos los drivers USB podremos compartir
+dispositivos remotamente.
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+Instalación del cliente virt-viewer en Windows
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+Descarga el visor [Virt-viewer](download.md) y los drivers USB para 32 o 64
+bits, dependiente de tu sistema operativo:
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+  * Versión 32 bits: Visor: [https://releases.pagure.org/virt-viewer/virt-viewer-x86-11.0-1.0.msi](virt-viewer/virt-viewer-x86-11.0-1.0.msi.md)
+  * Versión 64 bits: Visor: [https://releases.pagure.org/virt-viewer/virt-viewer-x64-11.0-1.0.msi](virt-viewer/virt-viewer-x64-11.0-1.0.msi.md)
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+Una vez accedas a Ravada y pulses "Ver" para abrir el escritorio virtual, solo
+hará falta decirle al navegador que abra este tipo de ficheros mediante el
+visor virt-viewer y nunca lo volverá a pedir.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+**Acceso al servicio**
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+Nos conectamos a la URL****[https://aulavirtual.fib.upc.edu](index.md) y
+entramos con las credenciales de la UPC (las del Racó):
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+![](/sites/fib/files/images/fib/serveis-tic/ravada-presentacio1-es.png)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+Veremos las plantillas disponibles. Actualmente solo la imagen Linux de los
+aularios.
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+![](/sites/fib/files/images/fib/serveis-tic/ravada-presentacio2-es.png)
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+Pulsamos sobre el botón "Iniciar".
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+![](/sites/fib/files/images/fib/serveis-tic/ravada-presentacio3-es.png)
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+Si pulsamos sobre el botón "ver", el navegador nos pedirá abrir la aplicación
+Virt-viewer.
 
-Primer Concurso UPC de IA
+![El navegador ens demana obrir l'apliació externa virt-
+viewer](/sites/fib/files/images/fib/serveis-tic/ravada-presentacio4.png)
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+Y se nos abrirá una ventana con la consola remota:
 
-## Agenda
+![Consola remota al virt-viewer](/sites/fib/files/images/fib/serveis-
+tic/ravada-presentacio5.png)
 
-Mar 11 Mar
+**¿Cómo salgo del visor?**
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+La combinación de teclas es **SHIFT+F12**. Si pasas el ratón por la parte
+superior de la ventana, aparecerá un menú com más opciones.
 
-__17:00 - 18:30
+![Menu superior del visor virt-viewer](/sites/fib/files/images/fib/serveis-
+tic/ravada-presentacio6.png)
 
-__Sala d'actes Manuel Martí Recober
+**Me sale una pantalla en negro y un cursor. ¿Qué pasa?**
 
-Mié 12 Mar
+**![Conexión al Linux de aulavirtual con
+problemas](/sites/fib/files/images/ravada2_modo_grafico.png)**
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+Probablemente la sesión X del Linux no ha arrancado correctamente. Podemos
+rearrancar la interfaz gráfica así:
 
-__16:00 - 17:30
+  * Vamos a la consola de texto con la combinación de teclas Ctrl+Alt+F1 
+  * Ahora iniciamos sesión con nuestras credenciales, pero en modo texto 
+  * Tecleamos: **super xrestart restart** (Este comando rearrancará la interfaz gráfica y nos la abrirá automáticamente)
 
-Mié 12 Mar
+![comandos para reiniicar el modo gráfico en
+Linux](/sites/fib/files/images/ravada2_moto_texto.png)
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+**Me sale el error "No se puede establecer una conexión ya que el equipo de
+destino denegó expresamente dicha conexión"**
 
-__16:00 - 17:30
+**![](/sites/fib/files/images/ravada1_conexion_no_permitida.png)**
 
-__online
+No está permitida la conexión desde los laboratorios. Encontrarás más
+información en el apartado **¿[Desde dónde me puedo conectar](es/la-
+fib/servicios-tic/aula-virtual.md)?**
 
-[Consulta toda la agenda ](es/agenda.md)
+## También te puede interesar
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+  * [Acceso remoto al repositorio de ficheros](es/la-fib/servicios-tic/acceso-remoto-al-repositorio-de-ficheros.md)
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+  * [Alquiler de los laboratorios informáticos](es/la-fib/servicios-tic/alquiler-de-los-laboratorios-informaticos.md)
 
-__21 Feb 25 - 07 Abr 25
+  * [Aula Virtual](es/la-fib/servicios-tic/aula-virtual.md)
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+  * [Control de versiones: git](es/la-fib/servicios-tic/control-de-versiones-git.md)
 
-## Pide cita previa
+  * [Copias de seguridad](es/la-fib/servicios-tic/copias-de-seguridad.md)
 
-* * *
+  * [Correo de estudiante](es/la-fib/servicios-tic/correo-de-estudiante.md)
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+  * [Cuentas de usuario en los PC y servidores](es/la-fib/servicios-tic/cuentas-de-usuario-en-los-pc-y-servidores.md)
 
-[Cita previa](ca/cita-previa.md)
+  * [Distribución de software](es/la-fib/servicios-tic/distribucion-de-software.md)
 
-## Premios y reconocimientos
+  * [Entorno de trabajo en los ordenadores](es/la-fib/servicios-tic/entorno-de-trabajo-en-los-ordenadores.md)
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+  * [Exámenes en entorno seguro](es/la-fib/servicios-tic/examenes-en-entorno-seguro.md)
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+  * [Filesender: intercambio de ficheros de gran volumen](es/la-fib/servicios-tic/filesender-intercambio-de-ficheros-de-gran-volumen.md)
 
-__16 Dec 24
+  * [G Suite for Education](es/la-fib/servicios-tic/g-suite-education.md)
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+  * [Listas de distribución](es/la-fib/servicios-tic/listas-de-distribucion.md)
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+  * [Préstamo de material diverso](es/la-fib/servicios-tic/prestamo-de-material-diverso.md)
 
-__09 Dec 24
+  * [Préstamo de portátiles](es/la-fib/servicios-tic/prestamo-de-portatiles.md)
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+  * [Red sin hilos, Eduroam](es/la-fib/servicios-tic/red-sin-hilos-eduroam.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+  * [Servicio de impresión](es/la-fib/servicios-tic/servicio-de-impresion.md)
 
-__22 Nov 24
+  * [Servicio de impresión 3D](es/servicio-de-impresion-3d.md)
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+  * [Software instalado en los ordenadores](es/la-fib/servicios-tic/software-instalado-en-los-ordenadores.md)
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+  * [VPN UPClink](es/la-fib/servicios-tic/vpn-upclink.md)
 
-__24 Oct 24
+## Normativa de uso
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+Ten en cuenta la [Normativa de uso de los equipos informáticos](es/la-
+fib/servicios-tic/normativas-de-uso-de-los-equipos-informaticos-de-la-fib.md)
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+## Soporte TIC
 
-__14 Oct 24
+Nos puedes mandar tanto las incidencias, dudas, como aquellas recomendaciones
+o temas que crees que te falta información o sobre más recursos TIC que se
+podrían poner en marcha para facilitar el seguimiento de la docencia en la
+FIB.
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+[__Soporte TIC FIB](utic.fib@upc.edu.md)
 
 ## Dónde estamos
 
@@ -1109,5 +952,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/la-fib/servicios-tic/aula-virtual.md)
 

@@ -1,4 +1,6 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/masteres/master-en-innovacion-e-
+investigacion-en-informatica/seminarios-de-innovacion-e-investigacion-en-
+informatica.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +9,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/masters/master-en-innovacio-i-recerca-en-informatica/seminaris-dinnovacio-i-recerca-en-informatica.md "Seminaris d'Innovació i Recerca en Informàtica")
+  * [English](en/studies/masters/master-innovation-and-research-informatics/seminars-innovation-and-research-informatics.md "Seminars of Innovation and Research in Informatics")
+  * [Español](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/seminarios-de-innovacion-e-investigacion-en-informatica.md "Seminarios de Innovación e Investigación en Informática")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +388,8 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/masteres/master-en-innovacion-e-investigacion-en-
+informatica/seminarios-de-innovacion-e-investigacion-en-informatica.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +718,1452 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Seminarios de Innovación e Investigación en Informática
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) »
+[Másteres](es/estudios/masteres.md) » [Máster en Innovación e Investigación en
+Informática](es/estudios/masteres/master-en-innovacion-e-investigacion-en-
+informatica.md) » Seminarios
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Matrícula](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/matricula.md)
+  * [Plan de estudios](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/plan-de-estudios.md)
+  * [Profesorado](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/profesorado.md)
+  * [Normativa académica](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/normativa-academica.md)
+  * [Trabajo de fin de máster](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/trabajo-de-fin-de-master.md)
+  * [Seminarios](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/seminarios-de-innovacion-e-investigacion-en-informatica.md)
+  * [Horarios](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/horarios.md)
+  * [Exámenes](es/estudios/masteres/master-en-innovacion-e-investigacion-en-informatica/examenes.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+SIRI se organiza en actividades, evaluables por separado, a elegir entre un
+conjunto diverso de actividades. Se pretende que la oferta de actividades sea
+variada y haya un cierto grado de elección por parte del estudiante, que debe
+cursar las actividades suficientes para sumar 6 ECTS.
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+A continuación, encontrará la lista de actividades que se están llevando a
+cabo actualmente, y otros seminarios próximos y aquellos que ya se han llevado
+a cabo durante este año. La inscripción a las actividades, anunciada en esta
+lista, debe ser realizada directamente por los estudiantes con los
+organizadores de la actividad. Para certificar la asistencia a estas
+actividades y entregar la documentación requerida para ser evaluada deberás
+utilizar el Racó ([mira cómo hacerlo](sites/fib/files/documents/estudis/siri-
+guideline.pdf.md)). El estudiante acumulará ECTS hasta lograr 6 o más ECTS.
+Sólo entonces, el estudiante puede matricular la asignatura SIRI y aprobarla
+al final del semestre actual.
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+## Curso 2024-2025
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+### Próximos seminarios
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+Título:
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+**Graphics Research Seminar** Cursando actualmente
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+Subtítulo:
 
-Consulta toda la información en lo referente a este proceso electoral.
+Graphics Research Seminar
 
-## Noticias
+Especialidad:
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+MIRI-CGVR
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Fechas:
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Miércoles 23 Octubre 2024 - lunes 30 Junio 2025
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+Créditos:
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+2.0
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+Descripción:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Weekly research seminar that presents the latest results in Computer Graphics
+and Visualization and projects developed by the ViRVIG Group.
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Horarios:
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+10:30 - 11:30
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+\+ info
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+  
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+Título:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+**Aula Lliure 1 ECTS (Semester 2)** Cursando actualmente
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+Subtítulo:
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+Aula Lliure (Semester 2)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+Fechas:
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+Sábado 01 Febrero 2025 - Domingo 01 Junio 2025
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+Créditos:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+1.0
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+Descripción:
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+The 'Aula Lliure' project is designed so that early stage bachelor students
+can take advantage of the academic experience of more veteran students and
+thus improve their academic performance. The tuition language is catalan /
+spanish. The 'Aula Lliure' project is designed so that early stage bachelor
+students can take advantage of the academic experience of more veteran
+students and thus improve their academic performance. The tuition language is
+catalan / spanish. Note: You must claim 1 ECTS when you teach 8 lectures (of
+2h) to 1 group of students, for a total of 16h of lectures.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+Horarios:
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+See the website
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+Web:
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+[https://www.fib.upc.edu/ca/estudis/graus/pla-daccio-tutorial/aula-
+lliure](ca/estudis/graus/pla-daccio-tutorial/aula-lliure.md)
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+\+ info
 
-Primer Concurso UPC de IA
+  
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+Título:
 
-## Agenda
+**Aula Lliure 2 ECTS (Semester 2)** Cursando actualmente
 
-Mar 11 Mar
+Subtítulo:
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+Aula Lliure (Semester 2)
 
-__17:00 - 18:30
+Fechas:
 
-__Sala d'actes Manuel Martí Recober
+Sábado 01 Febrero 2025 - Domingo 01 Junio 2025
 
-Mié 12 Mar
+Créditos:
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+2.0
 
-__16:00 - 17:30
+Descripción:
 
-Mié 12 Mar
+The 'Aula Lliure' project is designed so that early stage bachelor students
+can take advantage of the academic experience of more veteran students and
+thus improve their academic performance. The tuition language is catalan /
+spanish. The 'Aula Lliure' project is designed so that early stage bachelor
+students can take advantage of the academic experience of more veteran
+students and thus improve their academic performance. The tuition language is
+catalan / spanish. Note: you can claim 2 ECTS when, at least, you teach 8
+lectures (of 2h) to 2 groups of students, for a total of 32h of lectures.
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+Horarios:
 
-__16:00 - 17:30
+See the website
 
-__online
+Web:
 
-[Consulta toda la agenda ](es/agenda.md)
+[https://www.fib.upc.edu/ca/estudis/graus/pla-daccio-tutorial/aula-
+lliure](ca/estudis/graus/pla-daccio-tutorial/aula-lliure.md)
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+\+ info
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+  
 
-__21 Feb 25 - 07 Abr 25
+Título:
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+**Ethics for Engineers, Researchers and Innovators (EthicsERI) 2025** Cursando
+actualmente
 
-## Pide cita previa
+Subtítulo:
 
-* * *
+Ethics for Engineers, Researchers and Innovators (EthicsERI) (2025)
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+Fechas:
 
-[Cita previa](ca/cita-previa.md)
+Viernes 28 Febrero 2025 - Viernes 28 Marzo 2025
 
-## Premios y reconocimientos
+Créditos:
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+2.0
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+Descripción:
 
-__16 Dec 24
+All human activities have implications on our society. Professional exercise
+in engineering, being a researcher or running innovation projects imply making
+decisions that are not exclusively technical, they involve ethical
+considerations. Theoretical sessions are complemented with numerous examples
+and cases.
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+Horarios:
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+Friday, 10:00-13:00
 
-__09 Dec 24
+Web:
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+[https://personals.ac.upc.edu/jordid/rciri.html#ethicseri](jordid/rciri.html.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+\+ info
 
-__22 Nov 24
+  
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+Título:
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
+**Introduction to Quantitative Linguistics** Cursando actualmente
 
-__24 Oct 24
+Subtítulo:
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
+Introduction to Quantitative Linguistics
 
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
+Fechas:
 
-__14 Oct 24
+lunes 03 Marzo 2025 - Domingo 22 Junio 2025
 
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
+Créditos:
 
-## Haz un recorrido por la historia de la informática
+4.0
 
-* * *
+Descripción:
 
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
+This course is an introduction to the statistical properties of languages and
+their origins, that are often related to the need to reduce the cognitive
+effort of speakers or listeners. The course is primarily relevant to anybody
+interested in how languages (and animal communication) are and why. In this
+course, students will learn about a myriad of statistical laws of language
+beyond the scope of traditional courses on information retrieval, how to
+analyze them and how to explain them based on general principles of (human)
+cognition. Students will learn about the mathematical and computational models
+that have been developed to explain these regularities. During this journey,
+students will enrich their current knowledge with concepts and tools from
+linguistics, biology, cognitive science, information theory and
+multidisciplinary physics. The course is also relevant for researchers
+interested in evaluating or adapting algorithms, machine learning
+methods,...based on the real statistical properties of language. As these
+regularities are often the result of reducing the cognitive effort of language
+users, the course is also relevant to researchers interested in developing
+resources or systems that are easier to use or understand by humans or in
+developing natural language processing tools that exploit the real constraints
+of the human brain. The webpage of the last edition of the course (to be
+updated) is found here: https://cqllab.upc.edu/courses/iql/ Depending on the
+number of participants, the professor may replace (upon approval by students)
+the labs and the research project by a single research project to be developed
+throughout the course. Important: to enrol in this course, please, email the
+contact person.
 
-[Conoce el "Museo" de la FIB](es/museo.md)
+Horarios:
 
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
+Tuesdays (08:00 to 10:00) and Thursdays (08:00 to 10:00)
 
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
+Web:
 
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
+[https://cqllab.upc.edu/courses/iql/](courses/iql.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
+\+ info
 
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
+  
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
+Título:
 
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
+**BSC Training Course: Advanced Performance Analysis and Tools**
 
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
+Subtítulo:
 
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
+BSC Training Course: Advanced Performance Analysis and Tools
 
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
+Especialidad:
 
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
+MIRI-HPC
 
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
+Fechas:
 
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
+Martes 11 Marzo 2025 - Miércoles 12 Marzo 2025
 
-## Acreditaciones de calidad
+Créditos:
 
-### Sellos AQU
+1.0
 
-**GEI**
+Descripción:
 
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
+The objective of this course is to learn how Paraver and Dimemas tools can be
+used to analyze the performance of parallel applications and to familiarize
+with the tools usage as well as instrumenting applications with Extrae.
 
-**GCED**
+Web:
 
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+advanced-performance-analysis-and-tools](education/training/bsc-training/bsc-
+training-course-advanced-performance-analysis-and-tools.md)
 
-**GIA**
+\+ info
 
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
+  
 
-**MEI**
+Título:
 
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
+**EuroHPC SUMMIT 2025**
 
-**MIRI**
+Especialidad:
 
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
+MIRI-HPC
 
-**MAI**
+Fechas:
 
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
+Martes 18 Marzo 2025 - Jueves 20 Marzo 2025
 
-**MFPS**
+Créditos:
 
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
+1.0
 
-**MDS**
+Descripción:
 
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
+The EuroHPC Summit is an annual event gathering key European HPC and quantum
+computing stakeholders from providers to scientific and industrial users, to
+policy makers. The Summit is an important moment to showcase the latest
+achievements and opportunities in the European supercomputing ecosystem, but
+also to discuss and reflect on the current and future challenges in HPC and
+quantum computing . The event also provides a great opportunity for attendees
+to network and connect with the European supercomputing community.
 
-### Sellos Euro-inf
+Web:
 
-**GEI**
+[https://www.eurohpcsummit.eu/](index.md)
 
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
+\+ info
 
-**MEI y MIRI**
+  
 
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
+Título:
 
-## La FIB es miembro de
+**BSC Training Course: Advanced Heterogeneous Programming on GPUs with MPI &
+OmpSs**
 
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
+Subtítulo:
 
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
+BSC Training Course: Advanced Heterogeneous Programming on GPUs with MPI &
+OmpSs
 
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
+Especialidad:
 
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
+MIRI-HPC
 
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+Fechas:
+
+Miércoles 19 Marzo 2025 - Jueves 20 Marzo 2025
+
+Créditos:
+
+1.0
+
+Descripción:
+
+The tutorial will motivate the audience on the need for portable, efficient
+programming models that put less pressure on program developers while still
+getting good performance for clusters and clusters with GPUs. More
+specifically, the tutorial will: Introduce the hybrid MPI/OmpSs parallel
+programming model for future exascale systems Demonstrate how to use MPI/OmpSs
+to incrementally parallelize/optimize: MPI applications on clusters of SMPs,
+and Leverage CUDA kernels with OmpSs on clusters of GPUs
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+advanced-heterogeneous-programming-gpus-mpi-ompss](education/training/bsc-
+training/bsc-training-course-advanced-heterogeneous-programming-gpus-mpi-
+ompss.md)
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: Advanced Heterogeneous Programming on FPGAs with
+OmpSs@FPGA**
+
+Subtítulo:
+
+BSC Training Course: Advanced Heterogeneous Programming on FPGAs with
+OmpSs@FPGA
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+Viernes 21 Marzo 2025 - Viernes 21 Marzo 2025
+
+Créditos:
+
+0.5
+
+Descripción:
+
+This tutorial will introduce the audience to the BSC tools for heterogenous
+programming on FPGA devices. It describes OmpSs@FPGA, as a productive
+programming environment for compute systems with FPGAs.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+advanced-heterogeneous-programming-fpgas-ompssfpga](education/training/bsc-
+training/bsc-training-course-advanced-heterogeneous-programming-fpgas-
+ompssfpga.md)
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: Pre-exascale System Administration: MareNostrum5 @
+BSC**
+
+Subtítulo:
+
+BSC Training Course: Pre-exascale System Administration: MareNostrum5 @ BSC
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+Martes 08 Abril 2025 - Miércoles 09 Abril 2025
+
+Créditos:
+
+0.5
+
+Descripción:
+
+The objective of this course is to explain the different components of
+MareNostrum 5 and to understand the design decisions taken. We also analyze
+how the system administration is taken in this pre-exascale system.
+Prerequisites: Experience on Linux system administration is required.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-pre-
+exascale-system-administration-marenostrum5-bsc-0](education/training/bsc-
+training/bsc-training-course-pre-exascale-system-administration-
+marenostrum5-bsc-0.md)
+
+\+ info
+
+  
+
+Título:
+
+**Ethics and AI (EthicsAI) 2025**
+
+Fechas:
+
+Viernes 25 Abril 2025 - Viernes 30 Mayo 2025
+
+Créditos:
+
+2.0
+
+Descripción:
+
+AI has emerged as a powerful technology and it is expected it will impact all
+human activities and professional developments. Some deployments pose serious
+concern about its ethical implications. The course reviews some of the
+recommendations and guidelines published related with AI developments. Also,
+the main regulations and laws are examined. The course addresses the ethics of
+two main areas: using AI tools for research, and doing research in AI.
+Theoretical sessions are complemented with numerous examples and study cases.
+
+Horarios:
+
+10:00 - 13:00
+
+Web:
+
+[https://personals.ac.upc.edu/jordid/rciri.html#ethicsai](jordid/rciri.html.md)
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: Introduction to CUDA Programming**
+
+Subtítulo:
+
+BSC Training Course: Introduction to CUDA Programming
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+lunes 26 Mayo 2025 - Miércoles 28 Mayo 2025
+
+Créditos:
+
+1.5
+
+Descripción:
+
+The aim of this course is to provide students with knowledge and hands-on
+experience in developing applications software for processors with massively
+parallel computing resources. In general, we refer to a processor as massively
+parallel if it has the ability to complete more than 64 arithmetic operations
+per clock cycle. Many commercial offerings from NVIDIA, AMD, and Intel already
+offer such levels of concurrency. Effectively programming these processors
+will require in-depth knowledge about parallel programming principles, as well
+as the parallelism models, communication models, and resource limitations of
+these processors.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+introduction-cuda-programming-0](education/training/bsc-training/bsc-training-
+course-introduction-cuda-programming-0.md)
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: Introduction to OpenACC**
+
+Subtítulo:
+
+BSC Training Course: Introduction to OpenACC
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+Jueves 29 Mayo 2025 - Jueves 29 Mayo 2025
+
+Créditos:
+
+0.5
+
+Descripción:
+
+This is an expansion of the topic "OpenACC and other approaches to GPU
+computing" covered on last years editions of the Introduction to CUDA
+Programming. This course is delivered by the GPU Center of Excellence (GCOE)
+awarded by NVIDIA to the Barcelona Supercomputing Center (BSC) in association
+with Universitat Politecnica de Catalunya (UPC). It will provide very good
+introduction to the PUMPS Summer School run jointly with NVIDIA - Further
+information on the 2023 PUMPS Summer school will follow soon. As an NVIDIA GPU
+Center of Excellence, BSC and UPC are deeply involved in research and outreach
+activities around GPU Computing. OpenACC is a high-level, directive-based
+programming model for GPU computing. It is a very convenient language to
+leverage the GPU power with minimal code modifications, being the preferred
+option for non computer scientists. This course will cover the necessary
+topics to get started with GPU programming in OpenACC, as well as some
+advanced topics.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+introduction-openacc-0](education/training/bsc-training/bsc-training-course-
+introduction-openacc-0.md)
+
+\+ info
+
+  
+
+### Seminarios anteriores
+
+Título:
+
+**BSC Training Course: Programming of Petaflop Machine: MareNostrum5**
+
+Subtítulo:
+
+BSC Training Course: Programming of Petaflop Machine: MareNostrum5
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+lunes 03 Marzo 2025 - Martes 04 Marzo 2025
+
+Créditos:
+
+0.5
+
+Descripción:
+
+The objective of this course is to present to potential users the new
+configuration of MareNostrum and a introduction on how to use the new system
+(batch system, compilers, hardware, MPI, etc). Also It will provide an
+introduction about RES infrastructures and how to get access to the
+supercomputing resources available.
+
+Web:
+
+[https://www.bsc.es/education/trhttps://www.bsc.es/education/training/bsc-
+training/bsc-training-course-programming-petafaining/bsc-training/bsc-
+training-course-programming-petaflop-machine-
+marenostrum5](education/trhttps:/www.bsc.es/education/training/bsc-
+training/bsc-training-course-programming-petafaining/bsc-training/bsc-
+training-course-programming-petaflop-machine-marenostrum5.md)
+
+\+ info
+
+  
+
+Título:
+
+**Talent Arena MWC25**
+
+Subtítulo:
+
+Talent Arena MWC25
+
+Fechas:
+
+lunes 03 Marzo 2025 - Miércoles 05 Marzo 2025
+
+Créditos:
+
+1.0
+
+Descripción:
+
+TALENT ARENA is a space with more than 1,500 m2 of exhibition space,
+auditorium, workshops and sessions on Artificial Intelligence, Software
+Engineering, Data Science and Microchips. In addition, attendees will be able
+to access exclusive conferences with prominent industry speakers. More
+information at: https://talentarena.tech/ Mandatory registration.
+
+Horarios:
+
+check the website
+
+Web:
+
+[https://talentarena.mobileworldcapital.com/](index.md)
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: Introduction to Heterogeneous Memory Usage**
+
+Subtítulo:
+
+BSC Training Course: Introduction to Heterogeneous Memory Usage
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+Jueves 27 Febrero 2025 - Jueves 27 Febrero 2025
+
+Créditos:
+
+0.5
+
+Descripción:
+
+The objective of this course is to learn how to use systems with more than one
+memory subsystem. We will see the different options on using systems equipped
+with Intel's Optane Persistent Memory technology, but also looking forward to
+upcoming systems with HBM and CXL memories.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+introduction-heterogeneous-memory-usage-0](education/training/bsc-
+training/bsc-training-course-introduction-heterogeneous-memory-usage-0.md)
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: Programming Distributed Computing Platforms with
+COMPSs**
+
+Subtítulo:
+
+BSC Training Course: Programming Distributed Computing Platforms with COMPSs
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+Martes 04 Febrero 2025 - Miércoles 05 Febrero 2025
+
+Créditos:
+
+1.0
+
+Descripción:
+
+COMPSs is a programming model which is able to exploit the inherent
+concurrency of sequential applications and execute them in a transparent
+manner to the application developer in distributed computing platform. This is
+achieved by annotating part of the codes as tasks, and building at execution a
+task-dependence graph based on the actual data used consumed/produced by the
+tasks. The COMPSs runtime is able to schedule the tasks in the computing nodes
+and take into account facts like data locality and the different nature of the
+computing nodes in case of heterogeneous platforms. Additionally, recently
+COMPSs has been enhanced with the possibility of coordinating Web Services as
+part of the applications. COMPSs supports Java, C/C++ and Python as
+programming languages.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+programming-distributed-computing-platforms-compss-0](education/training/bsc-
+training/bsc-training-course-programming-distributed-computing-platforms-
+compss-0.md)
+
+\+ info
+
+  
+
+Título:
+
+**RISC-V hackathon at HiPEAC 2025**
+
+Fechas:
+
+lunes 20 Enero 2025 - lunes 20 Enero 2025
+
+Créditos:
+
+1.0
+
+Descripción:
+
+RISC-V, supported by sponsors Barcelona Supercomputing Center (BSC) and
+Openchip, is organizing an in-person hackathon on 20 January 2025 at the
+HiPEAC conference. This is a hands-on opportunity to dive into problem-solving
+using RISC-V based solutions, get access to great tools, and learn first-hand
+from experts.
+
+Web:
+
+[https://www.hipeac.net/news/7079/risc-v-hackathon-at-
+hipeac-2025/](news/7079/risc-v-hackathon-at-hipeac-2025.md)
+
+\+ info
+
+  
+
+Título:
+
+**Bitsxlamarato**
+
+Subtítulo:
+
+Bitsxlamarato
+
+Fechas:
+
+Viernes 13 Diciembre 2024 - Domingo 15 Diciembre 2024
+
+Créditos:
+
+2.0
+
+Descripción:
+
+This is a hackaton organized, among others, by FIB within the charity event
+organized every Christmas by the Catalan Television (TV3) called "La Marató":
+https://www.ccma.cat/tv3/marato/ For 2024, the topic for "La Marató" is
+respiratory diseases. Bitsxlamarato is a hakacton aimed at solving real
+challenges related to the topic proposed. Several challenges proposed by real
+oragnisms (hospitals, institutions, companies, etc.) are presented to the
+participants who must choose one of them and develop, during the three days,
+their computer science solution to it. You need to register via the official
+website. The website is updated (and registration is opened) every year, by
+mid-November, the latest.
+
+Horarios:
+
+2 full days (see website)
+
+Web:
+
+[https://www.fib.upc.edu/ca/la-marato](ca/la-marato.md)
+
+\+ info
+
+  
+
+Título:
+
+**Novartis Datathon 7th Edition**
+
+Subtítulo:
+
+Novartis Datathon 7th Edition
+
+Especialidad:
+
+MIRI-DS
+
+Fechas:
+
+Jueves 28 Noviembre 2024 - Domingo 01 Diciembre 2024
+
+Créditos:
+
+1.0
+
+Descripción:
+
+Our long-term strategy is to focus Novartis as a leading medicines company
+with five priorities: embrace operational excellence, deliver transformative
+innovation, go big on data and digital, build trust with society, and build a
+new culture by unleashing the power of our people. In order for us to develop
+new treatments, we have to invest our resources wisely. We believe that data
+science can help us here, and we believe that you can help us steer big data
+to uncover the best solution! On Thursday 28th November 2024 be ready to
+receive an exciting data science challenge on financial data. Our jury will
+look at your results as well as how innovative is your approach. This year it
+will be for three days (23 to 25 November) and online. For more information
+visit: https://godatathon.com/challenge/ Apply at:
+https://godatathon.com/apply-here/
+
+Horarios:
+
+Check the website (https://godatathon.com/apply-here/)
+
+Web:
+
+[https://www.godatathon.com](index.md)
+
+\+ info
+
+  
+
+Título:
+
+**HackEPS**
+
+Subtítulo:
+
+Organized by Lleidahack
+
+Especialidad:
+
+MIRI-DS
+
+Fechas:
+
+Sábado 23 Noviembre 2024 - Domingo 24 Noviembre 2024
+
+Créditos:
+
+1.0
+
+Descripción:
+
+Lleidahack welcomes you to HackEPS 2024, the first hackathon in Lleida! The
+seventh edition of the HackEPS will take place in the building of the Superior
+Technical School of the University in Lleida on November 23 and 24, 2024. The
+participating students are expected to produce artefacts (solutions) at the
+level of, at least, master studies.
+
+Horarios:
+
+Saturday and Sunday whole day
+
+Web:
+
+[https://lleidahack.dev/hackeps/](hackeps.md)
+
+\+ info
+
+  
+
+Título:
+
+**Datathon FME**
+
+Subtítulo:
+
+Datathon FME
+
+Especialidad:
+
+MIRI-DS
+
+Fechas:
+
+Sábado 16 Noviembre 2024 - Domingo 17 Noviembre 2024
+
+Créditos:
+
+1.0
+
+Descripción:
+
+A Datathon is a weekend-long competition where you are challenged to work on
+real-world business cases from different areas of Machine Learning, AI, and
+Data Science. You are given some datasets in order to answer questions or
+implement solutions Our event will take place physically in UPC's School of
+Mathematics and Statistics, located in Pau Gargallo 14, Barcelona! You can
+find a map here. You will have access to classrooms to work with your own
+laptop. We will provide you with WiFi. The event will start on Saturday
+November 11 at 9h, when we will present the challenges. You'll be able to work
+for 32 hours. The event will end on Sunday 17 at 17h, when the closing
+ceremony will take place. We will provide you with meals, WiFi and some nice
+swag. And of course, it's completely free!
+
+Horarios:
+
+Saturday and Sunday whole day
+
+Web:
+
+[https://datathon.cat/](index.md)
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: RISC-V principles for understanding how to freely
+develop new solutions**
+
+Subtítulo:
+
+BSC Training Course: RISC-V principles for understanding how to freely develop
+new solutions
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+lunes 11 Noviembre 2024 - Miércoles 13 Noviembre 2024
+
+Créditos:
+
+1.5
+
+Descripción:
+
+RISC-V is an open instruction set standard which is experiencing extraordinary
+growth all over the world in numerous areas of focus ranging from HPC & ML to
+the data center to embedded computing. The standardization activities are
+community driven by expert members (from industry, academia and individuals).
+BSC is one of the community members that is contributing to the ecosystem.
+This course is an opportunity to get familiar with technical aspects of the
+standard through a combination of lectures and hands-on sessions. This course
+identifies topics that are both fundamental to computer architecture and
+relevant to the design of RISC-V based solutions of the future. The emphasis
+is always on insights that will be useful to the (under)graduate student,
+whether he/she goes on for a PhD or joins a software or hardware development
+team. We will deal with principles, trade-offs, and implementation details
+related to the RISC-V standard. Along the course, the students will get
+familiar with some layers of the RISC-V software and hardware stacks using a
+learning-by-doing methodology. This will provide a mechanism to the students
+to understand the RISC-V ecosystem, BSC know-how and activities related to
+RISC-V, and explore the potential of the ISA to freely develop new
+technologies.. Topics will cover aspects like: how to boot an operating
+system, how to deploy a container and execute an application, how to tune an
+algorithm for improving its performance through the addition of custom
+instructions, and finally, how to improve the performance of an HPC
+application by taking advantage of the RISC-V Vector extension.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-risc-
+v-principles-understanding-how-freely-develop-new-
+solutions](education/training/bsc-training/bsc-training-course-risc-v-
+principles-understanding-how-freely-develop-new-solutions.md)
+
+\+ info
+
+  
+
+Título:
+
+**International HPC User Forum Barcelona, 2024**
+
+Subtítulo:
+
+International HPC User Forum Barcelona, 2024
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+lunes 21 Octubre 2024 - Martes 22 Octubre 2024
+
+Créditos:
+
+0.5
+
+Descripción:
+
+On October 21st and 22nd, UPC, BSC and Hyperion Research are organizing the
+International HPC User Forum: UPC Auditorium, Monday-Tuesday October
+21st-22nd. There is no fee to attend this HPC User Forum event. Registration
+is required for seating, meal planning and name badge. The meeting is hold in
+the UPC Auditorium, in the Vertex Building, Monday Oct. 21th, 13:00 to 19:00,
+and Oct. 22nd, 8.30 to 15:30.
+
+Web:
+
+[https://www.hpcuserforum.com/international-hpc-user-forum-
+spain/](international-hpc-user-forum-spain.md)
+
+\+ info
+
+  
+
+Título:
+
+**Implementation of an immerse virtual environment populated with intelligent
+conversational agents using AI tools.**
+
+Subtítulo:
+
+Implementation of an immerse virtual environment populated with intelligent
+conversational agents using AI tools.
+
+Especialidad:
+
+MIRI-CGVR
+
+Fechas:
+
+Miércoles 16 Octubre 2024 - Sábado 15 Febrero 2025
+
+Créditos:
+
+3.0
+
+Descripción:
+
+Social Presence is defined as the level at which a participant feels that
+he/she is with another person. In this project, virtual agents will be
+equipped with intelligence so that they will be able to hold a dynamic and
+rich conversation with the participants. The main goal is to check if the
+level of Social Presence increases compared to agents that are able to hold a
+poor conversation. The application will be developed in Unity and Oculus Quest
+3.
+
+\+ info
+
+  
+
+Título:
+
+**BSC Training Course: Parallel Programming Workshop**
+
+Subtítulo:
+
+BSC Training Course: Parallel Programming Workshop
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+lunes 14 Octubre 2024 - Viernes 18 Octubre 2024
+
+Créditos:
+
+2.0
+
+Descripción:
+
+The objectives of this course are to understand the fundamental concepts
+supporting message-passing and shared memory programming models. The course
+covers the two widely used programming models: MPI for the distributed-memory
+environments, and OpenMP for the shared-memory architectures. The course also
+presents the main tools developed at BSC to get information and analyze the
+execution of parallel applications, Paraver and Extrae. It also presents the
+Parallware Assistant tool, which is able to automatically parallelize a large
+number of program structures, and provide hints to the programmer with respect
+to how to change the code to improve parallelization. It deals with debugging
+alternatives, including the use of GDB and Totalview. The use of OpenMP in
+conjunction with MPI to better exploit the shared-memory capabilities of
+current compute nodes in clustered architectures is also considered. Paraver
+will be used along the course as the tool to understand the behavior and
+performance of parallelized codes. The course is taught using formal lectures
+and practical/programming sessions to reinforce the key concepts and set up
+the compilation/execution environment.
+
+Web:
+
+[https://www.bsc.es/education/training/bsc-training/bsc-training-course-
+parallel-programming-workshop-0](education/training/bsc-training/bsc-training-
+course-parallel-programming-workshop-0.md)
+
+\+ info
+
+  
+
+Título:
+
+**Responsible Conduct in Research and Innovation (RCiRI) 2024**
+
+Subtítulo:
+
+Responsible Conduct in Research and Innovation (RCiRI)
+
+Fechas:
+
+Viernes 27 Septiembre 2024 - Viernes 25 Octubre 2024
+
+Créditos:
+
+2.0
+
+Descripción:
+
+All human activities have implications on our society. Research activity not
+only does but also the overall research system is based on trust. Then,
+responsible research conduct is of outmost importance. The goal of the course
+is to provide an overview of the rules and professional practices that are
+considered as responsible conduct of research and engineering. Ph. D.
+students, post-doctoral researchers and everybody involved in research and
+innovation must know the principles and practices that define a responsible
+conduct and the ones that are not appropriate and are identified as
+misconduct. Topics include: Introduction on Responsible Research and
+Innovation Research misconduct Authorship Plagiarism Peer reviews Conflicts of
+interest Mentor/mentee relationship Collaborative research Presenting the
+results Intellectual Property Information Privacy
+
+Horarios:
+
+Friday, 10:00-13:00
+
+Web:
+
+[http://jordid.site.ac.upc.edu/rciri.html](rciri.html.md)
+
+\+ info
+
+  
+
+Título:
+
+**Aula Lliure 1 ECTS (Semester 1)**
+
+Subtítulo:
+
+Aula Lliure 2 ECTS (Semester 1)
+
+Fechas:
+
+Sábado 07 Septiembre 2024 - Martes 07 Enero 2025
+
+Créditos:
+
+1.0
+
+Descripción:
+
+The 'Aula Lliure' project is designed so that early stage bachelor students
+can take advantage of the academic experience of more veteran students and
+thus improve their academic performance. The tuition language is catalan /
+spanish. Note: you must claim 1 ECTS when you teach 8 lectures (of 2h) to 1
+group of students, for a total of 16h of lectures.
+
+Horarios:
+
+See the website
+
+Web:
+
+[https://www.fib.upc.edu/ca/estudis/graus/pla-daccio-tutorial/aula-
+lliure](ca/estudis/graus/pla-daccio-tutorial/aula-lliure.md)
+
+\+ info
+
+  
+
+Título:
+
+**Aula Lliure 2 ECTS (Semester 1)**
+
+Subtítulo:
+
+Aula Lliure (Semester 1)
+
+Fechas:
+
+Sábado 07 Septiembre 2024 - Martes 07 Enero 2025
+
+Créditos:
+
+2.0
+
+Descripción:
+
+The 'Aula Lliure' project is designed so that early stage bachelor students
+can take advantage of the academic experience of more veteran students and
+thus improve their academic performance. The tuition language is catalan /
+spanish. Note: you can claim 2 ECTS when, at least, you teach 8 lectures (of
+2h) to 2 groups of students, for a total of 32h of lectures.
+
+Horarios:
+
+See the website
+
+Web:
+
+[https://www.fib.upc.edu/ca/estudis/graus/pla-daccio-tutorial/aula-
+lliure](ca/estudis/graus/pla-daccio-tutorial/aula-lliure.md)
+
+\+ info
+
+  
+
+Título:
+
+**ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated
+Applications**
+
+Subtítulo:
+
+ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated
+Applications
+
+Fechas:
+
+lunes 02 Septiembre 2024 - Viernes 06 Septiembre 2024
+
+Créditos:
+
+2.5
+
+Descripción:
+
+Welcome to the 2024 ACM Summer School! This year's program focuses on High-
+Performance Computing (HPC) and Artificial Intelligence (AI), and it will also
+explore emerging research areas such as Quantum Computing. The 2024 ACM Summer
+School on "HPC Computer Architectures for AI and Dedicated Applications" will
+take place from 2 to 6 September in Barcelona, Spain. The Barcelona
+Supercomputing Center (BSC-CNS) and the Universitat Politècnica de Catalunya
+(UPC) will host the school.
+
+Horarios:
+
+9:00 - 20:00
+
+Web:
+
+[https://europe.acm.org/seasonal-schools/hpc/2024/program-schedule](seasonal-
+schools/hpc/2024/program-schedule.md)
+
+\+ info
+
+  
+
+Título:
+
+**Ethics for Engineers, Researchers and Innovators (EthicsERI) 2024**
+
+Subtítulo:
+
+Ethics for Engineers, Researchers and Innovators (EthicsERI) 2024
+
+Fechas:
+
+Domingo 01 Septiembre 2024 - Viernes 27 Diciembre 2024
+
+Créditos:
+
+2.0
+
+Descripción:
+
+All human activities have implications on our society. Professional exercise
+in engineering, being a researcher or running innovation projects imply making
+decisions that are not exclusively technical, they involve ethical
+considerations. Theoretical sessions are complemented with numerous examples
+and cases.
+
+Horarios:
+
+Friday, 10:00-13:00
+
+Web:
+
+[https://personals.ac.upc.edu/jordid/rciri.html#ethicseri](jordid/rciri.html.md)
+
+\+ info
+
+  
+
+Título:
+
+**EUMaster4HPC Summer School 2024**
+
+Subtítulo:
+
+EUMaster4HPC Summer School
+
+Fechas:
+
+Domingo 18 Agosto 2024 - Sábado 24 Agosto 2024
+
+Créditos:
+
+3.0
+
+Descripción:
+
+High performance solutions play a key role in addressing environmental issues
+such as climate change, natural resource management, pollution control,
+greenhouse gas emissions, energy efficiency, and many others. This
+EUMaster4HPC Summer School has an excellent programme to train students
+capable of solving the world's biggest challenges. EUMAster4HPC Summer School
+2023 offers students a unique opportunity to experience life as a EUMaster4HPC
+student.
+
+Horarios:
+
+8:00-20:00
+
+Web:
+
+[https://eumaster4hpc.uni.lu/summer-school-2024/](summer-school-2024.md)
+
+\+ info
+
+  
+
+Título:
+
+**Issues in Computer Architecture and Microarchitecture for Future Computing
+Machines**
+
+Subtítulo:
+
+Issues in Computer Architecture and Microarchitecture for Future Computing
+Machines
+
+Fechas:
+
+lunes 17 Junio 2024 - lunes 08 Julio 2024
+
+Créditos:
+
+2.0
+
+Descripción:
+
+This course identifies topics that are both fundamental to computer
+architecture and relevant to the design of microprocessors of the future. The
+emphasis is always on insights that will be useful to the graduate student,
+whether he/she goes on for a PhD or joins a microprocessor design team. We
+will deal with principles, tradeoffs, and implementation details. We will
+cover mechanism (e.g., trace caches, helper threads, branch prediction,
+bandwidth). We will discuss the implications of multi-core on future
+microprocessor design. We will examine current state of the art
+microprocessors. In addition to the class lectures/discussions, students will
+carry out an out-of-class project and make a presentation on what they learn
+to the class. There will be a written final examination that will be taken
+outside of class and turned in prior to the final class meeting.
+
+Horarios:
+
+15:00-19:00
+
+\+ info
+
+  
+
+Título:
+
+**PUMPS+AI 2024**
+
+Subtítulo:
+
+PUMPS+AI 2024
+
+Especialidad:
+
+MIRI-HPC
+
+Fechas:
+
+Viernes 14 Junio 2024 - Martes 18 Junio 2024
+
+Créditos:
+
+3.0
+
+Descripción:
+
+The 13th edition of the Programming and Tuning Massively Parallel Systems +
+Artificial Intelligence summer school (PUMPS+AI) is aimed at enriching the
+skills of researchers, graduate students and instructors with cutting-edge
+technique and hands-on experience in developing applications for many-core
+processors with massively parallel computing resources like GPU accelerators,
+with a special focus on artificial intelligence.
+
+Web:
+
+[https://pumps.bsc.es/2024](2024.md)
+
+\+ info
+
+  
+
+Título:
+
+**Redirect walk in place for Immersive Virtual Reality**
+
+Subtítulo:
+
+Redirect walk in place for Immersive Virtual Reality
+
+Especialidad:
+
+MIRI-CGVR
+
+Fechas:
+
+lunes 02 Octubre 2023 - lunes 15 Julio 2024
+
+Créditos:
+
+3.0
+
+Descripción:
+
+Implementation of techniques to redirect participants when navigating in VR
+with the walk-in-place metaphor. When walking in place, users tend to slightly
+drift from their original position with the danger of colliding with the
+physical environment. In the research work, we are interested in testing
+different techniques to mitigate this problem. Upon completion, it could lead
+to a follow-up seminar with an additional 3 ECTS by running a user study and
+participating in a research publication.
+
+\+ info
+
+  
 
 ## Dónde estamos
 
@@ -1109,5 +2202,7 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/masteres/master-en-innovacion-e-
+investigacion-en-informatica/seminarios-de-innovacion-e-investigacion-en-
+informatica.md)
 

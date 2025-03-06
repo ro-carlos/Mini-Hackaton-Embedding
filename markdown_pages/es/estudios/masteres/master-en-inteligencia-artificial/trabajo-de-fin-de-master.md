@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/estudios/masteres/master-en-inteligencia-
+artificial/trabajo-de-fin-de-master.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/estudis/masters/master-en-intelligencia-artificial/treball-de-fi-de-master.md "Treball de fi de màster")
+  * [English](en/studies/masters/master-artificial-intelligence/masters-thesis.md "Master's Thesis")
+  * [Español](es/estudios/masteres/master-en-inteligencia-artificial/trabajo-de-fin-de-master.md "Trabajo de fin de máster")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,8 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/estudios/masteres/master-en-inteligencia-artificial/trabajo-de-fin-
+de-master.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +717,274 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Trabajo de fin de máster
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Estudios](es/estudios.md) »
+[Másteres](es/estudios/masteres.md) » [Máster en Inteligencia
+Artificial](es/estudios/masteres/master-en-inteligencia-artificial.md) »
+Trabajo de fin de máster
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Matrícula](es/estudios/masteres/master-en-inteligencia-artificial/matricula.md)
+  * [Plan de estudios](es/estudios/masteres/master-en-inteligencia-artificial/plan-de-estudios.md)
+  * [Professorado](es/estudios/masteres/master-en-inteligencia-artificial/profesorado.md)
+  * [Normativa académica](es/estudios/masteres/master-en-inteligencia-artificial/normativa-academica.md)
+  * [Trabajo de fin de máster](es/estudios/masteres/master-en-inteligencia-artificial/trabajo-de-fin-de-master.md)
+    * [Ofertas de proyectos](es/estudios/masteres/master-en-inteligencia-artificial/trabajo-de-fin-de-master/ofertas-de-proyectos.md)
+    * [Próximas lecturas](es/estudios/masteres/master-en-inteligencia-artificial/trabajo-de-fin-de-master/proximas-lecturas.md)
+  * [Horarios](es/estudios/masteres/master-en-inteligencia-artificial/horarios.md)
+  * [Exámenes](es/estudios/masteres/master-en-inteligencia-artificial/examenes.md)
+  * [FAQs](es/estudios/masteres/master-en-inteligencia-artificial/faqs.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+El trabajo de fin de master (TFM) del máster en Inteligencia Artificial tiene
+18 créditos ECTS, y se puede realizar en la Facultad de Informática de
+Barcelona (FIB), en empresas (nacionales o internacionales) o en otra
+universidad (nacional o internacional).
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+La FIB tiene un gran número de [convenios con empresas](es/empresa/practicas-
+en-empresa.md) y [universidades extranjeras](es/movilidad.md) para dar a los
+estudiantes la posibilidad de completar el TFM en una de estas modalidades.
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+__
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+### Normativa
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+[Normativa del trabajo de fin de
+máster](sites/fib/files/documents/estudis/normativa-tfe-fib-ca.pdf.md) (en
+catalán)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+**Qué debes hacer y cuándo** :
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+__Inscripción: cuando se haya superado un mínimo de 30 créditos ECTS de
+asignaturas obligatorias.
 
-Consulta toda la información en lo referente a este proceso electoral.
+__Matrícula: cuando se haya superado un mínimo de 30 créditos ECTS de
+asignaturas obligatorias.
 
-## Noticias
+__Puedes consultar los[6 pasos para que tu TFG/TFM sea un
+éxito](es/estudiants/6-passos-que-teu-tfg/tfm-sigui-exit.md).
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+## Procedimiento para el TFM
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Desde el punto de vista académico, el éxito de cualquier TFM requiere una
+comunicación fluida con el supervisor / tutor con reuniones periódicas. Desde
+un punto de vista administrativo, la mayor parte del procedimiento se realiza
+a través del [Racó](index.md), desde donde el estudiante será guiado durante
+todo el proceso. Este documento destaca los principales pasos administrativos
+del TFM pero no pretende sustituir la necesidad de leer la normativa del
+trabajo de fin de máster.
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+__Durante el hito de la revisión del progreso del TFM es el único momento en
+el que se puede actualizar el título y la descripción del TFM
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+### **1\. Inscripción del TFM**
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+Inscribir el TFM es necesario para informar a la Facultad que el estudiante
+has acordado un tema de trabajo de fin de máster y va a empezar a trabajar en
+él.
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+__Es**importante** saber, que se podrá empezar a trabajar en el TFM cuando
+este se inscriba correctamente, y se cumplan los siguientes requisitos:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+  * Los estudiantes podrán matricular el TFM cuando hayan superado el mínimo de créditos establecidos en la normativa.
+  * La inscripción debe realizarse un cuatrimestre antes de la matrícula.
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Se deberá inscribir el TFM a través del [Racó](index.md), en una nueva pestaña
+que aparecerá a los estudiantes que cumplan los requisitos descritos
+anteriormente. La inscripción debe ser aceptada por el supervisor o tutor del
+TFM.
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+__**Período de inscripción**
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+1er cuatrimestre: Jueves 05 Septiembre 2024 a Sábado 01 Febrero 2025 - 23:59  
+2º cuatrimestre: lunes 10 Febrero 2025 a Viernes 11 Julio 2025 - 23:59
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+### **2\. Matrícula del TFM**
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+El estudiante se podrá matricular del TFM cuando haya superado el mínimo de
+créditos establecido en la normativa.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+Si el estudiante inscribe el TFM en el cuatrimestre anterior, durante la
+matrícula aparecerá un nuevo curso para matricular el TFM.
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+__**Período de matrícula**
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+2º cuatrimestre (inscripciones realizadas durante el 1er cuatrimestre del
+curso 2024-2025): 3 de febrero de 2025.  
+1er cuatrimestre (inscripciones realizadas durante el 2º cuatrimestre del
+curso 2024-2025): por confirmar
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+### **3\. Período de lectura**
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+En este punto el estudiante debe elegir en el [Racó](index.md), cuándo
+defender su TFM. Para cada matrícula hay 2 períodos de lectura:
+
+**Período ordinario**
+
+TFM matriculados en el 1er cuatrimestre: lunes 20 Enero 2025 a Viernes 24
+Enero 2025  
+TFM matriculados en el 2º cuatrimestre: Miércoles 25 Junio 2025 a Martes 01
+Julio 2025
+
+**Período extraordinario**
+
+TFM matriculados en el 1er cuatrimestre: lunes 12 Mayo 2025 a Viernes 16 Mayo
+2025  
+TFM matriculados en el 2º cuatrimestre: lunes 21 Octubre 2024 a Viernes 25
+Octubre 2024
+
+El período extraordinario de defensa requiere el pago de las tasas académicas
+(no de los créditos).
+
+**__Importante** : El estudiante debe discutir con su supervisor / tutor un
+plan factible y razonable. Por lo tanto, debe elegir el período de lectura
+sólo cuando esté seguro de cumplir con el período previsto y antes de la fecha
+límite. Si llega la fecha límite y tiene problemas para cumplir el período de
+lectura ordinario, se le aconseja que elija el periodo de defensa
+extraordinario.
+
+### **4\. Hito de la revisión del progreso del TFM**
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+Este hito pretende reflejar el estado del TFM y las posibilidades de
+defenderlo adecuadamente a tiempo. Sin realizar este hito a tiempo no se
+permitirá al estudiante defenderlo (independientemente del período de defensa
+elegido).
+
+Antes de la fecha límite establecida en el [Racó](index.md), el estudiante
+deberá subir al [Racó ](index.md)un documento, consensuado con el director o
+tutor, que tiene que incluir, obligatoriamente, los siguientes apartados:
+
+  * Cumplimiento de la planificación y objetivos.
+  * Ajustes realizados y justificación de los cambios.
+  * Planificación prevista para terminar el TFM.
+
+El director/tutor debe aceptar el documento y evaluarlo. Esta evalución tiene
+que incluir los apartados en la normativa específica de la titulación o, en su
+defecto, los siguiente aspectos:
+
+  * La autonomía en la realización del trabajo.
+  * La autonomía en la redacción de la memoria.
+  * La planificación desarrollada y realizada hasta la fecha.
+  * La comunicación con el director de TFM o tutor.
+
+Esta evaluación se puede modificar en el hito final.
+
+**Fechas límite para hacer la reunión de seguimiento**
+
+**Periodo ordinario**
+
+  * TFM matriculado en el 1.er cuatrimestre: Jueves 19 Septiembre 2024 - 13:00
+  * TFM matriculado en el 2.º cuatrimestre: Jueves 12 Diciembre 2024 - 13:00
+
+**Periodo extraordinario**
+
+  * TFM matriculado en el 1.er cuatrimestre: Jueves 03 Abril 2025 - 13:00
+  * TFM matriculado en el 2.º cuatrimestre: Jueves 22 Mayo 2025 - 13:00
+
+**__** Hay que tener en cuenta que para la fecha límite de la revisión de
+progreso, el supervisor / tutor debe haber aceptado y evaluado el progreso.
+
+### **5\. Entrega de la memoria**
+
+Después de completar el hito de la revisión del progreso, el siguiente paso a
+realizar es subir el informe final del TFM a través del [Racó](index.md).  
+Hay un plazo estricto para presentar el informe final, que es de **una semana
+antes de la defensa** (consultar el [Racó](index.md) para conocer la fecha
+límite).
+
+**__Importante,** el supervisor / tutor debe aceptar el informe de TFM antes
+de la fecha límite establecida. El incumplimiento del plazo supondrá la
+retirada automática de la defensa.
+
+La memoria tiene un formato libre. Es obligatorio incluir la portada estándar
+de TFE (que el estudiantado puede autogenerar usando los mecanismos
+establecidos por la FIB), un resumen del trabajo (o _abstract_) e incorporar
+un análisis de sostenibilidad e implicaciones éticas según el [acuerdo del
+Consejo de Gobierno de 07-2023](ca/consell-de-govern/consell-de-
+govern/sessio-07-2023-del-consell-de-govern/comissio-docencia-i-politica-
+academica-pendent-celebracio/informacio-de-la-guia-per-incorporar-lanalisi-de-
+sostenibilitat-i-implicacions-etiques-en-els-tfe/informacio-de-la-guia-per-
+incorporar-lanalisi-de-sostenibilitat-i-implicacions-etiques-en-els-
+tfe/@@display-
+file/visiblefile/Guia%20Informe%20Sostenibilitat%20TFG_TFM_versi%C3%B3%20UPC.pdf.md).
+
+A modo orientativo, se recomienda que la memoria incluya los apartados
+siguientes:
+
+  * Portada
+  * Resumen
+  * Índice
+  * Introducción, motivación y objetivos
+  * Estado de la cuestión
+  * Especificación y diseño de la solución
+  * Desarrollo de la propuesta/técnica/trabajo que se ha realizado
+  * Experimentación y evaluación de la propuesta/técnica/trabajo
+  * Análisis de sostenibilidad e implicaciones éticas
+  * Conclusiones
+  * Listado de referencias utilizadas
+  * Anexos con la información complementaria
+
+**Estudiantado del MEI**
+
+Además, es obligatorio incluir un apartado de gestión del proyecto y
+planificación del trabajo. Se recomienda la estructura siguiente:
+
+  * Análisis de antecedentes
+  * Planificación
+  * Informe de sostenibilidad
+  * Viabilidad, análisis económico global y comparación con otras alternativas
+  * Evaluación de riesgos
+
+**Estudiantado del MDS**
+
+El informe obligatorio de sostenibilidad e implicaciones éticas se lleva a
+cabo a través de la [competencia de género](es/estudios/masteres/master-en-
+ciencia-de-datos/trabajo-de-fin-de-master/competencia-de-genero.md) asociada
+al trabajo de fin de máster.
+
+### **6\. Lectura del TFM**
+
+El estudiante deberá defender el TFM en sesión pública ante una comisión
+evaluadora. La comisión evaluadora será designada al menos quince días antes
+de la fecha elegida para la defensa del TFM. En los días siguientes a su
+designación, la comisión comunicará la fecha y lugar precisos para la defensa.
+La comisión evaluadora tendrá acceso al informe de progreso y al informe
+final. La evaluación de la tesis es una nota numérica entre 0 y 10.
+
+Además, para fomentar la transparencia, la comisión proporcionará una
+valoración [basada en una rúbrica](es/estudios/masteres/master-en-
+inteligencia-artificial/trabajo-de-fin-de-master.md) que respalde la
+evaluación emitida.
+
+#### [Basada en una rúbrica](es/estudios/masteres/master-en-inteligencia-
+artificial/trabajo-de-fin-de-master.md)
+
+Cada elemento se evaluará como insatisfactorio, satisfactorio, bueno, muy
+bueno y excelente.
+
+  1. Resultado 
+     * Calidad de los resultados
+     * Cantidad de los resultados
+     * Complejidad del problema
+
+  2. Memoria final 
+     * Estructura
+     * Claridad de la pregunta de investigación/formulación del problema
+     * Discusión de trabajos relacionados y contexto
+     * Claridad de la presentación y corrección de los argumentos empleados
+     * Lenguaje empleado
+     * Aspecto general (_layout_ , figuras, tablas, etc.)
+
+  3. Presentación durante la defensa 
+     * Estructura y contenidos
+     * Calidad de las transparencias
+     * Habilitados de presentación
+     * Adecuación del discurso
+
+  4. Preguntas y respuestas 
+     * Habilidad para responder adecuadamente a las preguntas técnicas
+     * Habilidad para responder adecuadamente a las preguntas de contexto
 
 ## Dónde estamos
 
@@ -1109,5 +1023,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/estudios/masteres/master-en-inteligencia-
+artificial/trabajo-de-fin-de-master.md)
 

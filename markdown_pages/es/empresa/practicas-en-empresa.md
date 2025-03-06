@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/empresa/practicas-en-empresa.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/empresa/practiques-en-empresa.md "Pràctiques en empresa")
+  * [English](en/companies/industrial-practices.md "Industrial Practices")
+  * [Español](es/empresa/practicas-en-empresa.md "Prácticas en empresa")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/empresa/practicas-en-empresa.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,479 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Prácticas en empresa
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Empresa](es/empresa.md) » Prácticas en empresa
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+[ Información para estudiantes ](es/empresa/practicas-en-empresa.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+[](es/empresa/practicas-en-empresa.md)
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+[ Información para empresas ](es/empresa/practicas-en-empresa.md)
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+[](es/empresa/practicas-en-empresa.md)
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+[ Marco Legal ](ca/empresa/practiques-en-empresa.md)
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+[](ca/empresa/practiques-en-empresa.md)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+Las prácticas externas constituyen para los estudiantes una actividad
+formativa bajo la supervisión de la Facultad. El objetivo es aplicar y
+complementar los conocimientos adquiridos en la formación académica,
+favoreciendo la adquisición de competencias que lo preparen para el ejercicio
+de actividades profesionales que faciliten su empleabilidad.
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+El marco de estas actividades son los Convenios de Cooperación Educativa,
+regulados por el [Real decreto 592/2014](diario_boe/txt.php.md) por el cual se
+regulan las prácticas académicas externas de los estudiantes universitarios.
 
-Consulta toda la información en lo referente a este proceso electoral.
+##  Información para empresas
 
-## Noticias
+## [Publica oferta en prácticas](es/empresa/practicas-en-empresa/publica-
+ofertas.md)
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+  * [__Informació General](es/empresa/practicas-en-empresa.md)
+  * [ __Condiciones](es/empresa/practicas-en-empresa.md)
+  * [ __Remuneración](es/empresa/practicas-en-empresa.md)
+  * [ __Procedimiento](es/empresa/practicas-en-empresa.md)
+  * [ __Cancelación Convenio](es/empresa/practicas-en-empresa.md)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Con las prácticas académicas externas, la Universidad brinda a las empresas la
+oportunidad de incorporar estudiantes de últimos cursos para el ejercicio de
+la práctica profesional.  
+Más de 300 estudiantes de la Facultad de Informática de Barcelona participan
+cada año en el programa de prácticas del Grado en Ingeniería Informática (GEI)
+y de los diferentes Másteres impartidos por la Facultad.
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Para poder establecer un Convenio de Cooperación Educativa (CCE), se han de
+cumplir con los siguientes requisitos:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+__En el caso de los**grados** , para participar en un convenio es **condición
+imprescindible** que el estudiante haya aprobado la mitad de los créditos de
+la titulación (**120 créditos**).
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+__**Número máximo de horas.** En un mismo **curso académico** un estudiante,
+sea de grado o máster, podrá realizar un máximo de**900 horas** de prácticas.
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+__También se establece que el número máximo de horas de prácticas a lo largo
+de los estudios será de:
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+  * Grados (GEI y GIA): máximo de 1.800 horas
+  * Másters de 60 ECTS (MCYBERS): máximo de 600 horas
+  * Másters de 90 ECTS (MEI y MAI): máximo de 900 horas
+  * Máster de 120 ECTS (MIRI y MDS): máximo de 1.200 horas.
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+El año académico para los convenios es el período que va del **16 de
+septiembre** del año natural en que empieza el curso académico**** hasta el
+**15 de septiembre** del año siguiente.
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+La empresa abonará directamente al estudiante la remuneración acordada en el
+convenio.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+**El importe que han de percibir los estudiantes no puede ser en ningún caso
+inferior a (*):**
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+**10 €/hora brutos para estudiantes de grado**  
+**11 €/hora brutos para estudiantes de máster**
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+**(*) Nuevo precio para los convenios con fecha de inicio a partir del 1 de
+enero de 2023.**
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+Para el estudiante son un ingreso generado de su trabajo para terceros y por
+tanto, sujeto a las retenciones que dispone el Reglamento sobre el Impuesto de
+Renta de las Personas Físicas (IRPF).  
+  
+Esta retención que tiene que practicar la empresa, es como mínimo de un 2%
+dado que a efectos fiscales los Convenios de Cooperación Educativa se
+equiparan a relaciones de duración inferior a un año. La empresa tendrá que
+entregar el correspondiente certificado de retenciones al estudiante.  
+  
+**Los c****onvenios tendrán una facturación, por parte de la Universidad, del
+15,7% del importe total del convenio en concepto de gastos de gestión. Así
+mismo el IVA aplicable será del 21%.**
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+  
+[Propiedad intelectual](sites/default/files/pagines_generals/propietat-
+intellectual/Arxius/normativaupc_pi_2018.pdf.md)  
+  
+Las empresas tienen la **obligación de incluir en el régimen de la seguridad
+social** a los estudiantes que realicen convenios. [Más
+información](cce/ca/documentacio/copy_of_rd1-493-2011.md).  
+  
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+El detalle de todo el procedimiento y los pasos a seguir para la gestión de
+las ofertas y los convenios estan explicados en el apartado
+[Procedimiento](es/empresa/practicas-en-empresa.md).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+__Aviso importantes
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+  * **La firma del convenio ha de ser electrónica.**
+  * **No estableceremos convenios con empresas que tengas facturas pendientes de abonar.**
+  * Es obligatorio hacer llegar el convenio al centro **15 antes de iniciar las prácticas.**
+  * Se ha de tener en cuenta que en los estudios de grado GEI y GIA, y en los de másters MEI, MAI y MIRI el/la estudiante puede escoger entre realizar **prácticas en modalidad curricular**(puede implicar la realización del Trabajo de Fin de Grado o Trabajo de Fin de Máster, y/o un reconocimiento de créditos), **o extracurricular.**
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+  
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+En el caso de querer cancelar un convenio, será necesario contactar con la
+oficina de convenios mediante la dirección de correo electrónico:  .  
+  
+  
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+## Información para estudiantes
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+## [Lista ofertas en prácticas](es/empresa/practicas-en-empresa/listado-
+ofertas.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+  * [__Información General](es/empresa/practicas-en-empresa.md)
+  * [ __Condiciones](es/empresa/practicas-en-empresa.md)
+  * [ __Modalidad](es/empresa/practicas-en-empresa.md)
+  * [ __Remuneración](es/empresa/practicas-en-empresa.md)
+  * [ __Procedimiento](es/empresa/practicas-en-empresa.md)
+  * [ __Evaluación](es/empresa/practicas-en-empresa.md)
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+Se pueden realizar en entidades colaboradoras, como en empresas, instituciones
+y entidades públicas y privadas en el ámbito nacional e internacional, y en la
+propia Universidad.
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+Dado el carácter formativo de las prácticas académicas externas, de su
+realización no se deriva en ningún caso, obligaciones propias de una relación
+laboral, ni su contenido puede dar lugar a la sustitución de la prestación
+laboral propia de los lugares de trabajo.  
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+La persona que quiera participar en una práctica académica externa tiene que
+cumplir:
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+**Estudiantes de grado**
 
-Primer Concurso UPC de IA
+  * En la fecha de inicio del convenio, haber superado el 50% de los créditos de la titulación que está cursando.
+  * Tiene que estar matriculado de asignaturas o bien del TFG.
+  * Tener seguro escolar mientras el convenio esté vigente. En el caso de mayores de 28 años, el seguro deberá ser proporcionado por el propio estudiante.
+  * No mantener una relación contractual con la empresa en la que se hacen las prácticas.
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+**Estudiantes de Máster**
 
-## Agenda
+  * Tiene que estar matriculado de asignaturas o bien del TFM.
+  * Tener seguro escolar mientras el convenio esté vigente. En el caso de mayores de 28 años, el seguro deberá ser proporcionado por el propio estudiante.
+  * No mantener una relación contractual con la empresa en la que se hacen las prácticas.
 
-Mar 11 Mar
+**Número máximo de horas.**
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+En un mismo año académico un estudiante podrá realizar un máximo de**900
+horas** de prácticas.
 
-__17:00 - 18:30
+También se establece que el número máximo de horas de prácticas a lo largo de
+los estudios será de:
 
-__Sala d'actes Manuel Martí Recober
+  * Grados (GEI y GIA): máximo de 1.800 horas
+  * Másters de 60 ECTS (MCYBERS): máximo de 600 horas
+  * Másters de 90 ECTS (MEI y MAI): máximo de 900 horas
+  * Máster de 120 ECTS (MIRI y MDS): máximo de 1.200 horas.
 
-Mié 12 Mar
+El año académico para los convenios es el período que va del **16 de
+septiembre** del año natural en que empieza el curso académico**** hasta el
+**15 de septiembre** del año siguiente.
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+En el Convenio de Cooperación Educativa (CCE) que se firma hay que indicar que
+modalidad de prácticas se realizarán.  
+Los estudiantes pueden realizar dos modalidades de prácticas: **curriculares o
+extracurriculares.**  
 
-__16:00 - 17:30
+**__Prácticas extracurriculares (grados y másteres)**
 
-Mié 12 Mar
+No forman parte del plan de estudios, ni del expediente académico. Aún así se
+incorporarán al Suplemento Europeo del Título (SET) del estudiante.
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+No se podrán reconocer las prácticas extracurriculares por prácticas
+curriculares.
 
-__16:00 - 17:30
+**__Prácticas curriculares (grados y másteres)**
 
-__online
+Se configuran como actividades académicas integradas del plan de estudios.
+Tendrán la misma consideración que cualquier otra asignatura, y son de tipo
+optativo. Esto implica que se tienen que matricular, han de tener un tutor, y
+se evalúan y califican.
 
-[Consulta toda la agenda ](es/agenda.md)
+Pueden estar vinculadas o no al TFG/TFM.
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+__**Prácticas curriculares ligadas a un TFG/TFM**
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+En este caso, se tendrá que tramitar un Convenio de Cooperación Educativa
+vinculado a la inscripción del TFG/TFM.
 
-__21 Feb 25 - 07 Abr 25
+La carga de trabajo mínima que supone hacer solamente el TFG/TFM mediante
+prácticas en empresa es de:
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+GEI: 375 horas  
+MAI: 450 horas  
+MEI, MIRI y MDS: 750 horas
 
-## Pide cita previa
+__**Prácticas curriculares no ligadas al TFG/TFM**
+
+Independientemente que las prácticas curriculares estén o no ligadas al
+TFG/TFM, el estudiante podrá matricularse de la asignatura optativa Prácticas
+Externas, de forma que:
+
+  * En el caso del GEI y GIA, esta asignatura optativa puede tener de 6 a 12 ECTS.
+  * En el caso del MEI y MAI, esta asignatura optativa puede tener de 6 a 12 ECTS.
+  * En el caso del MDS i el MCYBERS, solo se puede vincular a la práctica curricular al TFE, y no existe la asignatura optativa Prácticas Externas (y por tanto no existe la posibilidad de obtener créditos optativos con las prácticas externas).
+
+**En cualquier caso 1 ECTS equivale a 30 horas de dedicación.**
+
+**Prácticas en la propia UPC:**
+
+  * Serán siempre con carácter curricular.
+  * El tiempo de dedicación a las prácticas podrá ser de 5, 10, 15 o 20 horas semanales.
+
+### Funcionamiento
+
+__**Prácticas curriculares ligadas al TFG/TFM**
+
+Una vez iniciado el convenio es necesario inscribir el TFG/TFM en modalidad B.
+
+Si, además, se quiere matricular la asignatura de Prácticas Externas, el
+centro hará la prematrícula de estas asignaturas, que tendrán que ser
+matriculadas una vez formalice el convenio.
+
+__**Prácticas curriculares no ligadas al TFG/TFM**
+
+El centro hará una prematrícula de la asignatura de Prácticas Externas, que
+tendrá que ser matriculada una vez formalice el convenio.
+
+La Facultad de Informática se reserva el derecho de rechazar la participación
+en un convenio, o bien la renovación de un convenio ya existente, cuando se
+considere que el rendimiento académico de un estudiante no se ajusta a los
+mínimos establecidos: un parámetro de rendimiento (entendido como el cociente
+entre los créditos superados y los créditos matriculados) superior a 0,50
+
+La empresa abonará directamente al estudiantes la remuneración acordada en el
+convenio.
+
+**El importe que tiene que percibir el estudiante no puede ser, en ningún
+caso, inferior a (*):**
+
+**10 €/hora brutos para estudiantes de grado**  
+**11 €/hora brutos para estudiantes de máster**
+
+**(*) (*) Nuevo precio para los convenios con fecha de inicio a partir del 1
+de enero de 2023.**
+
+En el caso de **prácticas académicas a la UPC** , el régimen económico será el
+establecido en la Normativa reguladora de les prácticas académicas externas de
+la UPC:
+
+5 h/semana: 175 euros  
+10 h/semana: 350 euros  
+15 h/semana: 525 euros  
+20 h/semana: 700 euros
+
+En el caso de **prácticas académicas en el Barcelona Supercomputing Center
+(BSC),** el importe que percibirá el estudiante será de:
+
+**10 €/hora brutos para estudiantes de grado**  
+**11 €/hora brutos para estudiantes de máster**
+
+Las prácticas académicas externas son para el estudiante un ingreso acontecido
+de su trabajo para terceros y, por lo tanto, sujeto a las retenciones que
+dispone el reglamento sobre el Impuesto de Renta de las Personas Físicas
+(IRFP)
+
+El detalle de todo el procedimiento y los pasos a seguir estan explicados en
+el apartado [Procedimiento](es/empresa/practicas-en-empresa.md).
+
+__Avisos importantes
+
+  * La firma del convenio por parte del/de la estudiante se realizará a través del portafirmas de la UPC.
+  * No se aceptan prácticas que supongan la realización de trabajos diferentes de las funciones relacionadas con las titulaciones de la Facultad de Informática de Barcelona.
+
+  
+
+  * Durante la realización de las practicas el tutor de la empresa y el/la estudiante deberán presentar unos informes. **Estos documentos son imprescindibles para la evaluación de las prácticas.**
+  * El tutor académico o tutora académica de la universidad evaluará la práctica, atendiendo los informes de seguimiento emitidos por el tutor o la tutora de la empresa o institución, y del informe final entregado por el estudiante. 
+
+__**Prácticas extracurriculares**
+
+Las prácticas extracurriculares serán evaluadas como apto/no apto y serán
+incorporadas al Suplemento Europeo del Título (SET).
+
+__**Prácticas curriculares**
+
+Forman parte del expediente académico y se evalúan con una nota numérica y
+descriptiva, y computará para la nota media.
+
+__**Prácticas curriculares ligadas al TFG/TFM**
+
+La matrícula del TFG/TFM se tiene que hacer en el cuatrimestre siguiente a la
+inscripción del TFG/TFM.
+
+La nota de las prácticas externas será la obtenida en el TFG/TFM cuando la
+evaluación de la práctica académica externa haya sido favorable. Si el
+resultado ha sido desfavorable, no se permitirá presentar el TFG/TFM y la
+calificación de las prácticas externas y el TFG/TFM será "No Presentado - NP
+-".
+
+__**Prácticas curriculares no ligadas al TFG/TFM**
+
+Serán evaluadas a partir del informe final realizado por el tutor académico o
+tutora académica de las prácticas, siendo la nota del informe la que aparecerá
+como la cualificación de las prácticas externas en el expediente académico.
+Este informe final saldrá de los informes presentados por el estudiante y el
+tutor o tutora de la empresa o institución.
+
+**Hace falta recordar que el TFG o TFM realizado en modalidad B se tiene que
+defender en la primera convocatoria de tribunal después de la expiración del
+convenio con la empresa en la que se ha realizado.**
+
+## Procedimiento
+
+El sistema de gestión de las prácticas académicas externas está formado por
+varios módulos que facilitan las gestiones que deben realizar los diferentes
+actores.
+
+![](/sites/fib/files/images/empresa/web-esquema-cce-upc-es.png)
+
+__
+
+### Bolsa de prácticas
+
+**Empresas**
+
+  * [Publicar ofertas](ca/empresa/practiques-en-empresa/publicar-ofertes.md)
+
+**Estudiantado**
+
+  * [Consultar ofertas](ca/empresa/practiques-en-empresa/llistat-ofertes.md)
+
+__
+
+### Gestión del convenio
+
+**Empresas**
+
+  * [Cómo acceder por primera vez al portal de los tutores de empresa](cce/ca/manuals/manuals-1/tutor-o-tutora-de-lempresa/accedeixes-per-primera-vegada-al-portal-1-1.pdf/@@download/file/Acces_1vegada_tutors_es.pdf.md)
+  * [Firmar electrónicamente el convenio](sites/fib/files/documents/empresa/com_signar_un_document_pdf_digitalment_amb_ladobe_acrobat.pdf.md)
+
+**Estudiantado**
+
+Accede a la e-Secretaria para:
+
+  * Consultar y completar la información del convenio 
+  * Consultar el plan formativo 
+  * Firmar electrónicamente el convenio 
+
+__
+
+### Seguimiento y Evaluación
+
+Para que las prácticas externas sean evaluadas por el/la tutor/a académico/a
+es necesario que el/la alumno/a y el/la tutor/a de la empresa rellenen el
+informe de seguimiento, a mitad del convenio, y el informe final al terminar.
+Estos informes estarán disponibles cuando llegue la fecha y se avisará por
+correo.
+
+A continuación os detallamos los pasos a seguir para la formalización de un
+convenio de cooperación educativa.
+
+### **Bolsa de prácticas - Gestión ofertas**
+
+  1. La empresa da de alta la oferta en la [bolsa de la FIB](es/ofertes_ltd.md)
+  2. La FIB valida y pública la oferta
+  3. El estudiantado presenta su candidatura en la [bolsa de la FIB](es/ofertes_ltd.md)
+  4. La empresa elige una candidatura. En el momento que la empresa selecciona una candidatura, **deberá introducir las horas, el precio hora y las fechas del convenio.****Automáticamente se inicia la formalización del convenio**  
+
+### **Gestión del convenio de cooperación educativa**
+
+  5. El estudiante valida y completa los datos del convenio desde la [e-Secretaria](apl/home_estudiants.php.md)
+  6. Tutor empresa introduce el plan formativo - [Portal tutores](apl/home_empreses.php.md)
+  7. Tutor académico valida el plan formativo desde [Prisma](index.md)
+  8. El centro valida el convenio y lo envía a firmar a la empresa
+  9. La empresa firma electrónicamente el convenio y lo envía al centro
+  10. Con el convenio firmado por la empresa al sistema, después éste es firmado por el estudiante y por el decano del centro mediante el [portafirmas de la UPC](Portafirmes.md)
+
+**Convenios vinculados a un Trabajo Final de Estudios**  
+Si el convenio está vinculado a un Trabajo Final de Estudios, al día siguiente
+de que el convenio sea firmado por todas las partes, **aparece al Racó la
+inscripción del TFE para que el estudiante termine de completar la descripción
+y las competencias técnicas** , y se pueda seguir con el proceso de
+validación.
+
+### **Seguimiento y evaluación**
+
+  11. A mitad del convenio el/la estudiante rellena el informe de seguimiento (recibirá un correo cuando lo tenga disponible)
+  12. Una vez que el estudiante ha cumplimentado su informe, la persona tutora de la empresa rellena el informe de seguimiento (recibirá un correo con el enlace para llenar el seguimiento)
+  13. Unos días antes de la finalización del convenio se volverá a repetir los ciclos para que estudiante, persona tutora de la empresa y persona académica realicen los seguimientos finales. En este caso, el estudiante, aparte de contestar el formulario, deberá proporcionar un documento con la siguiente información   
+  
+[__Informe final](sites/fib/files/documents/empresa/informe_final-cce.pdf.md)
+
+  14. El/la tutor/a académico/a evaluará las prácticas en función de todas las respuestas
+
+![](/sites/fib/files/images/empresa/web-procediment-cce-es.svg)
+
+**Indicaciones de utilidad**
+
+  * [Cómo signar electronicamente un pdf](sites/fib/files/documents/empresa/com_signar_un_document_pdf_digitalment_amb_ladobe_acrobat.pdf.md)
+  * [Cómo acceder por primera vez al portal de los tutores de empresa](cce/ca/manuals/manuals-1/tutor-o-tutora-de-lempresa/accedeixes-per-primera-vegada-al-portal-1-1.pdf/@@download/file/Acces_1vegada_tutors_es.pdf.md)
+  * [Manuales de las aplicaciones](cce/ca/manuals/manuals-1.md).
+
+  
+
+## Normativas
+
+__
+
+### A nivel estatal
+
+[Real Decreto 592/2014](diario_boe/txt.php.md) del 11 de julio, por el cual se
+regulan las prácticas académicas externas de los estudiantes universitarios.
+
+__
+
+### A nivel UPC
+
+[Acuerdo núm. 2022/05/13 del Consell de Govern](cce/ca/normativa.md) por el
+cual se aprueba la normativa reguladora de las prácticas académicas externas
+de la UPC. Documento aprobado el 5 de julio de 2022.
+
+__
+
+### A nivel FIB
+
+Normativa de prácticas académicas externas y normativa de trabajo de fin de
+titulación ([GEI](es/estudios/grados/grado-en-ingenieria-
+informatica/normativa-academica.md), [GCED](ca/estudis/graus/grau-en-ciencia-
+i-enginyeria-de-dades/normativa-academica-i-organitzacio.md),
+[GIA](es/estudios/grados/grado-en-inteligencia-artificial/normativa-
+academica.md), [BBI](es/estudios/grados/grado-en-inteligencia-
+artificial/normativa-academica.md), [MEI](es/estudios/masteres/master-en-
+ingenieria-informatica/normativa-academica.md),
+[MIRI](es/estudios/masteres/master-en-innovacion-e-investigacion-en-
+informatica/normativa-academica.md), [MAI](es/estudios/masteres/master-en-
+inteligencia-artificial/normativa-academica.md),
+[MDS](es/estudios/masteres/master-en-ciencia-de-datos/normativa-
+academica.md)).
+
+## Contactos
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+## [Prácticas Académicas Externas - Convenios de Cooperación
+Educativa](es/contact/practicas-academicas-externas-convenios-de-cooperacion-
+educativa.md)
 
-[Cita previa](ca/cita-previa.md)
+Teléfono
 
-## Premios y reconocimientos
+(34) 93 401 77 22
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+E-mail
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+## [Relaciones externas (USIRE)](es/contact/relaciones-externas-usire.md)
 
-__16 Dec 24
+Teléfono
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+(34) 93 401 69 54
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+E-mail
 
 ## Dónde estamos
 
@@ -1109,5 +1226,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/empresa/practicas-en-empresa.md)
 

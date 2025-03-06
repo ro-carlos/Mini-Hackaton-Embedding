@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/movilidad/outgoing/estancias-empresas-
+practicas.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/mobilitat/outgoing/estades-empreses-practiques.md "Estades empreses-pràctiques")
+  * [English](en/mobility/outgoing/internship-abroad.md "Internship abroad")
+  * [Español](es/movilidad/outgoing/estancias-empresas-practicas.md "Estancias empresas-prácticas")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,356 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Estancias empresas-prácticas
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [Movilidad](es/movilidad.md) »
+[Outgoing](es/movilidad/outgoing.md) » Estancias empresas-prácticas
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Calendario Movilidad](es/movilidad/outgoing/calendario-movilidad.md)
+  * [Sesiones Informativas](es/movilidad/outgoing/sesiones-informativas.md)
+  * [Experiencias de movilidad](es/movilidad/outgoing/experiencias-de-movilidad.md)
+  * [Estancias Académicas](es/movilidad/outgoing/estancias-academicas.md)
+  * [Estancias empresas-prácticas](es/movilidad/outgoing/estancias-empresas-practicas.md)
+  * [Otras actividades](es/movilidad/outgoing/otras-actividades.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+## ¿Dónde puedo encontrar prácticas en el extranjero?
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+### Oferta de prácticas con convocatoria abierta todo el año
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+#### [AIESEC](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+[AIESEC](index.md) es una organización global totalmente gestionada por
+estudiantes y recién titulados de instituciones de educación superior de todo
+el mundo. Disponen de una plataforma internacional que ofrece prácticas y
+voluntariado de carácter internacional. Consulta todas las
+[oportunidades](search.md) que te ofrece AIESEC.
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+[Presentación AIESEC Global
+Talent](sites/fib/files/documents/mobilitat/aiesec_info_session_gt_it-1.pdf.md)
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+#### [IAESTE](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+[IAESTE](index.md) es una organización global que se encarga de tramitar
+prácticas internacionales remuneradas a estudiantes de especialidades
+técnicas.
 
-Consulta toda la información en lo referente a este proceso electoral.
+#### [Erasmus+](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-## Noticias
+Web en la que puedes encontrar las ofertas de prácticas que proponenen
+empresas que se encuentran en el programa Erasmus+:
+[http://erasmusintern.org](index.md)
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+#### [Entrypark](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Web de empresas que ofrecen prácticas con opción de realizar el proyecto final
+de carrera (algunas): [entrypark](careerbook/global.md)
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+Más información sobre prácticas en el extranjero en la web del [Área de
+Relaciones Internacionales de la UPC](sri/ca/estudiantat/mobilitat-
+estudiants/mobilitat-destudiantat-de-la-upc/treballar-a-lestranger.md).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+Si has encontrado una empresa en la que hacer unas prácticas, tienes que
+ponerte en contacto con el Área de Relaciones Internacionales de la FIB,
+enviando un e-mail a  , para poder gestionar tu estancia de movilidad en
+prácticas.
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+### Oferta de prácticas en universidades
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+#### [Georgia Institute of Technology - Estados
+Unidos](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+Prácticas remuneradas con posibilidad de realizar el TFM en el**[Georgia
+Institute of Technology](index.md)** (Atlanta,GA - Estados Unidos).**** Las
+prácticas están recomendadas solo para estudiantes de máster. Se ha de estar
+un cuatrimestre en un laboratorio de investigación. Se requiere un buen
+expediente académico y un nivel alto de inglés. Además, se ha de pasar una
+entrevista en inglés con el vicedecano de Relaciones Internacionales de la
+FIB. **Convocatoria en diciembre.**
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+#### [École Polytechnique Fédéral de Lausanne -
+Suiza](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+Prácticas de verano en la [**École Polytechnique Fédéral de
+Lausanne**](computer-science/summer-at-epfl.md) (EPFL, Suiza). Las prácticas
+están destinadas tanto a estudiantes de grado como de máster. Se requiere un
+buen expediente académico.****
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+#### [Haute École d’Ingénierie et de Gestion du Canton de Vaud -
+Suiza](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+**HEIG-VD** ofrece la posibilidad de hacer prácticas o el TFG / TFM en sus
+laboratorios. Los estudiantes en prácticas recibirán una ayuda equivalente a
+alojamiento gratuito + pago de gastos básicos (CHF 400.- /mes)
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+[Listado de proyectos propuestos](sites/fib/files/documents/mobilitat/heig-vd-
+projectes-disponibles.pdf.md) . Para tener más detalles sobre el proyecto hay
+que contactar con el profesor en cuestión.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+Los interesados en hacer la internship deberán enviar un e-mail a  con el
+título del proyecto que les interese, el CV y el certificado de notas ECTS.
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+#### [Eidgenössische Technische Hoschschule Zürich -
+Suiza](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+Prácticas de verano en la ETH Zurich (Suiza).
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+[**Student Summer Research Fellowship**](ssr-fellowship.html.md)**:**
+Destinado a alumnos de grado i máster.
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+**[Amgen Scholars Programme:](university/eidgenoessische-technische-
+hochschule-zuerich.md) **Destinado a alumnes de grado.
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
+[**Robotics Student Fellowship:**](education/robotics-student-
+fellowship/2021-Robotics-Student-Fellows.html.md) Destiando a estudiantes de
+máster.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
+#### [Grenoble Institute of Technology -
+Francia](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
+El [INP de Grenoble](en/grenoble-inp.md) ofrece la posibilidad de realizar
+prácticas o el TFG/TFM en sus [laboratorios](en/research/laboratories.md). Los
+estudiantes tienen que contactar directamente con el laboratorio en el que
+estén interesados en hacer las prácticas.
 
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
+#### [Aalto University - Finlandia](es/movilidad/outgoing/estancias-empresas-
+practicas.md)
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
+Prácticas de verano en Aalto Science Institute (Aalto, Espoo). Las prácticas
+están destinadas a estudiantes de Grado y Máster, se requieren buenos
+conocimientos en la temática seleccionada. Además, se requiere un buen nivel
+de inglés. Contrato de 3 meses (01 de junio al 31 de agosto).
 
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
+[Aalto Science Institute AScI internship programme](aalto-science-
+institute/aalto-science-institute-asci-internship-programme.md)
 
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
+#### [King Abdullah University of Science and Technology - Arabia
+Saudita](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
+El "**[KAUST Visiting Student Research Internship Program](index.md)** " es un
+programa que ofrece becas para investigación en los laboratorios de su
+universidad a estudiantes del último año de grado o que esten cursando un
+máster. Las becas son para períodos de entre 3 y 6 meses.  
+Consulta las becas y los proyectos de investigación a los que se puede aplicar
+en: [https://vsrp.kaust.edu.sa/internship/search](internship/search.md)
 
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
+Cuando el estudiante sea aceptado para hacer las prácticas tiene que contactar
+con  para hacer la gestión administrativa de las mismas.
 
-Primer Concurso UPC de IA
+### Otras posibilidades
 
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
+#### [SONY ofrece prácticas con opción a realizar el
+TFG/TFM](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-## Agenda
+El Centro Tecnológico de Stuttgart (STC), el mayor centro de investigación de
+Sony fuera de Japón, ofrece diferentes prácticas. Consulta las ofertas en la
+[web de STC](internships.html.md)
 
-Mar 11 Mar
+#### [IPAL ofrece prácticas para realizar el
+TFG/TFM](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
+El laboratorio de investigación IPAL, Imagen y Laboratorio de Acceso
+Pervasivo, un laboratorio de investigación conjunto francés-singapurense con
+sede en Singapur, ofrece diferentes prácticas. Consulta toda la información en
+la[ web de IPAL](open-positions.md)
 
-__17:00 - 18:30
+#### [CESBIO -Toulouse (Francia) ofrece prácticas pera realizar el
+TFG/TFM](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-__Sala d'actes Manuel Martí Recober
+El Centre d'Études Spatiales de la Biosphère (CESBIO) es un laboratorio de
+investigación que pertenece a la Agencia Espacial francesa. Consultad la
+oferta al [web de CESBIO.](fr/stages_cesbio.html.md) Para cualquier consulta
+contactad con
 
-Mié 12 Mar
+#### [SIPGA - (Singapur) ofrece prácticas con opción a realitar el
+TFG/TFM](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
+El Singapore International Pre-Graduate Award (SIPGA) ofrece a los estudiantes
+internacionales la oportunidad única de experimentar el vibrante entorno
+científico y trabajar con investigadores de renombre mundial en las Entidades
+de Investigación de A*STAR. Las áreas de investigación disponibles bajo SIPGA
+se dividen a grandes rasgos en cuatro categorías: ciencias biomédicas (BMS),
+ciencias físicas (PS), informática y ciencias de la información (CIT) e
+ingeniería y tecnología (E&T). Consulta en su web la [lista de proyectos
+disponibles](Scholarships/for-undergraduate-studies/singapore-international-
+pre-graduate-award-sipga.md).
 
-__16:00 - 17:30
+Cuando el estudiante sea aceptado para hacer las prácticas tiene que contactar
+con  para hacer la gestión administrativa de las mismas.
 
-Mié 12 Mar
+## ¿Qué tengo que hacer si ya he encontrado unas prácticas?
 
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
+No te olvides de contactar con Relaciones Internacionales,  .
 
-__16:00 - 17:30
+Entre otras cosas, tendrás que rellenar un contrato de prácticas, _Traineeship
+Agreement_.
 
-__online
+Si las prácticas están vinculadas al TFG deberás tenerlo matriculado durante
+el periodo de las prácticas. Ten en cuenta que la
+[inscripción](ca/estudis/graus/grau-en-enginyeria-informatica/treball-de-fi-
+de-grau.md) del TFG se debe hacer el cuatrimestre anterior a la matrícula y
+que la modalidad es la D (movilidad-empresa).
 
-[Consulta toda la agenda ](es/agenda.md)
+Si la empresa se encuentra en uno de los países que participan en el programa
+Erasmus+, acción KA131 o acción KA171, puedes, además, solicitar [la beca
+Erasmus+ Prácticas](sga/ca/Beques/BequesMobilitat.md).
 
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
+Las prácticas pueden durar entre 2 y 12 meses por ciclo de estudios,
+descontando los meses ya disfrutados en convocatorias Erasmus+ anteriores.
 
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
+Con el objetivo de garantizar una cobertura adecuada en caso de accidente o
+emergencia, **la matrícula en movilidad UPC outgoing incorpora la suscripción
+obligatoria de una[póliza de seguro](sri/es/estudiantado/movilidad-
+estudiantes/outgoings/going-abroad/seguro-obligatorio/seguro-obligatorio.md).
+L'import d'aquesta assegurança s'afegirà al total de la matrícula. **Al
+formalizar la matrícula el estudiante podrá consultar el certificado de
+coberturas y los datos de contacto en caso de emergencia en el apartado de
+documentación de movilidad de la e-Secretaria.
 
-__21 Feb 25 - 07 Abr 25
+### Documentación para prácticas en una empresa
 
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
+#### [De uno de los países del programa
+Erasmus+](es/movilidad/outgoing/estancias-empresas-practicas.md)
 
-## Pide cita previa
+__
+
+### Antes de irte
+
+[Traineeship Agreement Erasmus+ (18
+ECTS)](sites/fib/files/documents/mobilitat/ta_erasmus18ects.docx.md)
+(GEI/GCED-TFG, MAI-TFM)
+
+[Traineeship Agreement Erasmus+ (18+12
+ECTS](sites/fib/files/documents/mobilitat/ta_erasmus1812ects_tfg.docx.md)[)](sites/fib/files/documents/mobilitat/ta_erasmus1812ects_tfg.pdf.md)
+(GEI/GCED-TFG + 12 ECTS de prácticas en empresa)
+
+[Traineeship Agreement Erasmus+ (18+12
+ECTS)](sites/fib/files/documents/mobilitat/ta_erasmus1812ects_tfm.docx.md)[
+](sites/fib/files/documents/mobilitat/ta_erasmus1812ects_tfm.pdf.md)(MAI-TFM +
+12 ECTS de prácticas en empresa)
+
+[Traineeship Agreement Erasmus+ (30
+ECTS)](sites/fib/files/documents/mobilitat/ta_erasmus30ects.docx.md) (MIRI-
+TFM, MDS-TFM y MEI-TFM)
+
+[Traineeship Agreement Erasmus+ (12
+ECTS](sites/fib/files/documents/mobilitat/ta_erasmus_12_ects_mcybers.docx.md)[)](sites/fib/files/documents/mobilitat/ta_erasmus12ects_tfm.pdf.md)
+(MCYBERS-TFM)
+
+[Traineeship Agreement
+Erasmus+](sites/fib/files/documents/mobilitat/ta_erasmus12ects_internship.docx.md)
+(**12 ECTS prácticas curriculares** no vinculadas a TFG)
+
+[Traineeship Agreement
+Erasmus+](sites/fib/files/documents/mobilitat/ta_erasmus_no_curriculars.docx.md)
+(**prácticas no curriculares**)
+
+__
+
+### Durante las prácticas
+
+Certificado de incorporación (lo encontrarás en
+e-secretaria>movilidad>estancia movilidad)
+
+__
+
+### Antes de regresar
+
+Certificado de estancia (lo encontrarás en e-secretaria>movilidad>estancia
+movilidad)
+
+[Assesment](sites/fib/files/documents/after_the_mobility.docx.md) ( El tutor
+de las prácticas tendrá que rellenar la parte de  _After the Mobility_ de tu
+_Training Agreement_ y enviarlo a  )
+
+#### [De un país fuera del programa Erasmus+](es/movilidad/outgoing/estancias-
+empresas-practicas.md)
+
+__
+
+### Antes de irte
+
+[Traineeship Agreement 18
+ECTS](sites/fib/files/documents/mobilitat/ta_no_erasmus_18_ects.docx.md)
+(GEI/GCED-TFG, MAI-TFM)
+
+[Traineeship Agreement 18+12
+ECTS](sites/fib/files/documents/mobilitat/ta_no_erasmus_1812ects_gei.docx.md)
+(GEI/GCED-TFG + 12 ECTS de prácticas en empresa)
+
+[Traineeship Agreement 18+12
+ECTS](sites/fib/files/documents/mobilitat/ta_no_erasmus_1812ects_mai.docx.md)
+(MAI-TFM + 12 ECTS de prácticas en empresa)
+
+[Traineeship Agreement 30
+ECTS](sites/fib/files/documents/mobilitat/ta_no_erasmus_30_ects.docx.md)
+(MIRI, MDS y MEI-TFM)
+
+[Traineeship Agreement (12
+ECTS)](sites/fib/files/documents/mobilitat/ta_no_erasmus_12_ects_mcybers.docx.md)(MCYBERS-
+TFM)
+
+[Traineeship Agreement
+](sites/fib/files/documents/mobilitat/ta_no_erasmus_12_ects_practiques_curriculars_no_vinculades_a_tfg.docx.md)(**12
+ECTS prácticas curriculares** no vinculadas a TFG)
+
+[Traineeship Agreement
+](sites/fib/files/documents/mobilitat/ta_no_erasmus_no_curriculars.docx.md)(**pràctiques
+no curriculars**)
+
+__
+
+### Durante las prácticas
+
+[Certificado de
+incorporación](sites/fib/files/documents/mobilitat/certificat_incorporacio_internship_fora_erasmus.pdf.md)
+
+__
+
+### Antes de regresar
+
+[Certificado de estancia
+](sites/fib/files/documents/certificat_estada_practiques.pdf.md)
+
+[Assesment](sites/fib/files/documents/mobilitat/trainesship_certificate_no_erasmus.docx.md)
+(El tutor de las prácticas tendrá que rellenar la parte de  _After the
+Mobility_ de tu  _Training Agreement_ y enviarlo a  )
+
+## Contactos
 
 * * *
 
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
+## [Relaciones Internacionales FIB](es/contact/relaciones-internacionales-
+fib.md)
 
-[Cita previa](ca/cita-previa.md)
+Teléfono
 
-## Premios y reconocimientos
+(34) 93 401 07 37
 
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
+E-mail
 
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
+## [Oficina de Movilidad Internacional del Campus Nord](es/contact/oficina-de-
+movilidad-internacional-del-campus-nord.md)
 
-__16 Dec 24
+Teléfono
 
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
+(34) 93 401 69 37
 
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
+E-mail
 
-__09 Dec 24
+Web
 
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
+[www.upc.edu/sri/en/students](sri/en/students.md)
 
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
+## [Vicedecanato de Relaciones Internacionales](es/contact/vicedecanato-de-
+relaciones-internacionales.md)
 
-__22 Nov 24
+Teléfono
 
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
+(34) 93 401 69 61
 
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+E-mail
 
 ## Dónde estamos
 
@@ -1109,5 +1104,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/movilidad/outgoing/estancias-empresas-
+practicas.md)
 

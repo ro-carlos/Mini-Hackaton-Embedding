@@ -1,4 +1,5 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/la-fib/espacios/laboratorios-de-
+informatica.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +8,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/la-fib/espais/laboratoris-informatica.md "Laboratoris d'informàtica")
+  * [English](en/fib/rooms/computer-labs.md "Computer Labs")
+  * [Español](es/la-fib/espacios/laboratorios-de-informatica.md "Laboratorios de informática")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +387,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/la-fib/espacios/laboratorios-de-informatica.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +716,123 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
-
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
-
-[web de los másteres de la FIB](index.md)
-
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
-
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
-
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
-
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
-
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
-
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
-
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
-
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
-
-Consulta toda la información en lo referente a este proceso electoral.
-
-## Noticias
-
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
-
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
-
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
-
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
-
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
-
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
-
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
-
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+# Laboratorios de informática
+
+## Usted está aquí
+
+[Inicio](es.md) » [La FIB](es/la-fib.md) » [Espacios](es/la-fib/espacios.md) »
+Laboratorios de informática
+
+  * [Laboratorios de informática](es/la-fib/espacios/laboratorios-de-informatica.md)
+    * [A5S102](es/la-fib/espacios/laboratorios-de-informatica/a5s102.md)
+    * [A5S103](es/la-fib/espacios/laboratorios-de-informatica/a5s103.md)
+    * [A5S104 Laboratorio Social Point](es/la-fib/espacios/laboratorios-de-informatica/a5s104-laboratorio-social-point.md)
+    * [A5S105](es/la-fib/espacios/laboratorios-de-informatica/a5s105.md)
+    * [A5S108](es/la-fib/espacios/laboratorios-de-informatica/a5s108.md)
+    * [A5S109](es/la-fib/espacios/laboratorios-de-informatica/a5s109.md)
+    * [A5S111](es/la-fib/espacios/laboratorios-de-informatica/a5s111.md)
+    * [A5S113](es/la-fib/espacios/laboratorios-de-informatica/a5s113.md)
+    * [B5S101](es/la-fib/espacios/laboratorios-de-informatica/b5s101.md)
+    * [B5S201](es/la-fib/espacios/laboratorios-de-informatica/b5s201.md)
+    * [B5S202](es/la-fib/espacios/laboratorios-de-informatica/b5s202.md)
+    * [C6S301](es/la-fib/espacios/laboratorios-de-informatica/c6s301.md)
+    * [C6S302](es/la-fib/espacios/laboratorios-de-informatica/c6s302.md)
+    * [C6S303](es/la-fib/espacios/laboratorios-de-informatica/c6s303.md)
+    * [C6S306](es/la-fib/espacios/laboratorios-de-informatica/c6s306.md)
+    * [C6S308](es/la-fib/espacios/laboratorios-de-informatica/c6s308.md)
+    * [C6S309](es/la-fib/espacios/laboratorios-de-informatica/c6s309.md)
+    * [Horarios](es/la-fib/espacios/laboratorios-de-informatica/horarios.md)
+  * [Laboratorios docentes](es/la-fib/espacios/laboratorios-docentes.md)
+  * [Aulas docentes](es/la-fib/espacios/aulas-docentes.md)
+  * [Espacios de trabajo en grupo](es/la-fib/espacios/espacios-de-trabajo-en-grupo.md)
+  * [Salas de presentaciones](es/la-fib/espacios/salas-de-presentaciones.md)
+  * [Biblioteca Rector Gabriel Ferraté](es/la-fib/espacios/biblioteca-rector-gabriel-ferrate.md)
+
+Los laboratorios de la FIB están situados en los edificios A5, B5 y C6 del
+Campus Nord. Hay un total de 19 laboratorios de informática y 2 aulas de
+trabajo en grupo para los estudiantes de la FIB.
+
+Los laboratorios, todos con aire acondicionado, disponen de un total de 382
+equipos (370 PC, 10 iMacs y 2 terminales de consulta rápida con Raspberry), 1
+impresora y 21 videoproyectores. Los equipos tienen acceso a Internet a través
+de la red de la Facultad. Podeis consultar el [software](es/la-fib/servicios-
+tic/software-instalado-en-los-ordenadores.md) instalado en los ordenadores.
+
+Los laboratorios de informática están destinados a la docencia de la FIB. El
+acceso a los laboratorios durante las clases está reservado a los estudiantes
+de la asignatura que se imparte. Si no hay clase, los estudiantes pueden usar
+los laboratorios para la realización de sus prácticas.
+
+Las [aulas de trabajo en grupo](es/la-fib/espacios/espacios-de-trabajo-en-
+grupo.md) son de libre acceso para los estudiantes (excepto posibles
+restricciones que la FIB pueda hacer, como la realización de cursos,
+mantenimientos, etc.).
+
+Para asegurar la máxima disponibilidad de los equipos, la FIB dispone de
+material de recambio y de contratos de mantenimiento con corto tiempo de
+respuesta.Si detectáis cualquier avería hardware podéis dirigiros al personal
+técnico de los laboratorios o abrir una incidéncia en
+[http://suport.fib.upc.edu/](index.md).
+
+##  
+Alquiler de los laboratorios de informática
+
+Los laboratorios de informática de la FIB también pueden ser alquilados por
+organismos internos o externos a la UPC, siempre que no estén ocupados por
+docencia.
+
+Más información en la página de [Alquiler de laboratorios de
+informática](es/la-fib/servicios-tic/alquiler-de-los-laboratorios-
+informaticos.md).
+
+## Horarios
+
+Los laboratorios del edificio A5 y C6 están abiertos de 8:00 a 21:00 horas de
+lunes a viernes.  
+Los laboratorios del edificio B5 están abiertos durante las horas de clase.
+
+##  Aulari A5
+
+![](https://api.fib.upc.edu/v2/laboratoris/imatges/a5.png?client_id=77qvbbQqni4TcEUsWvUCKOG1XU7Hr0EfIs4pacRz) |  Equipos  |  Características   
+---|---|---  
+[A5S102](es/la-fib/espacios/laboratorios-de-informatica/a5s102.md) |  28  |  Intel Core i7-6700 3.40 Ghz 16 Gb RAM Nvdia Geforce 730 2Gb RAM, HD 1 Tb, Monitor HP L1940T (5 de los equipos Intel Core i7-8700 3.20 GHz, 16Gb RAM, SSD NVMe 500 Gb, Nvidia GeForce 1030, Monitor 24" LED)   
+[A5S103](es/la-fib/espacios/laboratorios-de-informatica/a5s103.md) |  14  |  Intel Core i5 11500 2.7 Ghz, 16 GB RAM, Nvidia Geforce GTX 1650 2 GB, monitor Samsung 24" Reservado para la realización de asignaturas de Sistemas Operativos   
+[A5S104 Laboratorio Social Point](es/la-fib/espacios/laboratorios-de-informatica/a5s104-laboratorio-social-point.md) |  21  |  Intel Core i7-8700 3.2 Ghz 16GB RAM, SSD 480 GB, Nvidia Geforce GT1030, Monitor HP 24"   
+[A5S105](es/la-fib/espacios/laboratorios-de-informatica/a5s105.md) |  14  |  Intel Core i5 11500 2.7 Ghz, 16 GB RAM, Nvidia Geforce GTX 1650 2 GB, monitor Samsung 24"   
+[A5S108](es/la-fib/espacios/laboratorios-de-informatica/a5s108.md) |  23  |  Intel Core i7-8700 3.20 GHz, 16Gb RAM, SSD NVMe 500 Gb, Nvidia GeForce 1030, Monitor 24" LED   
+[A5S109](es/la-fib/espacios/laboratorios-de-informatica/a5s109.md) |  25  |  Intel Core i5 2400 3.10 Ghz 8GB RAM, DVD-ROM, Nvidia Geforce 210 1Gb, Monitor HP 22''   
+[A5S111](es/la-fib/espacios/laboratorios-de-informatica/a5s111.md) |  25  |  Intel Core i5 11500 2.7 Ghz, 16 GB RAM, Nvidia Geforce GTX 1650 2 GB, monitor Samsung 24"   
+[A5S113](es/la-fib/espacios/laboratorios-de-informatica/a5s113.md) |  25  |  Intel Core i5-10500 3.10 Ghz, 16 Gb RAM, SSD NVMe 1 TB, Nvidia Geforce 1030, Monitor 24" LED   
+  
+##  Aulari B5
+
+![](https://api.fib.upc.edu/v2/laboratoris/imatges/b5.png?client_id=77qvbbQqni4TcEUsWvUCKOG1XU7Hr0EfIs4pacRz) |  Equipos  |  Características   
+---|---|---  
+[B5S101](es/la-fib/espacios/laboratorios-de-informatica/b5s101.md) |  22  |  Intel Core i5-10500 3.10 Ghz, 16 Gb RAM, SSD NVMe 1 TB, Nvidia Geforce 1030, Monitor 24" LED   
+[B5S201](es/la-fib/espacios/laboratorios-de-informatica/b5s201.md) |  23  |  Intel Core i5-10500 3.10 Ghz, 16 Gb RAM, SSD NVMe 1 TB, Nvidia Geforce 1030, Monitor 24" LED   
+[B5S202](es/la-fib/espacios/laboratorios-de-informatica/b5s202.md) |  22  |  Intel Core i5-10500 3.10 Ghz, 16 Gb RAM, SSD NVMe 1 TB, Nvidia Geforce 1030, Monitor 24" LED   
+  
+##  Aulari C6
+
+![](https://api.fib.upc.edu/v2/laboratoris/imatges/c6.png?client_id=77qvbbQqni4TcEUsWvUCKOG1XU7Hr0EfIs4pacRz) |  Equipos  |  Características   
+---|---|---  
+[C6S301](es/la-fib/espacios/laboratorios-de-informatica/c6s301.md) |  15  |  Intel Core i7-8700 3.20 GHz, 16Gb RAM, SSD NVMe 500 Gb, Nvidia GeForce 1030, Monitor 24" LED   
+[C6S302](es/la-fib/espacios/laboratorios-de-informatica/c6s302.md) |  29  |  Intel Core i7-6700 3.40 Ghz 16 Gb RAM Nvdia Geforce 730 2Gb RAM, HD 1 Tb, Monitor HP L1940T   
+[C6S303](es/la-fib/espacios/laboratorios-de-informatica/c6s303.md) |  26  |  Intel Core i5-10500 3.10 Ghz, 16 Gb RAM, SSD NVMe 1 TB, Nvidia Geforce 1030, Monitor 24" LED   
+[C6S306](es/la-fib/espacios/laboratorios-de-informatica/c6s306.md) |  21  |  Intel Core i7-8700 3.20 GHz, 16Gb RAM, SSD NVMe 500 Gb, Nvidia GeForce 1030, Monitor 24" LED   
+[C6S308](es/la-fib/espacios/laboratorios-de-informatica/c6s308.md) |  21  |  Intel Core i7-8700 3.20 GHz, 16Gb RAM, SSD NVMe 500 Gb, Nvidia GeForce 1030, Monitor 24" LED   
+[C6S309](es/la-fib/espacios/laboratorios-de-informatica/c6s309.md) |  21  |  Intel Core i5-3470 3.20 Ghz, 8 Gb RAM, Nvidia Geforce 210 1Gb, monitor HP Compaq LA 1951g 22'', DVD-RW   
+  
+## Normativa de los laboratorios
+
+  * No se puede fumar, comer o beber dentro de los laboratorios.
+  * No se puede sentar encima de las mesas.
+  * No se puede sacar las sillas del laboratorio.
+  * No se puede mover los equipos de sitio.
+  * No está permitido desenchufar la corriente eléctrica ni desconectar de la red los equipos.
+  * No se puede abandonar una sesión abierta en los equipos informáticos durante más de 15 minutos. Dado el caso, cualquier usuario puede cerrar la sesión y ocupar el terminal.
+
+![](/sites/fib/files/images/fib/espais/labs-normativa-fib.png)
 
 ## Dónde estamos
 
@@ -1109,5 +871,6 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/la-fib/espacios/laboratorios-de-
+informatica.md)
 

@@ -1,4 +1,4 @@
-[Pasar al contenido principal](es.md)
+[Pasar al contenido principal](es/la-fib/espacios/laboratorios-docentes.md)
 
   * [__](es/noticies/rss.rss.md)
   * [__](fib.upc.md)
@@ -7,9 +7,9 @@
   * [__](user/mediafib.md)
   * [__](fib.upc.md)
 
-  * [Català](ca.md)
-  * [English](en.md)
-  * [Español](es.md)
+  * [Català](ca/la-fib/espais/laboratoris-docents.md "Laboratoris docents")
+  * [English](en/fib/rooms/teaching-laboratories.md "Teaching laboratories")
+  * [Español](es/la-fib/espacios/laboratorios-docentes.md "Laboratorios docentes")
 
   * [__Contacto](es/contact.md)
   * [Racó](index.md)
@@ -386,7 +386,7 @@ __
       * [ Evaluación de las titulaciones ](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [ Datos estadísticos ](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-[ __](es.md)
+[ __](es/la-fib/espacios/laboratorios-docentes.md)
 
   * [Estudios](es/estudios.md)
     * [Grados](es/estudios/grados.md)
@@ -715,362 +715,192 @@ __
       * [Evaluación de las titulaciones](es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones.md)
       * [Datos estadísticos](es/la-fib/sistema-de-calidad/datos-estadisticos.md)
 
-  * ![](https://www.fib.upc.edu/sites/fib/files/puertas_abiertas_fib_2025_2000x500.jpg)
-  * ![](https://www.fib.upc.edu/sites/fib/files/viu-la-fib-2022-es.png)
-  * ![](https://www.fib.upc.edu/sites/fib/files/img_cn_slidemasters_fosc_br.png)
+# Laboratorios docentes
 
-Te estás planteando estudiar un máster  
-en el área de las Tecnologías de la Información?
+## Usted está aquí
 
-[web de los másteres de la FIB](index.md)
+[Inicio](es.md) » [La FIB](es/la-fib.md) » [Espacios](es/la-fib/espacios.md) »
+Laboratorios docentes
 
-[![](/sites/fib/files/images/w_portes_obertes_2025.jpg)](ca/secundaria/portes-
-obertes.md)
+  * [Laboratorios de informática](es/la-fib/espacios/laboratorios-de-informatica.md)
+  * [Laboratorios docentes](es/la-fib/espacios/laboratorios-docentes.md)
+  * [Aulas docentes](es/la-fib/espacios/aulas-docentes.md)
+  * [Espacios de trabajo en grupo](es/la-fib/espacios/espacios-de-trabajo-en-grupo.md)
+  * [Salas de presentaciones](es/la-fib/espacios/salas-de-presentaciones.md)
+  * [Biblioteca Rector Gabriel Ferraté](es/la-fib/espacios/biblioteca-rector-gabriel-ferrate.md)
 
-[**Puertas Abiertas FIB**](ca/secundaria/portes-obertes.md)
+  * [Departamento de AC](es/la-fib/espacios/laboratorios-docentes.md)
 
-Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
-abiertas. Las [inscripciones](ca/secundaria/portes-obertes.md) ya están
-abiertas!.
+  * [Departamento de ESAII](es/la-fib/espacios/laboratorios-docentes.md)
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](es/estudios/masteres.md)
+  * [Departamento de Física](es/la-fib/espacios/laboratorios-docentes.md)
 
-**[Sesión informativa: Másteres Oficiales](es/estudios/masteres.md)**
+  * [Aula de Tecnología del Máster en Formación del Profesorado de Educación Secundaria](es/la-fib/espacios/laboratorios-docentes.md)
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](es/estudios/masteres.md)!
+## Departamento de AC
 
-![](/sites/fib/files/images/eleccionsdega_destacada.jpg)
+El Departamento de AC cuenta con una serie de recursos que satisfacen las
+necesidades de laboratorios de las asignaturas que imparte la FIB. En concreto
+se trata de 2 laboratorios (D6-003 y D6-003bis) qie funcionan a modo de aula
+docente (se imparten clases de laboratorio).
 
-[**Convocatoria de elecciones a decano o decana de la
-FIB**](es/eleccionsdeganat2025.md)
+### Aulas docentes (D6-003 y D6-003bis)
 
-Consulta toda la información en lo referente a este proceso electoral.
+Estas dos aulas tienen 51 m² cada una. Ambas aulas disponen de 25 puestos de
+trabajo, proyector VGA fijo al techo y pantalla de proyección.
 
-## Noticias
+El aula D6-003 está equipada con PC con procesador Intel Dual Core 2 GHz, 2 GB
+de RAM, y discos duros internos de 250 GB. Monitor TFT color de 17" uno de los
+cuales es de 21", de uso para personas con deficiencias visuales.
 
-[![Seminari Computació
-Quàntica](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/seminari_fibalumni_alba_cervera_-
-_computacio_quantica.png?itok=3L7Yv2p5)](es/noticias/seminario-fib-alumni-
-computacion-quantica-cargo-de-alba-cervera.md "Seminario FIB Alumni:
-Computación Quántica, a cargo de Alba Cervera")
+El aula D6-003bis está equipada con PC con procesador Intel Core i5 3 Ghz, 4
+GB de RAM, y discos duros internos de 500 GB. Monitor TFT color de 19".
 
-### [Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera](es/noticias/seminario-fib-alumni-computacion-quantica-cargo-de-alba-
-cervera.md "Seminario FIB Alumni: Computación Quántica, a cargo de Alba
-Cervera")
+Equipamiento adicional:
 
-Computación quántica: retos y oportunides – Seminario con Alba Cervera  
-Martes, 11 de marzo, a las 17.00 h en la Sala de Actos Manuel Martí Recober
-(edificio B6)
+  * 50 licencias del programa LogicWorks 5.0 (se ha usado en prácticas de las asignaturas IC y AC).
+  * 4 racks para las prácticas de Redes con: 
+    * 24 routers CISCO 1841
+    * 16 commutadores CISCO Catalyst 2950
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus.md "El estudiantado de la UPC puede proponer y votar proyectos de
-mejora en los campus")
+Este equipamiento está montado en dos racks con ruedas (6 routers y 4
+commutadores en cada rack), para poder llevarlos fácilmente al laboratorio
+cuando se usan.
 
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus.md "El estudiantado de la UPC puede proponer
-y votar proyectos de mejora en los campus")
+  * Cables de red, 20 directos y 20 cruzados.
+  * Además, para las asignaturas de PAR, PAP, PACO, HPC y SCA, tenemos un clúster de 4 nodos Intel DUAL 6-core XEON E5645 con las siguientes características: 
+    * 2 procesadores Intel Xeon E5645 2,40 GHz de seis núcleos 5,86 GT/s QPI 12MB L3
+    * 24 GB memoria DDR3
+    * 2 discos duros de 2TB SATA
+    * 2 Tarjetas de red Intel Pro/1000 Gigabit Ethernet
 
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
+Este clúster esse encuentra al CPD del módulo D6.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+El mantenimento de todos estos laboratorios docentes se realiza en la [unidad
+TIC de la UTGCNTIC](ca/estructura/unitat-serveis-tic.md).
 
-### [Unite! Programa de Profesorado Visitante 2025](es/noticias/unite-
-programa-de-profesorado-visitante-2025.md "Unite! Programa de Profesorado
-Visitante 2025")
+### D6003
 
-TU Darmstadt invita a postdoctorales, profesores y catedráticos experimentados
-de las universidades socias de Unite! a postularse para las plazas de
-profesorado visitante financiadas
+### D6003bis
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_conferencia_nuria_castell_8m_2025_470_x_270_px.png?itok=OZAyRE8o)](es/noticias/celebramos-
-el-8-de-marzo-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+## Departamento de ESAII
 
-### [Celebramos el 8 de marzo en la FIB](es/noticias/celebramos-el-8-de-marzo-
-en-la-fib.md "Celebramos el 8 de marzo en la FIB")
+Los laboratorios docentes del Departamento de ESAII están organizados en tres
+espacios diferenciados:
 
-La FIB y el Barcelona-ACM-W chapter organizan la sesión: “Mayday! Mayday! La
-informática necesita mujeres”
+  * **Laboratorio de Diseño Electrónico e Informática Industrial** con equipamiento para el diseño hardware y software de prototipos y sistemas electrónicos, ubicado en el edificio C5-S202 del Campus Nord.
+  * **Laboratorio de Sistemas y Automática** , con prototipos de plantas, controladores industriales y herramientas de diseño asistido y simulación, ubicado en el edificio C5-S202 del Campus Nord.
+  * **Laboratorio docente de Tecnología Informática y Robótica** con equipamiento para el diseño hardware software de prototipos y herramientas de diseño asistido y simulación, ubicado en el edificio C5-S203 del Campus Nord.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/programa_oasi_web.jpeg.jpg?itok=ghSMlzGX)](es/noticias/programa-
-oasi-actividades-para-cuidar-tu-estado-emocional-2025.md "Programa OASI:
-actividades para cuidar tu estado emocional, 2025.")
+###  
+Laboratorio docente de Tecnología Informática e Informática Industrial
+(Edificio C5-S202)
 
-### [Programa OASI: actividades para cuidar tu estado emocional,
-2025.](es/noticias/programa-oasi-actividades-para-cuidar-tu-estado-
-emocional-2025.md "Programa OASI: actividades para cuidar tu estado emocional,
-2025.")
+12 puestos de trabajo dotados de:
 
-Programa OASI: Bienestar emocional y salud mental para la comunidad UPC, enero
-- mayo 2025.
+  * PC con procesador Intel Core i5 3 GHz, 8 Gb RAM y monitor HP LCD 19"
+  * Fuente de alimentación variable simétrica 30 V / 1 A, 15 V / 2 A.
+  * Fuente de alimentación triple 30 V, 2,5 A.
+  * Generador de funciones 0.2 Hz ÷ 3 MHz.
+  * Osciloscopio 2 canales digitales, 100 MHz.
+  * 1 Instalación (maqueta) simulando una fábrica controlada por PLC.
+  * 2 Autómatas programables con 6 entradas y 4 salidas digitales.
+  * 2 Módulos convertidores A / D de 16 entradas / salidas con conexión USB.
+  * 4 PC con procesador Intel Core 2 Duo E8500 03:16 GHz, 4 Gb RAM y monitor HP LA1951g LCD 19 ".
+  * Raspberry pino Modelo B y pantalla táctil tft.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/upc_unite_convocatoria_2025_per_noticia.png?itok=OG_5WPsu)](es/noticias/convocatoria-
-unite-seed-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+### Laboratorio docente de Tecnología Informática y Robótica (Edificio
+C5-S203)
 
-### [ Convocatoria Unite! Seed Fund 2025](es/noticias/convocatoria-unite-seed-
-fund-2025.md " Convocatoria Unite! Seed Fund 2025")
+12 Puntos de trabajo de dotados de:
 
-Dirigida a proyectos de estudiantes, docentes y personal investigador, la
-fecha tope para la presentación de propuestas es el 20 de marzo de 2025.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/masters-
-preregistration-2022_0.png?itok=Trguii4l)](es/noticias/preinscripcion-masters-
-oficiales-de-la-fib-curso-2025-2026.md "Preinscripción - Másters oficiales de
-la FIB, curso 2025-2026")
-
-### [Preinscripción - Másters oficiales de la FIB, curso
-2025-2026](es/noticias/preinscripcion-masters-oficiales-de-la-fib-
-curso-2025-2026.md "Preinscripción - Másters oficiales de la FIB, curso
-2025-2026")
-
-Desde el 24 de febrero hasta el 21 de mayo estará abierto el período de
-admisión a los másteres oficiales de la FIB.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/icforesize.png?itok=-uFuwHBe)](es/noticias/icfo-
-summer-fellows-2025.md "ICFO Summer Fellows 2025")
-
-### [ICFO Summer Fellows 2025](es/noticias/icfo-summer-fellows-2025.md "ICFO
-Summer Fellows 2025")
-
-El ICFO - Instituto de Ciencias Fotónicas ofrece becas de verano dirigidas a
-estudiantes interesados en participar en proyectos de investigación.
-
-[![Concurs IA
-UPC](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/primer_concurs_ia.png?itok=_HM9rVcx)](es/noticias/upc-
-ia-challenge-2025.md "UPC IA Challenge, 2025")
-
-### [UPC IA Challenge, 2025](es/noticias/upc-ia-challenge-2025.md "UPC IA
-Challenge, 2025")
-
-Primer Concurso UPC de IA
-
-[ __Consulta todas las noticias](es/noticias.md) [ __Propone una
-notícia](es/node/add/proposta-de-noticia.md)
-
-## Agenda
-
-Mar 11 Mar
-
-[Seminario FIB Alumni: Computación Quántica con Alba
-Cervera](es/agenda/seminario-fib-alumni-computacion-quantica-con-dalba-
-cervera.md)
-
-__17:00 - 18:30
-
-__Sala d'actes Manuel Martí Recober
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-1.md)
-
-__16:00 - 17:30
-
-Mié 12 Mar
-
-[Jornada de puertas abiertas del Grado en Ciencia e Ingeniería de
-Datos](es/agenda/jornada-de-puertas-abiertas-del-grado-en-ciencia-e-
-ingenieria-de-datos-6.md)
-
-__16:00 - 17:30
-
-__online
-
-[Consulta toda la agenda ](es/agenda.md)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md)
-
-__21 Feb 25 - 07 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](es/movilidad/outgoing/calendario-movilidad.md)
-
-## Pide cita previa
-
-* * *
-
-Si necesitas realizar algun trámite presencial tanto de grado, máster,
-prácticas en empresa, institucional o hablar con algun vicedegano, i/o jefe de
-estudios, etc.  
-Si has de venir presencialmente a la administración de la FIB, pide cita
-previa
-
-[Cita previa](ca/cita-previa.md)
-
-## Premios y reconocimientos
-
-![premi estudiant Anna
-Sallés](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna-
-selles-premiada-web_0.jpg?itok=JFAwiFjg)
-
-### [Anna Sallés, estudiante del MAI, galardonada en los Premios de Promoción
-de la Salud de la Xarxa US.Cat.](es/la-fib/la-facultad/premios-y-
-reconocimientos/anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-
-promocion-de-la-salud-de-la-xarxa-uscat.md "Anna Sallés, estudiante del MAI,
-galardonada en los Premios de Promoción de la Salud de la Xarxa US.Cat.")
-
-__16 Dec 24
-
-![Carme Torras Creu de Sant
-Jordi](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/carme_torras_genis_news.jpg?itok=vdPW3irK)
-
-### [Carme Torras, Creu de Sant Jordi 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/carme-torras-creu-de-sant-jordi-2024.md "Carme Torras, Creu de
-Sant Jordi 2024")
-
-__09 Dec 24
-
-![Acte reconeixement professor David López
-](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/reconeixement_david_lopez_webfib.png?itok=GhHUsdRl)
-
-### [Comparte Acto de reconocimiento al profesor David López Álvarez](es/la-
-fib/la-facultad/premios-y-reconocimientos/comparte-acto-de-reconocimiento-al-
-profesor-david-lopez-alvarez.md "Comparte Acto de reconocimiento al profesor
-David López Álvarez")
-
-__22 Nov 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/david_lopez_premios_informatica_scie_bbva_news.jpg?itok=rqKNqlG7)
-
-### [ David López Álvarez, galardonado a los Premios de Investigación de la
-SCIE y la Fundación BBVA 2024](es/la-fib/la-facultad/premios-y-
-reconocimientos/david-lopez-alvarez-galardonado-los-premios-de-investigacion-
-de-la-scie-y-la-fundacion-bbva-2024.md " David López Álvarez, galardonado a
-los Premios de Investigación de la SCIE y la Fundación BBVA 2024")
-
-__24 Oct 24
-
-![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portadadonatic_1.jpg?itok=iasqTEIW)
-
-### [Dos estudiantes de la FIB galardonadas en los 'Premios DonaTIC'
-2024](es/la-fib/la-facultad/premios-y-reconocimientos/dos-estudiantes-de-la-
-fib-galardonadas-en-los-premios-donatic-2024.md "Dos estudiantes de la FIB
-galardonadas en los 'Premios DonaTIC' 2024")
-
-__14 Oct 24
-
-[Consulta todos los premios ](es/la-fib/la-facultad/premios-y-
-reconocimientos.md)
-
-## Haz un recorrido por la historia de la informática
-
-* * *
-
-La colección de la Facultat d'Informàtica recoge y presenta la historia de la
-informática y de los instrumentos de cálculo más utilizados a lo largo de la
-historia.
-
-[Conoce el "Museo" de la FIB](es/museo.md)
-
-[![Banner de Servei d'Assessorament Psicològic per a
-l'estudiantat](https://www.fib.upc.edu/sites/fib/files/banner_assessorament_psicologic_2019.png)](ca/ca/serveis/atencio-
-psicologica.md)
-
-[![Prevenció de riscos laborals
-PDI](https://www.fib.upc.edu/sites/fib/files/banner-prl-
-pdi.png)](prevencio/ca/prl-pdi.md)
-
-[![Prevenció de riscos laborals
-PAS](https://www.fib.upc.edu/sites/fib/files/banner_prevencio-riscos-laborals-
-pas.png)](prevencio/ca/prl-pas.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_upcarts_2019.jpg)](upcarts.md)
-
-[![Baner SOC programa
-d'orientació](https://www.fib.upc.edu/sites/fib/files/bxh_2018_upc_alumni_millor_feina.png)](ca/carreres-
-professionals.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2017_inclusio_320px.png)](ca.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/benestar_psicologicv2.png)](ca/serveis/atencio-
-psicologica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/bxh_2018_tercera_llengua_color.png)](slt/ca/certifica.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/b265x60_igualtat_genere_2017.png)](ca.md)
-
-[![Banner Campanya UPC
-0,7%](https://www.fib.upc.edu/sites/fib/files/baner_07.png)](ccd/ca/participa/campanya-07-si.md)
-
-[![inlab FIB
-logo](https://www.fib.upc.edu/sites/fib/files/banner_inlab.jpg)](index.md)
-
-[![](https://www.fib.upc.edu/sites/fib/files/banner_fibalumni_noulogo_0.png)](index.md)
-
-[![Delegació Estudiants de la
-FIB](https://www.fib.upc.edu/sites/fib/files/banner_defib.jpg)](index.md)
-
-## Acreditaciones de calidad
-
-### Sellos AQU
-
-**GEI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gei-excelent-es.png)
-
-**GCED**
-
-![](/sites/fib/files/segell-qualitat-gced-excellent-en.png)
-
-**GIA**
-
-![](/sites/fib/files/images/fib/segell-qualitat-gia-verificat-es.png)
-
-**MEI**
-
-**![](/sites/fib/files/images/fib/segell-qualitat-mei-excellent-es.png)**
-
-**MIRI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-miri-excelent-es.png)
-
-**MAI**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mai-excelent-es.png)
-
-**MFPS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mfps-favorable-es.png)
-
-**MDS**
-
-![](/sites/fib/files/images/fib/segell-qualitat-mds-verificat-es.png)
-
-### Sellos Euro-inf
-
-**GEI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-bachelor.png)
-
-**MEI y MIRI**
-
-![](/sites/fib/files/images/fib/fib-euro-inf-master.png)
-
-## La FIB es miembro de
-
-[![logo informatics europe](/sites/fib/files/images/logo-informatics-europe-
-fib.gif)](index.md)
-
-[![logo bioinformatics](/sites/fib/files/images/logo-bioinformatics-
-fib.gif)](index.md)
-
-[![logo coddii](/sites/fib/files/images/logo-coddii-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-cluster-fib.gif)](index.md)
-
-[![](/sites/fib/files/images/logo-iec-stc_red.gif)](sct.md)
+  * PC con procesador Intel Core i5 3 GHz, 8 Gb RAM y monitor HP LCD 19"
+  * 1 Fuente de alimentación variable 30 V / 1 A.
+  * 1 Fuente de alimentación fija ± 12 V, 5V / 1 A.
+  * 1 Generador de funciones 0.1 Hz ÷ 1 MHz.
+  * 20 Equipos LEGO Robotics Mindstorm NXT.
+  * Diferentes sensores para conectar a Lego Robotics Mindstorm NTX (brújulas, giroscopios, ultrasonidos, etc).
+  * Nuevos robots Lego EV3 de última generación.
+  * 5 robots Neato robótics gobernados cada uno por 5 raspberry pi Modelo B.
+
+**Material adicional:**
+
+  * 24 Pistolas de código de barras, CCD.
+  * 20 Placas de desarrollo para microcontroladores: Marca: Mikroelectronika, modelo EasyPic 6.
+  * 20 Placas de desarrollo para microcontroladores Marca: Microchip, modelo PIC18F46J50 FS USB Demo Board.
+  * 12 Placas de desarrollo TMS320C5515 eZdsp ™ USB Stick Development Tool.
+  * 12 Micrófonos para hacer pruebas de audio con la placa de desarrollo TMS320C5515 de Spectrum Digital Incorporated
+  * 1 Programador universal de PLDs LabTool-48.
+  * 5 Multímetros digitales portátiles.
+  * 2 Analizadores lógicos de 25 MHz, 32 entradas.
+  * Material auxiliar (soldadores, cables, sondas, alimentadores, etc.).
+
+### C5S202
+
+### C5S203
+
+## Departamento de Física
+
+El laboratorio docente del Departamento de FIS, situado en el sótano 1 del
+edificio A1 del Campus Nord, está compartido con las escuelas de
+Telecomunicaciones y Caminos. La superficie destinada a la FIB es de 86 m2. En
+este espacio propio hay dos mesas, y se pueden introducir 22 parejas de
+estudiantes. Actualmente, sin embargo, hay equipamiento para dar servicio a,
+como máximo, 16 parejas.  
+  
+Para el mantenimiento de los laboratorios compartidos se cuenta con un técnico
+especialista asignado íntegramente al Departamento de FIS. Sin embargo, el
+departamento dispone de espacios para la corrección de prácticas de ordenador
+en la segunda planta del edificio B4-B5.  
+  
+Para la realización de las prácticas se dispone del siguiente material
+(agrupado según las asignaturas en las que se utiliza):
+
+### Física (F)
+
+  * Osciloscopios: 5 HM-400, 12 HM303-6 (Hameg) y 2 Promax OD-514B.
+  * Generadores de funciones: 22 GF-232 (Promax).
+  * Fuentes de alimentación: 34 del modelo EP-613A (Blausonic) y Promax 363B.
+  * Sistemas de montaje de circuitos para electrotecnia y electrónica STE de Leybold.
+  * 12 Multímetros del modelo MX556 (Metrix) y 32 del modelo MD-200 (Promax)
+  * 22 Raspberry Pi model 3B+ para soporte a la docencia.
+  * Proyector Mitsubishi XD280U.
+  * 20 punteros láser MP1800.
+  * 19 soportes pie plato con varilla, 39 nuevos dobles y 39 pinzas para buretas y tubos (Selecta).
+
+También, se dispone de material auxiliar (cables, conexiones, emisores y
+receptores de ultrasonidos, etc.), buena parte del cual ha sido elaborado
+específicamente para las prácticas que se realizan (bobinas, sondas Hall,
+diodos, etc.) .
+
+### Física Orientada a la Modelización y la Animación Realista (FOMAR)
+
+Se dispone de un brazo robótico que permite realizar prácticas de la
+asignatura. Se trata de un manipulador de 5 grados de libertad, de la serie
+"Lynxmotion", controlado a través del puerto serie de un ordenador PC
+compatible.
+
+Finalmente, para la corrección de las prácticas de ordenador de las diferentes
+asignaturas, se dispone de dos ordenadores.
+
+## Aula de Tecnología del edificio A3
+
+### Aula tecnología del Máster en Formación del Profesorado de Educación
+Secundaria (A3-204)
+
+  * 11 PC HP 8200 MT con procesador Intel Core i5 3 Ghz, 8 GB de RAM, disco duro 500 GB y monitor de 19" LCD.
+  * PCs con sistema operativo Windows 7 y Linux OpenSUSE 42.3.
+  * Fuente de alimentación variable 30V / 1A.
+  * 1 proyector de vídeo y altavoz.
+
+A parte, el aula tiene una zona taller donde podemos encontrar herramientas de
+modelización, como martillos, sierras de calar, ánguloss, alicates, tijeras,
+limas, destornillador, metros, clavos de diversos tamaños, un pequeño torno
+manual, etc…
+
+También consta de varios kits de formación específica para mecatrónica,
+electrónica, módulos PLC, sistemas eléctricos y varias herramientas y
+vestimenta necesarias para poder realizar las pràcticas con éxito y seguridad.
 
 ## Dónde estamos
 
@@ -1109,5 +939,5 @@ Leave this field blank
 
 © Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
 [Avíso legal sobre esta web](es/aviso-legal-sobre-esta-web.md) \-
-[Configuración de privacidad](es.md)
+[Configuración de privacidad](es/la-fib/espacios/laboratorios-docentes.md)
 
